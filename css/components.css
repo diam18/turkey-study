@@ -1,0 +1,551 @@
+/**
+ * Anatolia Academic - Interactive Components, Citations & Modals
+ * Enhanced with Turkish motif styling, Seljuk star indicators, and rich visual apparatus.
+ */
+
+/* Inline Citation Tags */
+.citation-group {
+  display: inline-flex;
+  gap: 0.35rem;
+  vertical-align: baseline;
+  white-space: nowrap;
+}
+
+.cite-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  background-color: var(--primary-light);
+  color: var(--primary);
+  border: 1px solid rgba(2, 132, 199, 0.3);
+  border-radius: var(--radius-sm);
+  padding: 0.05rem 0.45rem;
+  font-size: 0.76rem;
+  font-family: var(--font-sans);
+  font-weight: 600;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.15s ease;
+  line-height: 1.4;
+}
+
+.cite-tag:hover {
+  background-color: var(--primary);
+  color: #ffffff;
+  border-color: var(--primary);
+  box-shadow: 0 1px 4px rgba(2, 132, 199, 0.35);
+}
+
+.icon-inline {
+  stroke-width: 2.2;
+}
+
+/* Modal Backdrop & Dialog */
+.modal-backdrop {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(9, 19, 34, 0.75);
+  backdrop-filter: blur(5px);
+  z-index: 1000;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+  animation: fadeIn 0.15s ease-out;
+}
+
+.modal-backdrop.active {
+  display: flex;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.modal-dialog {
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-medium);
+  border-top: 4px solid var(--turkish-red);
+  border-radius: var(--radius-lg);
+  width: 100%;
+  max-width: 660px;
+  max-height: 90vh;
+  overflow-y: auto;
+  box-shadow: var(--shadow-lg);
+  position: relative;
+  animation: slideUp 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes slideUp {
+  from { transform: translateY(20px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+.modal-close-btn {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.25rem;
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  padding: 0.3rem;
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal-close-btn:hover {
+  background-color: var(--bg-canvas);
+  color: var(--text-primary);
+}
+
+.modal-content-inner {
+  padding: 2.25rem;
+}
+
+/* Modal Citation Content */
+.modal-citation-header {
+  margin-bottom: 1.5rem;
+  padding-right: 2rem;
+}
+
+.citation-type-badge {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-family: var(--font-mono);
+  font-weight: 700;
+  background-color: var(--turkish-red-light);
+  color: var(--turkish-red-dark);
+  border: 1px solid rgba(193, 39, 45, 0.2);
+  padding: 0.15rem 0.55rem;
+  border-radius: var(--radius-sm);
+  margin-bottom: 0.6rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.modal-citation-title {
+  font-family: var(--font-serif);
+  font-size: 1.35rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+}
+
+.modal-citation-author, .modal-citation-pub {
+  font-size: 0.88rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+
+/* Citation Format Tabs */
+.citation-tabs-nav {
+  display: flex;
+  gap: 0.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+  margin-bottom: 1rem;
+}
+
+.cite-tab-btn {
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  padding: 0.5rem 0.85rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.cite-tab-btn:hover {
+  color: var(--text-primary);
+}
+
+.cite-tab-btn.active {
+  color: var(--turkish-red);
+  border-bottom-color: var(--turkish-red);
+}
+
+.citation-format-display {
+  background-color: var(--bg-canvas);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  padding: 1rem 1.25rem;
+  font-size: 0.88rem;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+  max-height: 240px;
+  overflow-y: auto;
+}
+
+.cite-format-content {
+  display: none;
+}
+
+.cite-format-content.active {
+  display: block;
+}
+
+.cite-format-content pre {
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  white-space: pre-wrap;
+  word-break: break-all;
+}
+
+.citation-actions {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+/* General Buttons */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius-md);
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.15s ease;
+  border: 1px solid transparent;
+}
+
+.btn-primary {
+  background-color: var(--turkish-red);
+  color: #ffffff;
+}
+
+.btn-primary:hover {
+  background-color: var(--turkish-red-dark);
+}
+
+.btn-secondary {
+  background-color: var(--bg-surface);
+  border-color: var(--border-medium);
+  color: var(--text-primary);
+}
+
+.btn-secondary:hover {
+  background-color: var(--bg-canvas);
+  border-color: var(--seljuk-gold);
+}
+
+.btn-xs {
+  padding: 0.28rem 0.6rem;
+  font-size: 0.75rem;
+}
+
+/* Global Search Dropdown */
+.search-results-dropdown {
+  display: none;
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  width: 100%;
+  max-height: 480px;
+  overflow-y: auto;
+  background-color: var(--bg-surface);
+  border: 1px solid var(--seljuk-gold);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-lg);
+  z-index: 200;
+  padding: 0.5rem 0;
+}
+
+.search-results-dropdown.active {
+  display: block;
+}
+
+.search-result-item {
+  display: block;
+  padding: 0.75rem 1.15rem;
+  text-decoration: none;
+  border-bottom: 1px solid var(--border-subtle);
+  transition: background-color 0.12s ease;
+}
+
+.search-result-item:last-child {
+  border-bottom: none;
+}
+
+.search-result-item:hover {
+  background-color: var(--bg-canvas);
+}
+
+.search-res-top {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.2rem;
+  font-size: 0.72rem;
+  font-family: var(--font-mono);
+}
+
+.search-res-type {
+  color: var(--turkish-red);
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.search-res-mod {
+  color: var(--text-muted);
+}
+
+.search-res-heading {
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 0.25rem;
+}
+
+.search-res-snippet {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  line-height: 1.45;
+}
+
+.search-no-results {
+  padding: 1.5rem;
+  text-align: center;
+  font-size: 0.88rem;
+  color: var(--text-muted);
+}
+
+/* Chapter Works Cited / Bibliography Section */
+.module-bibliography {
+  margin-top: 4.5rem;
+  padding-top: 2rem;
+  border-top: 2px solid var(--border-medium);
+  position: relative;
+}
+
+.module-bibliography::before {
+  content: "✦ ✦ ✦";
+  position: absolute;
+  top: -12px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: var(--bg-body);
+  padding: 0 1rem;
+  color: var(--seljuk-gold);
+  font-size: 0.85rem;
+  letter-spacing: 0.2em;
+}
+
+.bibliography-header {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  margin-bottom: 1.75rem;
+}
+
+.bibliography-header h3 {
+  font-family: var(--font-serif);
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.biblio-count {
+  font-size: 0.75rem;
+  font-family: var(--font-mono);
+  background-color: var(--bg-canvas);
+  border: 1px solid var(--border-subtle);
+  padding: 0.2rem 0.55rem;
+  border-radius: var(--radius-sm);
+  color: var(--text-muted);
+}
+
+.bibliography-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+}
+
+.biblio-entry {
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  padding: 1rem 1.35rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  transition: all 0.15s ease;
+}
+
+.biblio-entry:hover {
+  border-color: var(--seljuk-gold);
+  box-shadow: var(--shadow-sm);
+}
+
+.biblio-badge {
+  align-self: flex-start;
+  font-size: 0.68rem;
+  font-family: var(--font-mono);
+  font-weight: 700;
+  background-color: var(--bg-canvas);
+  color: var(--text-muted);
+  padding: 0.15rem 0.45rem;
+  border-radius: var(--radius-sm);
+  text-transform: uppercase;
+  border: 1px solid var(--border-subtle);
+}
+
+.biblio-meta {
+  font-size: 0.92rem;
+  line-height: 1.6;
+  color: var(--text-primary);
+}
+
+.biblio-tools {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  margin-top: 0.25rem;
+}
+
+.biblio-link {
+  font-size: 0.82rem;
+  color: var(--primary);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.biblio-link:hover {
+  text-decoration: underline;
+  color: var(--primary-hover);
+}
+
+/* Chapter Pagination */
+.chapter-pagination {
+  margin-top: 3.5rem;
+  padding-top: 1.75rem;
+  border-top: 1px solid var(--border-subtle);
+  display: flex;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+
+.chapter-nav-btn {
+  flex: 1;
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  padding: 1.15rem 1.35rem;
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  transition: all 0.15s ease;
+}
+
+.chapter-nav-btn:hover {
+  border-color: var(--seljuk-gold);
+  box-shadow: var(--shadow-sm);
+}
+
+.chapter-nav-btn.next {
+  text-align: right;
+  align-items: flex-end;
+}
+
+.nav-direction {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--turkish-red);
+  margin-bottom: 0.25rem;
+}
+
+.nav-target-name {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+/* Master Bibliography Grid */
+.master-biblio-filter-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.search-box-wrap {
+  flex: 1;
+  min-width: 280px;
+}
+
+.master-biblio-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+  gap: 1.35rem;
+}
+
+.biblio-card {
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-top: 3px solid var(--seljuk-gold);
+  border-radius: var(--radius-md);
+  padding: 1.35rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: var(--shadow-sm);
+  transition: all 0.15s ease;
+}
+
+.biblio-card:hover {
+  box-shadow: var(--shadow-md);
+  border-color: var(--seljuk-gold);
+}
+
+.card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.6rem;
+}
+
+.citation-year {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--text-muted);
+}
+
+.biblio-card-title {
+  font-family: var(--font-serif);
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+  line-height: 1.35;
+}
+
+.biblio-card-author, .biblio-card-pub {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.25rem;
+}
+
+.biblio-card-footer {
+  margin-top: 1.15rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
