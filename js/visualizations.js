@@ -758,6 +758,272 @@ const Visualizations = {
     `;
   },
 
+  // Render History Module Custom SVG 1: Ottoman Territorial Arc & Lausanne Borders
+  renderHistoryTerritorialScheme() {
+    const lang = this.getLang();
+    const copy = {
+      en: {
+        title: "Territorial & Sovereign Arc: Ottoman Empire to Republic of Turkey (1300–1923)",
+        sub: "Comparative geopolitical scale across six pivotal historical thresholds (Sources: İnalcık [INALCIK-1973], Zürcher [ZURCHER-2017], Lausanne [LAUSANNE-1923])",
+        s1: "1300: Bithynian Beylik (~5,000 km²)",
+        s2: "1453: Mehmed II (~880,000 km²)",
+        s3: "1566–1683: Imperial Zenith (~5.2M km²)",
+        s4: "1914: Late Ottoman (~1.8M km²)",
+        s5: "1920: Sèvres Partition (Nullified)",
+        s6: "1923: Lausanne Republic (783,562 km²)"
+      },
+      tr: {
+        title: "Toprak ve Egemenlik Seyri: Osmanlı Beyliği'nden Türkiye Cumhuriyeti'ne (1300–1923)",
+        sub: "Altı temel tarihsel eşikte karşılaştırmalı jeopolitik ölçek (Kaynaklar: İnalcık [INALCIK-1973], Zürcher [ZURCHER-2017], Lozan [LAUSANNE-1923])",
+        s1: "1300: Bitinya Beyliği (~5.000 km²)",
+        s2: "1453: Fatih Dönemi (~880.000 km²)",
+        s3: "1566–1683: İmparatorluk Zirvesi (~5,2M km²)",
+        s4: "1914: Geç Osmanlı (~1,8M km²)",
+        s5: "1920: Sevr Paylaşımı (Geçersiz)",
+        s6: "1923: Lozan Cumhuriyeti (783.562 km²)"
+      },
+      ru: {
+        title: "Территориальная динамика: от Османского бейлика к Республике (1300–1923)",
+        sub: "Сравнительный геополитический масштаб на шести исторических рубежах (Источники: Иналджик [INALCIK-1973], Зюрхер [ZURCHER-2017], Лозанна [LAUSANNE-1923])",
+        s1: "1300: Вифинский бейлик (~5 тыс. км²)",
+        s2: "1453: Мехмед II (~880 тыс. км²)",
+        s3: "1566–1683: Пик империи (~5,2 млн км²)",
+        s4: "1914: Поздняя империя (~1,8 млн км²)",
+        s5: "1920: Севрский раздел (отменён)",
+        s6: "1923: Республика по Лозанне (783 562 км²)"
+      }
+    }[lang] || {
+      title: "Territorial & Sovereign Arc: Ottoman Empire to Republic of Turkey (1300–1923)",
+      sub: "Comparative geopolitical scale across six pivotal historical thresholds",
+      s1: "1300: Bithynian Beylik (~5,000 km²)",
+      s2: "1453: Mehmed II (~880,000 km²)",
+      s3: "1566–1683: Imperial Zenith (~5.2M km²)",
+      s4: "1914: Late Ottoman (~1.8M km²)",
+      s5: "1920: Sèvres Partition (Nullified)",
+      s6: "1923: Lausanne Republic (783,562 km²)"
+    };
+
+    return `
+      <div class="infographic-card">
+        <div class="infographic-header">
+          <div class="infographic-icon">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"></polygon><line x1="8" y1="2" x2="8" y2="18"></line><line x1="16" y1="6" x2="16" y2="22"></line></svg>
+          </div>
+          <div>
+            <h4 class="infographic-title">${copy.title}</h4>
+            <p class="infographic-sub">${copy.sub}</p>
+          </div>
+        </div>
+        <div class="svg-responsive-wrap" style="overflow-x:auto; padding: 0.5rem 0;">
+          <svg viewBox="0 0 860 270" width="100%" height="auto" role="img" aria-label="${copy.title}" style="max-height:290px;">
+            <rect x="0" y="0" width="860" height="270" rx="10" fill="rgba(10,54,99,0.03)" />
+            <!-- Baseline axis -->
+            <line x1="40" y1="210" x2="820" y2="210" stroke="#94a3b8" stroke-width="2" />
+            <!-- Bars representing relative territorial scale -->
+            <rect x="65" y="198" width="85" height="12" rx="3" fill="#c5a059" />
+            <text x="107" y="190" text-anchor="middle" font-size="11" font-weight="700" fill="#0a3663">1300</text>
+            <text x="107" y="232" text-anchor="middle" font-size="10" fill="#475569">${copy.s1.split(':')[1] || ''}</text>
+
+            <rect x="195" y="165" width="85" height="45" rx="3" fill="#0284c7" />
+            <text x="237" y="157" text-anchor="middle" font-size="11" font-weight="700" fill="#0a3663">1453</text>
+            <text x="237" y="232" text-anchor="middle" font-size="10" fill="#475569">${copy.s2.split(':')[1] || ''}</text>
+
+            <rect x="325" y="45" width="85" height="165" rx="4" fill="#c1272d" />
+            <text x="367" y="36" text-anchor="middle" font-size="12" font-weight="700" fill="#c1272d">1566–1683</text>
+            <text x="367" y="232" text-anchor="middle" font-size="10" fill="#475569">${copy.s3.split(':')[1] || ''}</text>
+
+            <rect x="455" y="135" width="85" height="75" rx="3" fill="#0a3663" />
+            <text x="497" y="127" text-anchor="middle" font-size="11" font-weight="700" fill="#0a3663">1914</text>
+            <text x="497" y="232" text-anchor="middle" font-size="10" fill="#475569">${copy.s4.split(':')[1] || ''}</text>
+
+            <rect x="585" y="190" width="85" height="20" rx="3" fill="#94a3b8" stroke="#c1272d" stroke-dasharray="4 2" stroke-width="1.5" />
+            <text x="627" y="182" text-anchor="middle" font-size="11" font-weight="700" fill="#64748b">1920</text>
+            <text x="627" y="232" text-anchor="middle" font-size="10" fill="#64748b">${copy.s5.split(':')[1] || ''}</text>
+
+            <rect x="715" y="168" width="85" height="42" rx="3" fill="#059669" />
+            <text x="757" y="160" text-anchor="middle" font-size="11" font-weight="700" fill="#059669">1923–2026</text>
+            <text x="757" y="232" text-anchor="middle" font-size="10" fill="#065f46">${copy.s6.split(':')[1] || ''}</text>
+          </svg>
+        </div>
+      </div>
+    `;
+  },
+
+  // Render History Module Custom SVG 2: Classical Ottoman Social & State Pyramid
+  renderOttomanSocialPyramid() {
+    const lang = this.getLang();
+    const copy = {
+      en: {
+        title: "Classical Ottoman State & Millet Social Architecture (15th–16th Centuries)",
+        sub: "Dual stratification between the tax-exempt Askeri ruling elite and tax-paying Reaya / autonomous Millets [INALCIK-1973, KARPAT-2001]",
+        tier1: "SULTAN & CALIPH (Padishah — Absolute Sovereign)",
+        tier2: "DIVAN-I HÜMAYUN (Grand Vizier & Imperial Council)",
+        tier3a: "SEYFIYE (Military / Timar)",
+        tier3b: "ILMIYE (Sharia & Madrasa)",
+        tier3c: "KALEMIYE (Treasury / Chancery)",
+        tier4: "REAYA & MILLETS (Muslim Peasantry/Artisans + Orthodox Rûm, Armenian & Jewish Millets)"
+      },
+      tr: {
+        title: "Klasik Osmanlı Devlet ve Millet Toplumsal Mimarisi (15.–16. Yüzyıllar)",
+        sub: "Vergiden muaf Askerî yönetici sınıf ile vergi ödeyen Reaya ve özerk Milletler arasındaki ikili yapı [INALCIK-1973, KARPAT-2001]",
+        tier1: "PADİŞAH VE HALİFE (Mutlak Egemen)",
+        tier2: "DİVAN-I HÜMÂYUN (Sadrazam ve Vezirler)",
+        tier3a: "SEYFİYE (Askerî / Tımar)",
+        tier3b: "İLMİYE (Yargı / Medrese)",
+        tier3c: "KALEMİYE (Maliye / Bürokrası)",
+        tier4: "REAYA VE MİLLETLER (Müslüman Köylü/Esnaf + Rum, Ermeni ve Yahudi Milletleri)"
+      },
+      ru: {
+        title: "Классическая османская государственная и сословная пирамида (XV–XVI вв.)",
+        sub: "Разделение между освобождённым от налогов сословием Аскери и податным сословием Райя / Миллетами [INALCIK-1973, KARPAT-2001]",
+        tier1: "СУЛТАН И ХАЛИФ (Падишах — Верховный суверен)",
+        tier2: "ДИВАН-И ХУМАЮН (Великий визирь и Совет)",
+        tier3a: "СЕЙФИЕ (Армия / Тимар)",
+        tier3b: "ИЛЬМИЕ (Суд / Медресе)",
+        tier3c: "КАЛЕМИЕ (Казна / Канцелярия)",
+        tier4: "РАЙЯ И МИЛЛЕТЫ (Мусульманские земледельцы/ремесленники + Румский, Армянский и Иудейский миллеты)"
+      }
+    }[lang] || {
+      title: "Classical Ottoman State & Millet Social Architecture (15th–16th Centuries)",
+      sub: "Dual stratification between the tax-exempt Askeri ruling elite and tax-paying Reaya / autonomous Millets",
+      tier1: "SULTAN & CALIPH",
+      tier2: "DIVAN-I HÜMAYUN",
+      tier3a: "SEYFIYE",
+      tier3b: "ILMIYE",
+      tier3c: "KALEMIYE",
+      tier4: "REAYA & AUTONOMOUS MILLETS"
+    };
+
+    return `
+      <div class="infographic-card">
+        <div class="infographic-header">
+          <div class="infographic-icon">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L2 22h20L12 2z"></path></svg>
+          </div>
+          <div>
+            <h4 class="infographic-title">${copy.title}</h4>
+            <p class="infographic-sub">${copy.sub}</p>
+          </div>
+        </div>
+        <div class="svg-responsive-wrap" style="overflow-x:auto; padding: 0.5rem 0;">
+          <svg viewBox="0 0 860 260" width="100%" height="auto" role="img" aria-label="${copy.title}" style="max-height:270px;">
+            <rect x="260" y="14" width="340" height="42" rx="6" fill="#c1272d" />
+            <text x="430" y="40" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">${copy.tier1}</text>
+
+            <rect x="190" y="68" width="480" height="42" rx="6" fill="#0a3663" />
+            <text x="430" y="94" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">${copy.tier2}</text>
+
+            <rect x="100" y="124" width="210" height="48" rx="6" fill="#0284c7" />
+            <text x="205" y="153" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">${copy.tier3a}</text>
+
+            <rect x="325" y="124" width="210" height="48" rx="6" fill="#c5a059" />
+            <text x="430" y="153" text-anchor="middle" font-size="12" font-weight="700" fill="#1e293b">${copy.tier3b}</text>
+
+            <rect x="550" y="124" width="210" height="48" rx="6" fill="#0284c7" />
+            <text x="655" y="153" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">${copy.tier3c}</text>
+
+            <rect x="40" y="188" width="780" height="54" rx="6" fill="rgba(10,54,99,0.08)" stroke="#0a3663" stroke-width="1.5" />
+            <text x="430" y="220" text-anchor="middle" font-size="12" font-weight="600" fill="#0a3663">${copy.tier4}</text>
+          </svg>
+        </div>
+      </div>
+    `;
+  },
+
+  // Render History Module Custom SVG 3: Modern Republic Strategic & Institutional Pivot Scheme
+  renderRepublicanPivotScheme() {
+    const lang = this.getLang();
+    const copy = {
+      en: {
+        title: "Modern Republic Institutional & Geopolitical Arc (1923–2026)",
+        sub: "Three-stage structural evolution from Kemalist nation-building to Cold War NATO anchoring and 21st-century multi-vector statecraft [AHMAD-1993, FINDLEY-2010]",
+        e1: "ERA I (1923–1946)",
+        e1b: "Kemalist Republic & Etatism",
+        e1c: "Lausanne • Six Arrows • Montreux",
+        e2: "ERA II (1946–1991)",
+        e2b: "Multi-Party & Cold War",
+        e2c: "NATO (1952) • 1961/82 Const. • Özal",
+        e3: "ERA III (1991–2026)",
+        e3b: "Multi-Vector & Exec. Presidency",
+        e3c: "EU Customs Union • 2017 System • >80% Defense"
+      },
+      tr: {
+        title: "Modern Cumhuriyetin Kurumsal ve Jeopolitik Dönüşüm Şeması (1923–2026)",
+        sub: "Kemalist ulus-devlet inşasından Soğuk Savaş NATO üyeliğine ve 21. yüzyıl çok eksenli dış politikasına üç aşamalı evrim [AHMAD-1993, FINDLEY-2010]",
+        e1: "I. DÖNEM (1923–1946)",
+        e1b: "Kemalist Cumhuriyet ve Devletçilik",
+        e1c: "Lozan • Altı Ok • Montrö",
+        e2: "II. DÖNEM (1946–1991)",
+        e2b: "Çok Partili Hayat ve Soğuk Savaş",
+        e2c: "NATO (1952) • 1961/82 Anay. • Özal",
+        e3: "III. DÖNEM (1991–2026)",
+        e3b: "Çok Yönlü Güç ve Başkanlık",
+        e3c: "AB Gümrük Birliği • 2017 Sistemi • >%80 Savunma"
+      },
+      ru: {
+        title: "Институциональная и геополитическая дуга Республики (1923–2026)",
+        sub: "Трёхэтапная эволюция: от кемалистского этатизма к оплоту НАТО и многовекторной дипломатии XXI века [AHMAD-1993, FINDLEY-2010]",
+        e1: "ЭТАП I (1923–1946)",
+        e1b: "Кемализм и этатизм",
+        e1c: "Лозанна • Шесть стрел • Монтрё",
+        e2: "ЭТАП II (1946–1991)",
+        e2b: "Многопартийность и НАТО",
+        e2c: "НАТО (1952) • Конст. 1961/82 • Озал",
+        e3: "ЭТАП III (1991–2026)",
+        e3b: "Многовекторность и Президентство",
+        e3c: "Тамож. союз ЕС • Система 2017 • >80% ВПК"
+      }
+    }[lang] || {
+      title: "Modern Republic Institutional & Geopolitical Arc (1923–2026)",
+      sub: "Three-stage structural evolution",
+      e1: "ERA I (1923–1946)",
+      e1b: "Kemalist Republic & Etatism",
+      e1c: "Lausanne • Six Arrows • Montreux",
+      e2: "ERA II (1946–1991)",
+      e2b: "Multi-Party & Cold War",
+      e2c: "NATO (1952) • 1961/82 Const. • Özal",
+      e3: "ERA III (1991–2026)",
+      e3b: "Multi-Vector & Exec. Presidency",
+      e3c: "EU Customs Union • 2017 System • >80% Defense"
+    };
+
+    return `
+      <div class="infographic-card">
+        <div class="infographic-header">
+          <div class="infographic-icon">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline></svg>
+          </div>
+          <div>
+            <h4 class="infographic-title">${copy.title}</h4>
+            <p class="infographic-sub">${copy.sub}</p>
+          </div>
+        </div>
+        <div class="svg-responsive-wrap" style="overflow-x:auto; padding: 0.5rem 0;">
+          <svg viewBox="0 0 860 175" width="100%" height="auto" role="img" aria-label="${copy.title}" style="max-height:190px;">
+            <rect x="20" y="25" width="245" height="120" rx="10" fill="#0a3663" />
+            <text x="142" y="55" text-anchor="middle" font-size="11" font-weight="700" fill="#fbbf24">${copy.e1}</text>
+            <text x="142" y="84" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">${copy.e1b}</text>
+            <text x="142" y="114" text-anchor="middle" font-size="10.5" fill="#cbd5e1">${copy.e1c}</text>
+
+            <polygon points="275,80 295,80 295,72 308,85 295,98 295,90 275,90" fill="#c5a059" />
+
+            <rect x="315" y="25" width="245" height="120" rx="10" fill="#0284c7" />
+            <text x="437" y="55" text-anchor="middle" font-size="11" font-weight="700" fill="#fef3c7">${copy.e2}</text>
+            <text x="437" y="84" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">${copy.e2b}</text>
+            <text x="437" y="114" text-anchor="middle" font-size="10.5" fill="#e0f2fe">${copy.e2c}</text>
+
+            <polygon points="570,80 590,80 590,72 603,85 590,98 590,90 570,90" fill="#c5a059" />
+
+            <rect x="610" y="25" width="235" height="120" rx="10" fill="#c1272d" />
+            <text x="727" y="55" text-anchor="middle" font-size="11" font-weight="700" fill="#fde68a">${copy.e3}</text>
+            <text x="727" y="84" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">${copy.e3b}</text>
+            <text x="727" y="114" text-anchor="middle" font-size="10.5" fill="#fee2e2">${copy.e3c}</text>
+          </svg>
+        </div>
+      </div>
+    `;
+  },
+
   // Render Energy Generation Mix Interactive Chart
   renderEnergyChart() {
     const lang = this.getLang();

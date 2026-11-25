@@ -206,7 +206,11 @@ const App = {
     `;
 
     // Special custom interactive widgets per module
-    if (mod.id === 'geography') {
+    if (mod.id === 'history') {
+      html += Visualizations.renderHistoryTerritorialScheme();
+      html += Visualizations.renderOttomanSocialPyramid();
+      html += Visualizations.renderRepublicanPivotScheme();
+    } else if (mod.id === 'geography') {
       html += Visualizations.renderRegionalMap();
       html += Visualizations.renderFaultLinesMap();
     } else if (mod.id === 'energy') {
