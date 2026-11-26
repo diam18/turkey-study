@@ -308,487 +308,293 @@ const ACADEMIC_DATA_TR = {
     {
       "id": "history",
       "number": "01",
-      "title": "Türkiye Tarihi: Osmanlı İmparatorluğu ve Modern Cumhuriyet",
-      "tagline": "Selçuklu Anadolusu ve klasik Osmanlı devlet düzeninden Kemalist Devrim'e, Soğuk Savaş jeopolitiğine ve 21. yüzyıl Türkiyesi'ne uzanan tarihsel süreç.",
+      "title": "Türkiye Tarihi: Feodalizm Çağı (1070'ler–1792)",
+      "tagline": "Anadolu Selçuklu Devleti ve klasik Osmanlı tımar düzeninden Celâlî isyanlarına, Patrona Halil ayaklanmasına ve 18. yüzyıl sonu diplomatik gerilemesine.",
       "icon": "landmark",
-      "readingTime": "65 dk okuma",
-      "summary": "1071 Malazgirt Zaferi'nden klasik Osmanlı kurumsal düzenine (Tımar, Devşirme, Millet, Divan-ı Hümâyun), yapısal dönüşüm ve Tanzimat modernleşmesine, I. Dünya Savaşı ve Millî Mücadele'den Kemalist laikleşmeye, çok partili demokrasi dönemine ve 21. yüzyıl Cumhurbaşkanlığı Hükümet Sistemi ile çok yönlü diplomasiye uzanan 25 akademik sayfalık kapsamlı tarih incelemesi. İngilizce, Türkçe ve Rusça temel akademik kaynaklara dayandırılmıştır.",
+      "readingTime": "45 dk okuma",
+      "summary": "A. D. Noviçev'in monografisine dayanan, feodalizm çağında (1070'ler–1792) Türkiye'nin sosyo-ekonomik ve kurumsal tarihi. Oğuz göçebelerinin yerleşik feodal tarıma geçişini, tımar sisteminin yükseliş ve çözülüşünü, esnaf loncalarını, antifeodal köylü ve şehir ayaklanmalarını (Baba İshak, Şeyh Bedreddin, Celâlî, Patrona Halil), Batı kapitülasyonlarını ve 1792 Yaş Antlaşması'na kadar Osmanlı-Rus ilişkilerini inceler [NOVICHEV-1963].",
       "sections": [
         {
-          "id": "hist-1-seljuk-beyliks",
-          "title": "1. Osmanlı Öncesi Anadolu, Selçuklu Devleti ve Beylikler Dönemi (1071–1299)",
-          "content": "Modern Türkiye'nin tarihsel yörüngesi, Türk göçebe geleneklerinin Bizans idari yapıları, İran-İslam saray kültürü ve İslam hukukuyla sentezlendiği Anadolu coğrafyasındaki çok katmanlı medeniyet birikimine dayanır [INALCIK-1973, EREMEEV-1992]. Oğuz boylarının Batı Asya'ya göçünün ardından Büyük Selçuklu Sultanı Alp Arslan'ın 26 Ağustos 1071'de **Malazgirt Meydan Muharebesi**'nde Bizans İmparatoru IV. Romanos Diogenes'i mağlup etmesi, Anadolu'nun kalıcı Türkleşme ve İslamlaşma sürecini başlatmıştır [EREMEEV-1992, TDV-IA-OSMANLI].\n\n- **Anadolu Selçuklu Devleti (1077–1308):** Süleyman Şah tarafından İznik merkezli kurulup ardından Konya'ya taşınan Türkiye Selçukluları, özgün bir Türk-İslam yüksek kültürü inşa etmiştir [TDV-IA-OSMANLI]. II. Kılıç Arslan ve I. Alâeddin Keykubad (1220–1237) dönemlerinde Antalya, Alanya ve Sinop gibi Akdeniz ve Karadeniz limanları fethedilmiş; Anadolu'yu baştan başa kateden İpek Yolu güzergâhlarında kervansaraylar, medreseler ve şifahaneler ağları kurulmuştur [EREMEEV-1992].\n- **Düşünce ve Tasavvuf Sentezi:** Orta Asya'daki Moğol istilasından kaçan âlim ve mutasavvıflar için Konya başlıca sığınak hâline gelmiştir. **Mevlânâ Celâleddîn-i Rûmî**, Yunus Emre ve Hacı Bektaş-ı Velî gibi isimler, Anadolu'nun farklı Hristiyan ve Müslüman toplulukları arasında kültürel kaynaşmayı hızlandıran tasavvufi geleneği şekillendirmiştir [KAFADAR-1995].\n- **Moğol Hâkimiyeti ve Anadolu Beylikleri:** 1243 **Kösedağ Savaşı**'nda İlhanlı Moğollarına alınan ağır yenilginin ardından Konya'daki merkezî otorite çözülmüş ve Anadolu'da Karamanoğulları, Germiyanoğulları, Menteşeoğulları, Aydınoğulları ile Bitinya'da Söğüt merkezli küçük bir uç beyliği olan **Osmanoğulları** başta olmak üzere çok sayıda Türkmen beyliği ortaya çıkmıştır [INALCIK-1973, NOVICHEV-1963].\n- **Uç Beyliği ve Gaza İdeolojisi:** Cemal Kafadar ve Halil İnalcık'ın vurguladığı üzere, Bizans sınırında yer alan Osmanlı beyliği; göçebe alp-erenleri, Ahî teşkilatlarını ve *Abdalân-ı Rûm* dervişlerini cezbederek Osman Gazi (1299–1326) ve Orhan Gazi (1326–1362) dönemlerinde Bursa (1326), İznik (1331) ve İzmit'i (1337) almış, 1354'te Çimpe Kalesi üzerinden Rumeli'ye geçmiştir [INALCIK-1973, KAFADAR-1995]."
+          "id": "hist-1-seljuk-rum",
+          "title": "1. Anadolu Selçuklu Devleti ve Beylikler Dönemi (1070'ler–1307)",
+          "content": "Küçük Asya'daki ilk Türk devleti, 1070'lerde göçebe Oğuz (*Kınık*) boylarının Bizans'ı yenilgiye uğratması ve yerel Rum ile Ermeni tarım pratiklerini benimseyerek yerleşik feodal tarıma geçmesiyle kuruldu [NOVICHEV-1963, Bölüm I, s. 5, 7, 13].\n\n- **Fetih ve Devletin Kuruluşu (1071–1116):** Ermenistan (1015–1021) ve Anadolu (1047'den itibaren) akınlarının ardından Büyük Selçuklu Sultanı Alp Arslan'ın **Malazgirt**'te (1071) Bizans ordusunu bozguna uğratması, Süleyman bin Kutalmış'ın önce İznik (1080), Birinci Haçlı Seferi yenilgilerinin (1097) ardından ise **Konya** (1116) merkezli **Anadolu Selçuklu Devleti**'ni kurmasını sağladı [NOVICHEV-1963, Bölüm I, s. 7–10].\n- **Toprak ve Feodal Düzen:** Ekilebilir topraklar sultanın şahsında devlete aitti; ordu komutanlarına koşullu askerî dirlikler (*ikta*, gayriresmî olarak *tımar*), din adamlarına *vakıf* ve özel mülk (*mülk*) topraklar tahsis edildi. Köylüler (*mezari* ortakçıları ve *dehkan* özgür köylüleri) ürünün onda biri oranında *öşür* (vergi-rant) ödüyordu [NOVICHEV-1963, Bölüm I, s. 14–15].\n- **Şehir Loncaları ve Halk Ayaklanmaları:** Konya, Kayseri ve Sivas (100–120 bin nüfus) gibi şehirlerde *Ahi* kardeşliğiyle bağlantılı esnaf loncaları gelişirken, artan feodal sömürü 1239'da Babaî dervişi **Baba İshak** önderliğinde büyük köylü-göçebe ayaklanmasına yol açtı [NOVICHEV-1963, Bölüm I, s. 15–18].\n- **Moğol Tahakkümü, Cimri ve Parçalanma (1243–1307):** **Kösedağ Savaşı**'ndaki (1 Temmuz 1243) Moğol yenilgisi vergileri üç katına çıkardı (1295'te 600 bin dinara ulaştı), 1277–1278 **Cimri** ayaklanmasını (Konya'yı kısa süre ele geçirip Divan'da Türkçeyi zorunlu kıldı) tetikledi ve 1299'da devletin 12 bağımsız *beyliğe* bölünmesinin ardından son sultan 1307'de öldürüldü [NOVICHEV-1963, Bölüm I, s. 19–24]."
         },
         {
           "id": "hist-2-ottoman-rise",
-          "title": "2. Osmanlı Beyliği'nin Yükselişi ve İstanbul'un Fethi (1299–1453)",
-          "content": "Bitinya'daki küçük uç beyliği bir buçuk yüzyıl içinde Balkanlar ve Anadolu'yu birleştiren merkezî bir Avrasya imparatorluğuna dönüşmüştür [INALCIK-1973, NOVICHEV-1963]. **I. Murad** (1362–1389) döneminde Edirne fethedilerek (y. 1361–1369) Avrupa'da yeni başkent kurulmuş; Sırpsındığı (1364), Çirmen (1371) ve I. Kosova (1389) zaferleriyle Balkanlar'daki Osmanlı hâkimiyeti pekiştirilmiştir. I. Murad, **Yeniçeri Ocağı**'nı ve *Kazaskerlik* makamını kurarak patrimonyal bürokratik devletin temellerini atmıştır [INALCIK-1973].\n\n- **Yıldırım Bayezid ve Fetret Devri (1389–1413):** I. Bayezid (Yıldırım), 1396 Niğbolu Haçlı Ordusu'nu bozguna uğratıp Anadolu beyliklerinin büyük bölümünü ilhak ederek merkezî imparatorluğu hızla kurmaya girişti. Ancak 1402 **Ankara Savaşı**'nda **Timur**'a yenilmesi, Osmanlı şehzadeleri arasında on bir yıl süren **Fetret Devri**'ne (1402–1413) ve Anadolu beyliklerinin geçici olarak yeniden kurulmasına yol açtı [INALCIK-1973, EREMEEV-1992].\n- **Yeniden Kuruluş ve Fatih Sultan Mehmed:** I. Mehmed (Çelebi) ve II. Murad dönemlerinde Rumeli ve Anadolu birliği yeniden sağlanarak 1444 Varna Haçlı Seferi püskürtüldü. **29 Mayıs 1453**'te henüz 21 yaşındaki **II. Mehmed (Fatih)**, şahi topları ve gemilerin Haliç'e karadan yürütülmesiyle **Konstantinopolis**'i fethederek bin yıllık Bizans İmparatorluğu'na son verdi [INALCIK-1973, TDV-IA-OSMANLI].\n- **İmparatorluğun Yeniden İnşası (*Kayser-i Rûm*):** Fatih, İstanbul'u *sürgün* ve iskân politikalarıyla çok kültürlü bir dünya başkentine dönüştürdü; Ayasofya'yı camiye çevirirken Gennadios Scholarios'u Rum Ortodoks Patriği atayarak Ortodoks tebaanın devlete bağlılığını güvence altına aldı [INALCIK-1973]. Eşzamanlı olarak **Kanunnâme-i Âl-i Osman**'ı tedvin etti, Çandarlı gibi köklü Türk aristokrat ailelerinin nüfuzunu kırarak doğrudan padişaha bağlı *kul* kökenli veziriazamları yönetime getirdi [INALCIK-1973, EREMEEV-1992]."
+          "title": "2. Osmanlı Devleti'nin Kuruluşu ve Balkan Fetihleri (1281–1451)",
+          "content": "Söğüt çevresinde *Kayı* boyundan Ertuğrul'a verilen küçük bir *uç* beyliği olarak doğan Osmanlı Devleti, Balkan feodal parçalanmışlığından yararlanarak Anadolu'yu birleştirdi ve Güneydoğu Avrupa'yı fethetti [NOVICHEV-1963, Bölüm II, s. 27–29].\n\n- **Kuzeybatı Anadolu'da Güçlenme (1299–1356):** 1299'dan itibaren bağımsız hareket eden **Osman I** ve **Orhan**, Bursa (1326, ilk başkent), İznik (1331), İzmit (1337) ve Ankara'yı (1356) aldı, ilk gümüş akçeyi bastırdı (1327) ve *Divan*, *sancak* teşkilatı ile düzenli *yaya* ve *müsellem* birliklerini kurdu [NOVICHEV-1963, Bölüm II, s. 28, 35–36].\n- **Balkan Fetihleri ve Yeniçeri Ocağı (1352–1396):** Çimpe (1352) ve Gelibolu (1354) üzerinden Rumeli'ye geçen **Murad I**, Edirne'yi (1362) aldı, Sırp güçlerini Meriç (1371) ve **Kosova**'da (15 Haziran 1389, ilk kez top kullanarak) yendi ve *acemi ocağı*nı (Yeniçeri) kurdu; **Bayezid I** Anadolu beyliklerini ilhak edip **Niğbolu**'da (25 Eylül 1396) Haçlı ordusunu bozguna uğrattı [NOVICHEV-1963, Bölüm II, s. 31–36].\n- **Timur Felaketi ve Fetret Devri (1402–1413):** **Timur**, **Ankara Savaşı**'nda (28 Temmuz 1402) Bayezid I'i yenip esir aldı, Anadolu beyliklerini yeniden kurdu ve **Mehmed I** 1413'te birliği yeniden sağlayana dek süren 11 yıllık taht kavgasına yol açtı [NOVICHEV-1963, Bölüm II, s. 36–37].\n- **Şeyh Bedreddin Ayaklanması ve Devşirme (1416–1448):** Timur yıkımı, inanç eşitliği ve ortak mülkiyet savunan **Şeyh Bedreddin Simavî**, **Börklüce Mustafa** ve **Torlak Kemal** önderliğindeki 1416 köylü ayaklanmasını körükledi [NOVICHEV-1963, Bölüm II, s. 38–40]. Ardından **Murad II** yeniçeri saflarını doldurmak için *devşirme* sistemini yasalaştırdı ve János Hunyadi'nin Haçlı seferlerini **Varna** (10 Kasım 1444) ile İkinci Kosova'da (1448) yenilgiye uğrattı [NOVICHEV-1963, Bölüm II, s. 40–42]."
         },
         {
-          "id": "hist-3-classical-age",
-          "title": "3. Klasik Osmanlı Çağı: Devlet Düzeni, Tımar, Devşirme ve Millet Sistemi (1453–1600)",
-          "content": "1453 ile 16. yüzyıl sonları arasında Osmanlı İmparatorluğu kurumsal ve jeopolitik zirvesine ulaşarak Güneydoğu Avrupa, Anadolu, Levant, Mısır, Hicaz ve Kuzey Afrika'da 25–30 milyonu aşkın nüfusu yönetmiştir [INALCIK-1973, FAROQHI-1994]. **Yavuz Sultan Selim** (1512–1520), 1514 Çaldıran'da Safevîleri, 1516 Mercidabık ve 1517 Ridâniye'de Memlûkleri yenerek imparatorluk topraklarını iki katına çıkarmış, Mekke ve Medine'nin koruyuculuğunu (*Hâdimü'l-Haremeyn*) üstlenmiştir [TDV-IA-OSMANLI]. **Kanûnî Sultan Süleyman** (1520–1566) döneminde Belgrad (1521), Rodos (1522), Mohaç ile Macaristan (1526) ve Bağdat (1534) fethedilmiş, 1529'da Viyana kuşatılmış ve Barbaros Hayreddin Paşa komutasında Akdeniz hâkimiyeti kurulmuştur [INALCIK-1973, NOVICHEV-1963].\n\n- **Divan-ı Hümâyun ve Üç Temel Bürokratik Sınıf:** Devlet idaresi, Sadrazam başkanlığındaki **Divan-ı Hümâyun** üzerinden yürütülürdü. Yönetici sınıf (*Askerî*) üç ana kola ayrılmıştı: **Seyfiye** (kapıkulu yeniçerileri, tımarlı sipahiler, beylerbeyi ve sancakbeyleri), **İlmiye** (*Şeyhülislâm* ve *Kazaskerler* liderliğinde şer'î yargı, fetva ve medrese eğitimi) ve **Kalemiye** (*Nişancı* ve *Defterdar* öncülüğünde tahrir, maliye ve dış yazışma bürokrasisi) [INALCIK-1973, TDV-IA-OSMANLI].\n- **Tımar Sistemi:** Tarım topraklarının devlete ait (*Mîrî*) olması esasına dayanan Tımar düzeni, vergi gelirlerini *Sipahi* adı verilen taşra süvarilerine askerî hizmet karşılığında tahsis ediyordu. Bu sistem, Avrupa'daki gibi irsi bir feodal aristokrasinin doğmasını engelleyerek hazineye nakit yük bindirmeden 70.000–100.000 kişilik süvari ordusu besliyordu [INALCIK-1973, FAROQHI-1994].\n- **Devşirme ve Kul Eliti:** Balkanlar ve Anadolu'daki Hristiyan köylerden periyodik olarak toplanan erkek çocuklar (*Devşirme*), Enderun Mektebi'nde yüksek bürokrat veya **Yeniçeri Ocağı**'nda seçkin piyade olarak yetiştirilirdi. Bu yapı, vergi veren *Reaya* karşısında padişaha mutlak sadakatle bağlı *Askerî* sınıfı oluşturuyordu [INALCIK-1973, EREMEEV-1992].\n- **Klasik Millet Sistemi:** Gayrimüslim tebaa (*Ehl-i Kitab*—başta Rum Ortodoks, Ermeni Gregoryen ve Yahudi cemaatleri) özerk **Millet** yapıları hâlinde örgütlenmişti [KARPAT-2001, TDV-IA-OSMANLI]. *Cizye* vergisi ödemek kaydıyla kendi patrik ve hahambaşılarının yönetiminde dinî, hukuki ve eğitsel özerkliğe sahip olan bu topluluklar, yüzyıllar süren pragmatik bir bir arada yaşama düzeni oluşturmuştur."
+          "id": "hist-3-constantinople-classical",
+          "title": "3. İmparatorluklaşma, İstanbul'un Fethi ve Klasik Kurumlar (1451–1512)",
+          "content": "**Fatih Sultan Mehmed (Mehmed II)** döneminde (1451–1481) Osmanlı Devleti İstanbul'u fethetti, Anadolu birliğini tamamladı, Kırım'ı aldı ve klasik feodal-bürokratik düzeni kanunlaştırdı [NOVICHEV-1963, Bölüm III, s. 43, 51–53, 64].\n\n- **İstanbul'un Fethi (29 Mayıs 1453):** Rumelihisarı'nı (1452) inşa eden ve ~70 gemiyi karadan Haliç'e indiren (22 Nisan 1453) Mehmed II'nin ~150 bin kişilik ordusu 53 günlük kuşatmanın ardından şehri aldı; ~60 bin kişi esir edildikten sonra başkent Rum, Ermeni ve Türk nüfusla yeniden iskân edildi [NOVICHEV-1963, Bölüm III, s. 44–47].\n- **Balkan, Anadolu ve Kırım Hâkimiyeti (1459–1479):** Sırbistan (1459), Mora (1460), Trabzon (1461), Bosna (1463), Karaman (1471) ve Arnavutluk (1479, İskender Bey'in 24 yıllık direnişinin ardından) ilhak edildi; Akkoyunlu hükümdarı **Uzun Hasan** **Otlukbeli**'nde (11 Ağustos 1473) yenildi; Ceneviz kolonisi **Kefe** ve Güney Kırım alındı (1475); Venedik'e erken dönem kapitülasyon ayrıcalıkları tanındı (1451, 1479) [NOVICHEV-1963, Bölüm III, s. 48–53].\n- **Kanunnameler ve Toprak Düzeni:** Mehmed II'nin kanunnameleri (1453–1456; 1477) *hass*, *zeamet* (20–100 bin *akçe*) ve *tımar* (20 bin *akçe*ye kadar; Bayezid II döneminde 10 bin dirlik) sistemini standartlaştırdı; *reaya* köylüleri 6–16 hektarlık *çift* topraklara *tapu* resmi, *öşür*, *cizye*, *ispence* ve yeni ortaya çıkan *avârız* vergileriyle bağlandı [NOVICHEV-1963, Bölüm III, s. 54–60].\n- **Merkezî Bürokrasi, Milletler ve İlk Rus Elçilikleri:** Yönetim *Divan*ın 'Dört Sütunu'na (Sadrazam, *Kazasker*, *Defterdar*, *Nişancı*) dayandı; gayrimüslimler *Rum*, *Ermeni* ve *Yahudi* milletleri hâlinde örgütlendi [NOVICHEV-1963, Bölüm III, s. 65–73]. Kırım Hanı Mengli Giray aracılığıyla 1492'de kurulan temasın ardından Moskova, Azak ve Kefe'deki Rus tüccarları korumak için **Mihail Pleşçeyev** (1497) ve **Aleksey Golohvastov** (1499) elçiliklerini gönderdi [NOVICHEV-1963, Bölüm III, s. 78–79]."
         },
         {
-          "id": "hist-4-transformation-ayan",
-          "title": "4. İmparatorlukta Dönüşüm, Yapısal Kriz ve Âyanlar Yüzyılı (1600–1808)",
-          "content": "Eski tarih yazımında 1566 sonrası dönem basitçe çizgisel bir 'gerileme' olarak nitelendirilse de çağdaş tarihçilik (İnalcık, Faroqhi, Meyer, Quataert) 17. ve 18. yüzyılları küresel fiyat enflasyonu, askerî devrim ve mali adem-i merkeziyetçiliğin tetiklediği köklü bir **yapısal dönüşüm** süreci olarak değerlendirir [FAROQHI-1994, MEYER-1991, QUATAERT-2005].\n\n- **Parasal Bunalım ve Celâlî İsyanları:** Yeni Dünya gümüşünün Avrupa ve Osmanlı piyasalarına akışı, nüfus artışı ve Avusturya (1593–1606) ile İran'a karşı uzun süren iki cepheli savaşlar, sabit nakit değerli *Tımar* gelirlerini eritti. Ateşli silahlı piyadenin önem kazanmasıyla ulufeli Yeniçeri sayısı 13.000'den 50.000'in üzerine çıkarıldı ve taşradan *Sekban*/*Sarıca* birlikleri toplandı. Terhis edilen ücretli askerler ve ağır vergi yükü altındaki köylüler Anadolu'da yıkıcı **Celâlî İsyanları**'nı (1596–1610) başlattı [FAROQHI-1994, MEYER-1991].\n- **Tımar'dan İltizam ve Mâlikâne Sistemine Geçiş:** Merkezî hazine nakit ihtiyacını karşılamak amacıyla *Tımar* düzenini terk ederek kısa vadeli vergi iltizamına (**İltizam**) ve 1695'ten itibaren ömür boyu vergi toplama imtiyazına (**Mâlikâne**) geçti. Bu uygulama, Karaosmanoğulları (Batı Anadolu) ve Tepedelenli Ali Paşa (Yanya) gibi güçlü taşra **Âyan** hanedanlarını zenginleştirerek merkezî otoriteyi taşrada zayıflattı [MEYER-1991, QUATAERT-2005].\n- **Diplomatik Gerileme ve Şark Meselesi:** 1683 İkinci Viyana Kuşatması bozgununun ardından imzalanan **Karlofça Antlaşması (1699)**, Osmanlı'nın Avrupa'da ilk büyük toprak kaybı oldu (Macaristan ve Erdel Habsburglara bırakıldı). 18. yüzyılda II. Katerina Rusyası başlıca tehdit hâline geldi: **1774 Küçük Kaynarca Antlaşması**, Kırım'ı Osmanlı'dan kopardı, Rusya'ya Karadeniz'de seyrüsefer hakkı tanıdı ve Çarlığa Osmanlı Ortodoks tebaası üzerinde muğlak bir himaye iddiası vererek Avrupa diplomasisinde **'Şark Meselesi'**ni başlattı [MEYER-1991, NOVICHEV-1963].\n- **Erken Islahatlar ve Nizâm-ı Cedîd:** *Lâle Devri* (1718–1730) ve Köprülü vezirliklerinin ardından Sultan **III. Selim** (1789–1807), Avrupa usulü talimli ordu, Londra-Paris-Viyana'da daimi elçilikler ve *İrâd-ı Cedîd* hazinesini içeren **Nizâm-ı Cedîd** reformlarını başlattı; ancak 1807'de muhafazakâr Yeniçeri-ulema ittifakıyla tahttan indirildi [HANIOGLU-2008, LEWIS-2002]."
+          "id": "hist-4-zenith-early-celali",
+          "title": "4. Gücün Zirvesi, Arap Ülkelerinin Fethi ve İlk Celâlî İsyanları (1512–1566)",
+          "content": "**Selim I** (1512–1520) ve **Kanuni Sultan Süleyman** (1520–1566) dönemlerinde imparatorluk toprakları üç kıtada 6 milyon km²'ye ulaşsa da, kırsal gerilimler Anadolu'da büyük halk ayaklanmalarına dönüştü [NOVICHEV-1963, Bölüm IV, s. 83, 98, 105].\n\n- **Doğu ve Arap Seferleri (1513–1555):** Anadolu'da 40–45 bin Şiî'nin katledilmesinin (1513) ardından Selim I, Safevi Şahı İsmail'i **Çaldıran**'da (23 Ağustos 1514) yendi, Kürdistan'ı aldı ve Memlûk ordularını **Mercidabık** (1516) ile **Kahire**'de (31 Ocak 1517) bozguna uğratarak Suriye, Mısır ve Hicaz'ı kattı [NOVICHEV-1963, Bölüm IV, s. 82–83]. Süleyman I Bağdat'ı (1534) fethedip **Amasya Antlaşması** (29 Mayıs 1555) ile Irak ve Batı Gürcistan/Ermenistan'ı güvenceye alırken, Barbaros ve Turgut Reis Kuzey Afrika'yı (Cezayir 1518, Trablus 1556) Osmanlı'ya bağladı [NOVICHEV-1963, Bölüm IV, s. 83–84, 91–92].\n- **Orta Avrupa Seferleri ve Fransız Kapitülasyonları (1521–1553):** Belgrad (1521) ve Rodos (1522) alındı; Macar ordusu **Mohaç**'ta (29 Ağustos 1526) imha edildi; **Viyana** kuşatması (1529) başarısız oldu ve Orta Macaristan Budin *paşalığı*na dönüştürüldü (1541) [NOVICHEV-1963, Bölüm IV, s. 85–89]. Habsburglara karşı Fransa ile %3 gümrük ve konsolosluk yargısı tanıyan **1535 Kapitülasyonları** imzalandı; Moskova ile barış korundu [NOVICHEV-1963, Bölüm IV, s. 95–98].\n- **Kanuni Kanunnamesi ve Köylünün Toprağa Bağlanması:** 21 *eyalet*, 250 *sancak*, 10–11 milyon duka hazine geliri ve ~48.326 *kapıkulu* askerine sahip imparatorlukta Kanunname, *sipahilere* kaçak köylüleri (İstanbul hariç, 15–20 yıl içinde) zorla geri getirme hakkı verdi; İstanbul nüfusu 1478'de 98 binden 1520–1535'te 400 bine fırlarken topraksız *ortakçı* köylüler yayıldı [NOVICHEV-1963, Bölüm IV, s. 99–105].\n- **Anadolu Şiî ve Köylü Ayaklanmaları (1508–1529):** Dirlikleri alınan tımarlılar, göçebeler ve ezilen köylüler **Nur Ali Halife** (1508), **Şahkulu Baba Tekeli** (1511, 20 bin isyancı), **Şeyh Celâl** (1519, *Celâlî* adına kaynaklık etti), **Baba Zünnun** (1526) ve **Kalenderoğlu** (1527, 20–30 bin isyancı; ancak İbrahim Paşa'nın tımarlılara rüşvet verip saf değiştirtmesiyle bastırıldı) etrafında toplandı [NOVICHEV-1963, Bölüm IV, s. 106–112]."
         },
         {
-          "id": "hist-5-tanzimat-mahmud",
-          "title": "5. Reform ve Beka Mücadelesi: II. Mahmud, Sened-i İttifak ve Tanzimat (1808–1876)",
-          "content": "İlber Ortaylı'nın deyimiyle **'İmparatorluğun En Uzun Yüzyılı'** olan 19. yüzyıl, ayrılıkçı milliyetçiliklere ve Büyük Güçlerin müdahalelerine karşı imparatorluğu ayakta tutmayı amaçlayan kapsamlı merkezileşme ve hukuk reformlarına sahne oldu [ORTAYLI-1983, FINDLEY-2010].\n\n- **Sened-i İttifak ve II. Mahmud'un Merkezileşmesi:** 1808'de Alemdar Mustafa Paşa'nın aracılığıyla Sultan II. Mahmud ile taşra Âyanları arasında imzalanan **Sened-i İttifak**, mutlak monarşiyi sınırlayan ilk anayasal nitelikli belge olarak kabul edilir [ORTAYLI-1983]. İktidarını pekiştiren **II. Mahmud** (1808–1839), taşra âyanlarını tasfiye etti, Yunan İsyanı'na (1821–1829) rağmen Haziran 1826'da **Vak'a-i Hayriye** ile Yeniçeri Ocağı'nı ortadan kaldırdı. Klasik Divan yerine Avrupa tarzı nezaretler kurdu, ilk nüfus sayımını ve ilk resmî gazete *Takvim-i Vekayi*'yi (1831) başlattı ve Tımar sistemini resmen lağvetti [HANIOGLU-2008, LEWIS-2002].\n- **Tanzimat Fermanları (1839 ve 1856):** Mısır Valisi Kavalalı Mehmed Ali Paşa karşısındaki yenilgilerin ardından Hariciye Nazırı Mustafa Reşid Paşa'nın kaleme aldığı **Gülhane Hatt-ı Hümâyunu** (3 Kasım 1839), din ayrımı gözetmeksizin tüm tebaanın can, mal ve namus güvenliğini, düzenli vergi ve askerlik esaslarını ilan etti [ORTAYLI-1983, FINDLEY-2010]. Kırım Savaşı (1853–1856) sonrasında yayımlanan **Islahat Fermanı (1856)** ise cizyeyi kaldırarak gayrimüslimlere devlet memurluğu ve askerî okul yollarını açtı ve **Osmanlıcılık** siyasetini pekiştirdi [HANIOGLU-2008].\n- **Hukuki Kodifikasyon ve Modern Kurumlar:** Tanzimat devlet adamları (Âlî ve Fuad Paşalar), şer'î mahkemelerin yanında laik **Nizâmiye** mahkemelerini kurdu, Batı kaynaklı ticaret ve ceza kanunlarını benimsedi ve Ahmed Cevdet Paşa başkanlığında Hanefî fıkhını modern kanun tekniğiyle düzenleyen **Mecelle-i Ahkâm-ı Adliyye**'yi (1869–1876) hazırlattı [ORTAYLI-1983, TDV-IA-OSMANLI].\n- **Mali Bağımlılık ve Düyûn-ı Umûmiye (1881):** 1838 Balta Limanı Ticaret Antlaşması ve 1854'te başlayan dış borçlanmalar, 1875'te devletin moratoryum ilan etmesine ve 1881'de önemli devlet gelirlerine el koyan yabancı denetimli **Düyûn-ı Umûmiye İdaresi**'nin kurulmasına yol açtı [QUATAERT-2005, FAROQHI-1994]."
+          "id": "hist-5-timar-decay-celali",
+          "title": "5. Tımar Sisteminin Çözülüşü, 'Celâlî Fetreti' ve Duraklama (1566–1618)",
+          "content": "16. yüzyılın sonlarından itibaren fetihlerin durması, akçe tağşişi ve tımarların parçalanması imparatorluğu derin bir sosyo-ekonomik krize ve köylü iç savaşına sürükledi [NOVICHEV-1963, Bölüm V, s. 115–118, 127].\n\n- **Jeopolitik Sınırlar: Astrahan (1569) ve İnebahtı (1571):** Volga–Don kanalı açıp Astrahan'ı alma girişimi Prens Serebryany komutasındaki 15 bin Rus askeri tarafından püskürtüldü [NOVICHEV-1963, Bölüm V, s. 113–114]. Osmanlı donanması **İnebahtı**'da (8 Ekim 1571, 225 gemi kaybı) yenilse de Sokollu Mehmed Paşa donanmayı iki ayda yeniden kurdu; Venedik Kıbrıs'ı bıraktı (1573) ve Tunus fethedildi (1574) [NOVICHEV-1963, Bölüm V, s. 114–115].\n- **Tımar Çözülüşü ve Mali Baskı:** Keyfi bölünmelerle dirlik sayısı 10 binden **41.171**'e çıkarken (*Aynî Ali*, 1607), *akçe*nin gümüş oranı 3–4 kat düştü (altın sikke 1548'de 35 akçeden ~1605'te 220 akçeye fırladı) [NOVICHEV-1963, Bölüm V, s. 115–116, 119, 122]. Devlet *kapıkulu* sayısını artırdı (1566'da 48.316 → 1609'da 91.202), *avârız*ı kalıcı nakdî vergiye çevirdi, *iştira* (zorunlu ucuz alım) uyguladı ve tefeciler köylü topraklarını özel *çiftlik*lere dönüştürdü [NOVICHEV-1963, Bölüm V, s. 120–125; Bölüm VI, s. 155].\n- **'Celâlî Fetreti' (1595–1609):** Kitlesel köylü kaçışı (*büyük kaçgunluk*, 1603) ve hoşnutsuz tımarlılar 15 yıl süren ~200 bin+ kişilik bir isyan dalgası yarattı: **Kara Yazıcı** (1598–1601), **Deli Hasan** (1603'te Bosna beylerbeyliği verilerek satın alındı) ve **Kalenderoğlu** (20–50 bin isyancı, 5 Ağustos 1608'de Alaca Çayır'da 90 yaşındaki Kuyucu Murad Paşa tarafından ezildi) [NOVICHEV-1963, Bölüm V, s. 127–134]. Bastırma harekâtında 65–100 bin+ kişi öldürüldü ve Ekim 1609 *Adaletname*si çıkarıldı [NOVICHEV-1963, Bölüm V, s. 134].\n- **Balkan Direnişi ve Zitvatorok Antlaşması (1606):** Boğdan Beyi **İon Cel Cumplit** (1572–1574), Eflak Beyi **Mihai Viteazul** (1594–1601), Bulgar *hayduklar* (Tırnova ayaklanması, 1598) ve Avusturya savaşı **Zitvatorok Antlaşması**'nı (11 Kasım 1606) zorladı; Avusturya'nın yıllık 30 bin dukalık haracı kalktı ve Habsburg hükümdarı eşit imparator tanındı [NOVICHEV-1963, Bölüm V, s. 135–140]."
         },
         {
-          "id": "hist-6-constitutional-young-turks",
-          "title": "6. Meşrutiyet, Abdülhamid İstibdadı ve Jön Türk Devrimi (1876–1914)",
-          "content": "Bürokratik modernleşme, halk temsili ve imparatorluğun bekası arasındaki gerilim, Osmanlı tarihinin son kırk yılını belirledi [HANIOGLU-2008, ZURCHER-2017].\n\n- **I. Meşrutiyet (1876–1878):** Namık Kemal ve Ziya Paşa önderliğindeki **Yeni Osmanlılar** hareketi, İslam siyaset düşüncesi ile parlamenter anayasacılığı uzlaştırmayı savundu. 1875–1876 Balkan bunalımı ortasında Sadrazam **Midhat Paşa**, **II. Abdülhamid**'in tahta çıkışını sağlayarak 23 Aralık 1876'da ilk Osmanlı anayasası olan **Kanûn-ı Esâsî**'yi ilan ettirdi ve *Meclis-i Mebusan* açıldı [ORTAYLI-1983, HANIOGLU-2008].\n- **93 Harbi (1877–1878) ve Abdülhamid Dönemi:** Çarlık Rusyası karşısındaki ağır yenilgi (*93 Harbi*) ve Romanya, Sırbistan ile Karadağ'ın bağımsızlığını, Bulgaristan'ın özerkliğini ve Kars-Ardahan-Batum'un Rusya'ya terkini getiren **1878 Berlin Antlaşması**'nın ardından II. Abdülhamid Şubat 1878'de Meclis'i süresiz tatil etti [NOVICHEV-1963, HANIOGLU-2008]. Otuz yıl süren Yıldız yönetimi boyunca Arap ve Kürt tebaayı devlete bağlamak için **İttihad-ı İslâm (Pan-İslamizm)** siyasetini öne çıkarırken telgraf ağını, demiryollarını (**Hicaz Demiryolu**, 1900–1908) ve modern meslek okullarını genişletti [KARPAT-2001, ZURCHER-2017].\n- **1908 Jön Türk Devrimi ve II. Meşrutiyet:** Mekteb-i Tıbbiye ve Harbiye kökenli gizli muhalefet hücrelerinin birleştiği **İttihat ve Terakki Cemiyeti (İTC)**, Temmuz 1908'de Makedonya'da Enver ve Niyazi Beylerin ayaklanmasıyla II. Abdülhamid'i Kanûn-ı Esâsî'yi yeniden yürürlüğe koymaya zorladı [HANIOGLU-2008, AKSIN-2007]. Nisan 1909'daki *31 Mart Vakası* bastırıldıktan sonra II. Abdülhamid tahttan indirildi ve 1909 anayasa değişiklikleriyle Meclis üstünlüğü kuruldu [TUNAYA-1988].\n- **Balkan Savaşları ve Türkçülük (1912–1913):** Trablusgarp Savaşı (1911) ve **Balkan Savaşları (1912–1913)** ile Selanik, Makedonya ve Arnavutluk dâhil Avrupa topraklarının neredeyse tamamı kaybedildi; yüz binlerce Müslüman *muhacir* Anadolu'ya sığındı [ZURCHER-2017]. Ocak 1913 *Bâb-ı Âlî Baskını* sonrası İTC üçlüsü (**Enver, Talat ve Cemal Paşalar**) tek parti yönetimini kurarak **Türkçülük** (Ziya Gökalp) ve yerli burjuvazi yaratmayı hedefleyen **Millî İktisat** politikasına yöneldi [TOPRAK-1995, AKSIN-2007]."
+          "id": "hist-6-urban-culture-17c",
+          "title": "6. Şehir Ekonomisi, Saray Hizipleri ve Kültür (14. yy–17. yy Ortası)",
+          "content": "Hızlı şehirleşmeye ve parlak mimari-edebiyat başarılarına karşın Osmanlı şehirleri kapitalist manüfaktüre geçemedi; siyasî iktidar saray hizipleri ve yeniçeri isyanları arasında el değiştirdi [NOVICHEV-1963, Bölüm VI, s. 141–142, 151–153; Bölüm VII, s. 160–176].\n\n- **Şehir Büyümesi ve Lonca (Esnaf) Katılığı:** 1520–1530 ile 1571–1580 arasında İstanbul %75 (400 binden 700 bine), başlıca Anadolu/Balkan şehirleri %90 büyürken, ticaret yollarının Atlantik'e kaymasıyla Şam ve Halep küçüldü [NOVICHEV-1963, Bölüm VI, s. 142]. Kapalı *esnaf* loncaları, *kadı* narhları, ağır *mukataa* iltizamları ve Türk zanaatkârlar ile gayrimüslim (Rum, Ermeni, Yahudi) tüccarlar arasındaki bölünme sanayi kapitalizmini engelledi [NOVICHEV-1963, Bölüm VI, s. 144–153].\n- **Saray Darbeleri, Murad IV ve 1639 Kasr-ı Şirin Antlaşması:** 1617–1623 arasında yeniçeri ayaklanmaları Mustafa I'i iki kez tahttan indirip **Osman II**'yi katletti (1622) [NOVICHEV-1963, Bölüm VI, s. 153]. **Murad IV** (1623–1640) *kapıkulu* sayısını geçici olarak 59.257'ye indirdi, on binlerce isyancıyı idam etti ve Bağdat'ı geri alarak 14 Eylül 1639 **Kasr-ı Şirin Antlaşması** ile kalıcı Osmanlı-İran sınırını çizdi [NOVICHEV-1963, Bölüm VI, s. 154–158].\n- **Edebiyat, Mimari ve Bilim (14.–17. yy):** Şiir **Âşık Paşa** (*Garibname*) ve **Mihrî Hatun**'dan **Bakî**, **Veysî** ve hiciv ustası **Nef'î**'ye (1635'te boğduruldu) uzandı; halk edebiyatında *Battalname* ve *Nasreddin Hoca* öne çıktı [NOVICHEV-1963, Bölüm VII, s. 160–165]. Mimar **Koca Sinan** (1490–1588; *Süleymaniye*, 81 cami) zirveyi temsil ederken, **Pîrî Reis** (*Kitab-ı Bahriye*, 1523; 1513 dünya haritası) ve **Kâtib Çelebi / Hacı Halife** (1609–1657) coğrafya ve tarih yazıcılığını geliştirdi; buna karşın **Molla Lütfi** (1494) ve **Sarı Abdurrahman** (1600) gibi özgür düşünceliler idam edildi [NOVICHEV-1963, Bölüm VII, s. 166–173]."
         },
         {
-          "id": "hist-7-wwi-sevres",
-          "title": "7. I. Dünya Savaşı, Çöküş ve Sevr Antlaşması (1914–1920)",
-          "content": "Diplomatik yalnızlığı kırmak ve kaybedilen toprakları geri almak isteyen İTC liderliği, 2 Ağustos 1914'te Almanya ile gizli ittifak imzaladı ve Ekim sonunda *Goeben* ve *Breslau* zırhlılarının Rus Karadeniz limanlarını bombalamasıyla **I. Dünya Savaşı**'na girdi [ZURCHER-2017, NOVICHEV-1963].\n\n- **Çok Cepheli Yıpranma ve Çanakkale Zaferi (1915):** Osmanlı Devleti yaklaşık 2,8 milyon askeri dört ana cephede seferber etti: Kafkasya Cephesi (1914–1915 Sarıkamış kış taarruzu faciası), Sina-Filistin ve Irak cepheleri (1916 Kut'ül Amâre zaferine rağmen sonraki geri çekilme) ve Çanakkale. **Çanakkale Savaşı**'nda (1915–1916) Albay **Mustafa Kemal Bey**'in Arıburnu, Conkbayırı ve Anafartalar'daki üstün komutasıyla İtilaf Donanması ve çıkarma orduları durdurularak İstanbul'un düşmesi önlendi [AKSIN-2007, ZURCHER-2017].\n- **Savaş İçi Tehcir ve Toplu Kayıplar:** 1915 yılında Kafkas cephesi gerisindeki güvenlik gerekçeleriyle çıkarılan *Tehcir Kanunu* kapsamında Anadolu Ermeni nüfusunun Suriye çölüne zorunlu sevki sırasında yüz binlerce insan katliamlar, açlık ve salgın hastalıklar nedeniyle hayatını kaybetti; bu trajedi uluslararası literatürün büyük bölümünde Ermeni Soykırımı olarak tanımlanırken resmî Türk tarih yazımında savaş koşullarındaki zorunlu yer değiştirme ve karşılıklı çatışmalar çerçevesinde ele alınmaktadır [ZURCHER-2017, FINDLEY-2010]. Aynı savaş yıllarında 2,5 milyonu aşkın Osmanlı Müslümanı da cephelerde, tifüsten ve kıtlıktan yaşamını yitirmiştir.\n- **Gizli Paylaşım Antlaşmaları ve Mondros (1918):** Savaş sırasında İtilaf Devletleri **Sykes-Picot (1916)** gibi gizli antlaşmalarla Osmanlı topraklarını paylaştı. Bulgaristan'ın çekilmesi ve Suriye cephesinin çökmesi üzerine 30 Ekim 1918'de imzalanan **Mondros Mütarekesi**, İtilaf donanmasına İstanbul yolunu ve stratejik bölgelerin işgal yetkisini verdi [ZURCHER-2017, MILLER-1948].\n- **Sevr Antlaşması (10 Ağustos 1920):** İşgal altındaki İstanbul Hükümeti'nin imzaladığı Sevr Antlaşması; Doğu Trakya ve İzmir çevresini Yunanistan'a, güneydoğuyu Fransa'ya, güneybatıyı İtalya'ya bırakıyor, Boğazları uluslararası komisyona devrediyor ve doğuda bağımsız Ermenistan ile özerk Kürdistan öngörerek Türklere yalnızca Orta ve Kuzey Anadolu'da küçük bir bölge bırakıyordu [LAUSANNE-1923, ZURCHER-2017]."
+          "id": "hist-7-koprulu-karlowitz",
+          "title": "7. Derinleşen Kriz, Köprülüler Dönemi ve İlk Bölünme (1640'lar–1730)",
+          "content": "Batı Avrupa 1640 sonrasında kapitalizm ve sanayi çağına girerken, Osmanlı mali çöküşü, deniz yenilgileri ve 1683–1699 savaşı Avrupa'daki ilk büyük toprak kayıplarına yol açtı [NOVICHEV-1963, Bölüm VIII, s. 177–192].\n\n- **Mali Çöküş ve 1651 İstanbul Esnaf Ayaklanması:** Hazine gelirleri 1643'te 550 milyon akçeden 1648'de 361,8 milyona düşerken (giderler 550 milyon), düşük ayarlı akçenin zorla dağıtılması üzerine 1651'de 50 binden fazla İstanbul esnaf ve tüccarı saraya yürüyerek sadrazamı azlettirdi [NOVICHEV-1963, Bölüm VIII, s. 178–180].\n- **Köprülüler ve 1683 Viyana Kuşatması:** Venedik'in Çanakkale ablukalarının (1651, 1656) ardından Sadrazam **Köprülü Mehmed Paşa** (1656–1661) ~30 bin idamla otoriteyi sağladı; Girit (1669) ve geçici Ukrayna kazanımları (1672–1676) elde edildi [NOVICHEV-1963, Bölüm VIII, s. 181–185]. Ancak **Kara Mustafa Paşa**'nın 175 bin kişilik **Viyana** kuşatması (Temmuz–Eylül 1683), Polonya Kralı **Jan Sobieski** tarafından 12 Eylül 1683'te bozguna uğratıldı (48.500 Osmanlı kaybı) [NOVICHEV-1963, Bölüm VIII, s. 186].\n- **Kutsal İttifak, Karlofça (1699) ve İstanbul (1700) Antlaşmaları:** Avusturya, Polonya, Venedik, Malta ve Rusya'ya (1686) karşı savaşta Budin (1686), Belgrad (1688), Zenta (1697) ve Azak (1696, I. Petro) kaybedildi [NOVICHEV-1963, Bölüm VIII, s. 187–189]. **Karlofça** (26 Ocak 1699) ile Macaristan ve Erdel Avusturya'ya, Podolya Polonya'ya, Mora Venedik'e bırakıldı; **İstanbul Antlaşması** (Temmuz 1700) ile Rusya Azak'ı aldı, Kırım vergisini kaldırdı ve ilk daimî elçisini (**P. A. Tolstoy**, 1702) atadı [NOVICHEV-1963, Bölüm VIII, s. 190–192].\n- **Prut (1711), Pasarofça (1718) ve Patrona Halil (1730):** **Prut**'ta (23 Temmuz 1711) I. Petro'ya karşı kazanılan zaferle Azak geri alındı; **Pasarofça** (Temmuz 1718) ile Mora geri alınırken Belgrad ve Banat Avusturya'ya verildi [NOVICHEV-1963, Bölüm IX, s. 195–197]. Ancak savaş vergileri (*imdad-ı seferiye*, *ordu akçesi*) ve Nadir Şah yenilgileri 28 Eylül 1730'da İstanbul'da **Patrona Halil** ayaklanmasını (80 bin isyancı) ateşledi; **Ahmed III** tahttan indirildi, **Mahmud I** tahta çıkarıldı ve liderlerin 26 Kasım'da pusuda öldürülmesinin ardından 7 binden fazla kişi idam edildi [NOVICHEV-1963, Bölüm IX, s. 200–205]."
         },
         {
-          "id": "hist-8-war-of-independence",
-          "title": "8. Kurtuluş Savaşı ve Lozan Barış Antlaşması (1919–1923)",
-          "content": "**Türk Kurtuluş Savaşı (Millî Mücadele)**, Anadolu'nun paylaşımını reddederek örgütlü halk direnişi ve düzenli ordu zaferleriyle bağımsız ulus-devleti kurmuştur [AKSIN-2007, MILLER-1948].\n\n- **Millî Mücadele'nin Örgütlenmesi ve Misak-ı Millî (1919–1920):** İzmir'in 15 Mayıs 1919'da Yunan ordusunca işgalinin hemen ardından **Mustafa Kemal Paşa**, 9. Ordu Müfettişi olarak **19 Mayıs 1919**'da Samsun'a çıktı. **Amasya Genelgesi** (22 Haziran 1919) ile 'milletin istiklalini yine milletin azim ve kararının kurtaracağı' ilan edildi; **Erzurum ve Sivas Kongreleri** ile tüm Müdafaa-i Hukuk cemiyetleri birleştirildi [AKSIN-2007, LEWIS-2002]. Son Osmanlı Mebusan Meclisi, 28 Ocak 1920'de 1918 mütareke sınırları içindeki vatanın bölünmez bütünlüğünü ilan eden **Misak-ı Millî**'yi kabul etti.\n- **TBMM'nin Açılışı (23 Nisan 1920):** İngilizlerin 16 Mart 1920'de İstanbul'u resmen işgal edip Meclis'i dağıtması üzerine Mustafa Kemal, **23 Nisan 1920**'de Ankara'da **Türkiye Büyük Millet Meclisi'ni (TBMM)** açarak kayıtsız şartsız millî egemenliğe dayalı *Meclis Hükümeti* sistemini kurdu [TBMM-CONST-1982, ZURCHER-2017].\n- **Üç Askerî Cephe (1920–1922):** Doğu Cephesi'nde **Kâzım Karabekir Paşa** komutasındaki ordu Ermenistan'ı yenerek Gümrü Antlaşması'nı (Aralık 1920) imzaladı; Güney Cephesi'nde halk direnişi sonrası Fransa ile **Ankara Antlaşması (Ekim 1921)** yapılarak Kilikya boşaltıldı. Batı Cephesi'nde **İsmet Paşa (İnönü)** ve Fevzi Paşa (Çakmak) düzenli orduyu kurarak I. ve II. İnönü zaferlerinin ardından 22 gün süren **Sakarya Meydan Muharebesi'ni** (Ağustos–Eylül 1921) kazandı. 26 Ağustos 1922'de başlayan **Büyük Taarruz** ve Dumlupınar zaferiyle Yunan ordusu bozguna uğratılarak 9 Eylül 1922'de İzmir kurtarıldı [AKSIN-2007, KIREEV-2007].\n- **Mudanya, Saltanatın Kaldırılması ve Lozan (1922–1923):** Mudanya Mütarekesi (11 Ekim 1922) ile Doğu Trakya savaşsız geri alındı; 1 Kasım 1922'de **Saltanat kaldırıldı**. İsmet Paşa'nın sekiz ay süren çetin müzakereleri sonunda imzalanan **Lozan Barış Antlaşması (24 Temmuz 1923)** ile Sevr tarihe gömüldü, kapitülasyonlar kaldırıldı ve modern Türkiye'nin uluslararası sınırları tescillendi [LAUSANNE-1923, ZURCHER-2017]. **29 Ekim 1923**'te Cumhuriyet ilan edildi ve Mustafa Kemal Atatürk ilk Cumhurbaşkanı seçildi."
-        },
-        {
-          "id": "hist-9-kemalist-republic",
-          "title": "9. Kemalist Devrim, Altı Ok ve Tek Parti Devletçiliği (1923–1946)",
-          "content": "1923–1938 yılları arasında Mustafa Kemal Atatürk ve **Cumhuriyet Halk Partisi (CHP)**, Türkiye'yi 'muasır medeniyetler seviyesine' çıkarmayı amaçlayan kapsamlı bir tepeden laik modernleşme devrimi gerçekleştirdi [LEWIS-2002, AHMAD-1993].\n\n- **Laikleşme ve Hukuk-Kültür Devrimleri:** **3 Mart 1924**'te Hilafet, Şer'iye ve Evkaf Vekâleti kaldırıldı ve **Tevhid-i Tedrisat Kanunu** ile tüm eğitim kurumları Millî Eğitim Bakanlığı'na bağlandı. Ardından tekke ve zaviyeler kapatıldı (1925), *Mecelle* ve şeriat hukuku yerine **İsviçre Medeni Kanunu** ve İtalyan Ceza Kanunu kabul edilerek (1926) kadınlara evlilik, boşanma ve mirasta eşit haklar tanındı; **Harf Devrimi (1928)** ile Latin alfabesine geçildi, Soyadı Kanunu (1934) çıkarıldı ve **1934'te kadınlara milletvekili seçme ve seçilme hakkı** pek çok Avrupa ülkesinden önce verildi [LEWIS-2002, ZURCHER-2017].\n- **Altı Ok İlkeleri:** 1937'de 1924 Anayasası'na giren Kemalizm'in altı temel ilkesi şunlardı: **Cumhuriyetçilik**, **Milliyetçilik** (ırkî değil vatandaşlık temelli), **Halkçılık**, **Devletçilik**, **Laiklik** (din hizmetlerinin 1924'te kurulan **Diyanet İşleri Başkanlığı** üzerinden devletçe düzenlenmesi) ve **İnkılapçılık** [AHMAD-1993, FINDLEY-2010].\n- **Tek Parti Yönetimi ve Devletçilik (1930'lar):** Terakkiperver Cumhuriyet Fırkası (1924) ve Serbest Cumhuriyet Fırkası (1930) gibi erken çok partili denemeler Şeyh Said İsyanı (1925) ve muhafazakâr tepkiler ortamında kapandı. 1929 Dünya Ekonomik Buhranı'nın ardından Ankara **Devletçilik** politikasını benimseyerek Sovyet teknik kredileriyle **Birinci Beş Yıllık Sanayi Planı'nı (1934)** başlattı ve *Sümerbank*, *Etibank* ve Karabük Demir-Çelik gibi kamu iktisadi teşebbüslerini kurdu [TOPRAK-1995, KIREEV-2007].\n- **İsmet İnönü Dönemi ve II. Dünya Savaşı'nda Tarafsızlık (1938–1946):** Atatürk'ün 10 Kasım 1938'deki vefatı sonrası Cumhurbaşkanı olan **İsmet İnönü**, **1936 Montrö Boğazlar Sözleşmesi** ve **Hatay'ın anavatana katılması (1939)** kazanımlarının üzerine inşa ettiği dengeli diplomasiyle Türkiye'yi II. Dünya Savaşı yıkımının dışında tutmayı başardı; Şubat 1945'te Mihver devletlerine sembolik savaş ilan ederek Birleşmiş Milletler'in kurucu üyeleri arasında yer aldı [UN-TREATY-MONTREUX, ZURCHER-2017]."
-        },
-        {
-          "id": "hist-10-multiparty-coldwar",
-          "title": "10. Çok Partili Hayat, Soğuk Savaş Güvenliği ve Askerî Müdahaleler (1946–1980)",
-          "content": "II. Dünya Savaşı sonrası uluslararası demokratik konjonktür ve iç sosyoekonomik hoşnutsuzluk, İnönü yönetimini 1946'da çok partili seçimleri başlatmaya yöneltti; böylece askerî vesayet dönemleriyle kesintiye uğrayan çalkantılı bir demokrasi süreci başladı [AHMAD-1993, TUNAYA-1988].\n\n- **Demokrat Parti Dönemi (1950–1960):** 14 Mayıs 1950 seçimlerinde **Adnan Menderes** ve Celâl Bayar liderliğindeki **Demokrat Parti (DP)** ezici bir zafer ('Beyaz Devrim') kazanarak 27 yıllık CHP iktidarına son verdi. Tarımda makineleşmeyi, özel girişimi ve Arapça ezan yasağının kaldırılması gibi kültürel esnemeleri destekleyen DP, 1950'lerin başındaki hızlı büyümenin ardından enflasyon, döviz darlığı ve basın-muhalefet üzerindeki baskılar nedeniyle derin bir kutuplaşmayla karşılaştı [AHMAD-1993, ZURCHER-2017].\n- **Soğuk Savaş ve NATO Üyeliği (1947–1962):** 1945 Sovyet toprak talepleri karşısında Türkiye **Truman Doktrini (1947)** ve Marshall Planı'na katıldı, **Kore Savaşı'na (1950)** tugay gönderdi ve Şubat 1952'de **NATO'ya üye oldu**. İncirlik Üssü ve İzmir'deki nükleer başlıklı Jüpiter füzeleriyle (1962 Küba Füze Krizi'nde gizli anlaşmayla söküldü) Türkiye, NATO'nun güneydoğu kanadının kilit savunma hattını oluşturdu [KIREEV-2007, ZURCHER-2017].\n- **27 Mayıs 1960 Darbesi ve 1961 Anayasası:** 27 Mayıs 1960'ta Millî Birlik Komitesi yönetime el koydu; Yassıada yargılamaları sonucunda Adnan Menderes ve iki bakan idam edildi. Buna karşın **1961 Anayasası**, **Anayasa Mahkemesi'ni (AYM)**, çift meclisli parlamentoyu, üniversite özerkliğini ve geniş sendikal hakları güvence altına alan Türkiye'nin en özgürlükçü anayasası oldu; öte yandan **Millî Güvenlik Kurulu'nu (MGK)** anayasal bir kurum olarak tesis etti [AHMAD-1993, TBMM-CONST-1982].\n- **1970'ler Kutuplaşması, Kıbrıs ve Siyasi Şiddet:** Süleyman Demirel'in Adalet Partisi (AP) ile Bülent Ecevit'in CHP'si arasında geçen 1970'lerde ithal ikameci sanayileşme ve hızlı kentleşme yaşandı. **12 Mart 1971 Muhtırası** sonrasında kurulan Ecevit hükümeti, 1974'te Yunan darbesi üzerine 1960 Garanti Antlaşması'na dayanarak **Kıbrıs Barış Harekâtı**'nı gerçekleştirdi; bu durum 1975–1978 ABD silah ambargosuna yol açtı [ZURCHER-2017, KIREEV-2007]. 1978–1980 arasında petrol krizi enflasyonu, zayıf koalisyonlar ve aşırı sağ-sol çatışmaları 5.000'den fazla can kaybına neden oldu."
-        },
-        {
-          "id": "hist-11-neoliberal-postcoldwar",
-          "title": "11. Neoliberal Dönüşüm, 1982 Anayasası ve Soğuk Savaş Sonrası (1980–2002)",
-          "content": "**12 Eylül 1980**'de Genelkurmay Başkanı Orgeneral **Kenan Evren** liderliğindeki askerî darbe parlamentoyu feshetti, siyasi partileri kapattı ve Türkiye'nin hukuki-ekonomik düzenini on yıllar boyunca şekillendirecek yeni bir rejim kurdu [ZURCHER-2017, AHMAD-1993].\n\n- **1982 Anayasası ve Özal'ın Ekonomik Devrimi:** Kasım 1982 referandumuyla kabul edilen **1982 Anayasası**, temel hak ve özgürlükleri daraltırken yürütme ve MGK vesayetini güçlendirdi ve koalisyonları önlemek amacıyla **%10 seçim barajını** getirdi [TBMM-CONST-1982]. 1983'te sivil yönetime dönüşle Başbakan olan **Turgut Özal** (ANAP), **24 Ocak 1980 Kararları** doğrultusunda ithal ikameci sistemi tasfiye ederek serbest piyasa, kur serbestisi ve ihracata dayalı sanayileşmeyi ('Anadolu Kaplanları') başlattı [AHMAD-1993, FINDLEY-2010].\n- **PKK Terörü ve Soğuk Savaş Sonrası Jeopolitik:** Ağustos 1984'te Güneydoğu Anadolu'da silahlı saldırılara başlayan **PKK**, kırk yıl boyunca 40.000'i aşkın can kaybına ve büyük iç göçlere neden oldu [TUIK-2024-POP]. 1991'de SSCB'nin dağılması ise Türkiye'yi bir Soğuk Savaş sınır ülkesinden çıkarıp Avrupa, Karadeniz, Kafkasya ve Orta Asya Türk Cumhuriyetleri ile Orta Doğu'yu bağlayan merkezî bir bölgesel aktöre dönüştürdü [KIREEV-2007].\n- **28 Şubat Süreci ve 2001 Krizi:** Necmettin Erbakan'ın Refah Partisi'nin 1996'da koalisyon iktidarına gelmesi, 28 Şubat 1997 MGK kararlarıyla ('post-modern darbe') hükümetin istifasına ve partinin kapatılmasına yol açtı [KARPAT-2001, ZURCHER-2017]. Aynı dönemde **AB Gümrük Birliği (1995)** yürürlüğe girdi ve **1999 Helsinki Zirvesi**'nde Türkiye'ye resmî AB adaylığı verildi; ancak kronik bütçe açıkları ve bankacılık kırılganlığı **Şubat 2001 ekonomik krizini** tetikleyerek Kemal Derviş yönetimindeki yapısal bankacılık reformlarını zorunlu kıldı [WB-TUR-2024]."
-        },
-        {
-          "id": "hist-12-twentyfirst-century",
-          "title": "12. 21. Yüzyıl Cumhuriyeti: Kurumsal Dönüşüm ve Cumhurbaşkanlığı Sistemi (2002–2026)",
-          "content": "Kasım 2002 seçimlerinde **Recep Tayyip Erdoğan** liderliğindeki **Adalet ve Kalkınma Partisi'nin (AKP)** tek başına iktidara gelmesi, Türkiye'nin ekonomisini, sivil-asker ilişkilerini ve anayasal mimarisini derinden dönüştüren yeni bir dönem başlattı [FINDLEY-2010, ZURCHER-2017].\n\n- **İlk Reform Dalgası ve Ekonomik Büyüme (2002–2012):** Mali disiplin ile AB uyum paketlerini birleştiren AKP hükümetleri idam cezasını kaldırdı, MGK'nın yetkilerini daralttı ve Ekim 2005'te **resmî AB katılım müzakerelerini** başlattı. Küresel likidite ve özelleştirmelerin desteğiyle 2002–2013 arasında kişi başına millî gelir üç katına çıktı; sağlık, ulaşım ve konut altyapısı hızla genişledi [WB-TUR-2024, ZURCHER-2017].\n- **Sivil-Asker İlişkileri ve 15 Temmuz 2016 Darbe Girişimi:** *Ergenekon* ve *Balyoz* davaları (2007–2013) ile 2010 anayasa referandumu geleneksel askerî vesayeti sona erdirdi. Ancak iktidar ile eski müttefiki **Gülen yapılanması (FETÖ)** arasında patlak veren güç mücadelesi, **15 Temmuz 2016** gecesi TBMM'nin bombalandığı ve 250'den fazla vatandaşın şehit olduğu kanlı bir darbe girişimine dönüştü; girişim sadık güvenlik güçleri ve halkın direnişiyle bastırıldı [ZURCHER-2017, TBMM-CONST-1982]. Darbe sonrası Genelkurmay Başkanlığı Millî Savunma Bakanlığı'na bağlandı ve yerli savunma sanayii (İHA/SİHA, deniz platformları, füze sistemleri) %80'in üzerinde yerlilik oranına ulaştı [SIPRI-2024-MLX].\n- **2017 Cumhurbaşkanlığı Hükümet Sistemi (2017–2026):** **Nisan 2017 referandumu** ile kabul edilip Temmuz 2018'de yürürlüğe giren yeni sistem Başbakanlığı kaldırdı, yürütme yetkisi ile *Cumhurbaşkanlığı Kararnamesi* çıkarma gücünü doğrudan seçilen partili Cumhurbaşkanında topladı ve TBMM üye sayısını 600'e çıkardı [TBMM-CONST-1982]. **2023 Cumhuriyet Yüzüncü Yılı** ve Şubat 2023 Kahramanmaraş depremlerinin ardından ikinci yüzyılına giren Türkiye, 1,1 trilyon doları aşan GSYİH ölçeği ile savunma/enerji atılımlarını enflasyonla mücadele ve bölgesel denge siyasetiyle birlikte yürütmektedir [WB-TUR-2024]."
-        },
-        {
-          "id": "hist-13-russia-soviet-arc",
-          "title": "13. Sovyet–Rusya Stratejik Ekseni: Devrimci Dayanışmadan Bölmeli Ortaklığa (1920–2026)",
-          "content": "Türkiye ile Rusya arasındaki ilişkiler, 1568–1918 arasındaki on iki büyük Osmanlı-Rus savaşından 1920'lerdeki anti-emperyalist dayanışmaya, Soğuk Savaş cepheleşmesine ve günümüzün 'bölmeli stratejik ortaklığına' uzanan beş yüzyıllık bir süreklilik taşır [MEYER-1991, KIREEV-2007].\n\n- **Devrimci Dayanışma ve 1921 Antlaşmaları:** 1920'de Bolşevik Rusya ile Ankara TBMM Hükümeti ortak anti-İtilaf çıkarlarında buluştu. **16 Mart 1921 Moskova Antlaşması** ile Sovyet Rusya Sevr'i reddedip TBMM'yi tanıyan ilk büyük devlet oldu [MOSCOW-TREATY-1921, MILLER-1948]. Moskova, Trabzon üzerinden 10 milyonun üzerinde altın ruble, 39.000 tüfek, 327 makineli tüfek ve top sevkiyatı sağladı; ardından **13 Ekim 1921 Kars Antlaşması** ile Türkiye'nin kuzeydoğu sınırı kesinleşti [KARS-TREATY-1921].\n- **İki Savaş Arası Sanayi Kredileri ve 1945 Krizi:** 1930'larda SSCB, Kayseri ve Nazilli Sümerbank tekstil fabrikalarının inşası için 8 milyon dolarlık faizsiz altın kredi ve Gosplan uzmanları gönderdi [KIREEV-2007]. Ancak Mart 1945'te Stalin'in 1925 Saldırmazlık Paktı'nı feshedip Kars-Ardahan ile Boğazlarda ortak üs talep etmesi, Ankara'yı kesin biçimde Batı ittifakına (1947 Truman Doktrini, 1952 NATO) yöneltti [ZURCHER-2017, KIREEV-2007].\n- **Yumuşama, Enerji Bağımlılığı ve S-400 Gerilimi:** 1960'ların sonundan itibaren Sovyet kredileriyle Seydişehir Alüminyum, İSDEMİR ve Aliağa Rafinerisi kuruldu. 1991 sonrası ticaret, müteahhitlik ve denizaltı boru hatlarıyla (**Mavi Akım 2003**, **TürkAkım 2020**, 20 milyar dolarlık **Akkuyu NGS**) derin bir karşılıklı bağımlılık oluştu. 2015 Su-24 krizinin aşılmasının ardından Türkiye'nin 2017'de Rus **S-400** hava savunma sistemi alması, ABD'nin CAATSA yaptırımlarına ve F-35 programından çıkarılmaya yol açtı [SIPRI-2024-MLX].\n- **Rusya–Ukrayna Savaşı ve Montrö 19. Madde (2022–2026):** Şubat 2022 işgalini kınayan ve Ukrayna'ya Bayraktar TB2 SİHA sağlayan Ankara, aynı zamanda **1936 Montrö Sözleşmesi'nin 19. Maddesi**ni işleterek Boğazları tüm savaşan devletlerin harp gemilerine kapattı, ticaret/enerji kanallarını açık tuttu ve 2022 BM Karadeniz Tahıl Girişimi'ne arabuluculuk etti [UN-TREATY-MONTREUX]."
-        },
-        {
-          "id": "hist-14-bulgaria-regional-multilateral",
-          "title": "14. Bulgaristan–Balkan Ekseni, Bölgesel İlişkiler ve Çok Taraflı İttifaklar (1913–2026)",
-          "content": "Türkiye'nin Balkanlar, Doğu Akdeniz, Orta Doğu ve Avrasya diplomasisi, antlaşmalara dayalı egemenlik ile bölgesel bağlantısallık arasında sürekli bir denge arayışını yansıtır [ZURCHER-2017, FINDLEY-2010].\n\n- **Bulgaristan ve Balkan Ekseni (1913–2026):** 1913 **İstanbul Antlaşması** ve **1925 Ankara Dostluk Antlaşması**, Doğu Trakya sınırını ve Bulgaristan'daki Türk azınlığın dinî-mülki haklarını güvence altına aldı. Soğuk Savaş boyunca 269 km'lik Trakya sınırı NATO ile Varşova Paktı'nın en güney cephesini oluşturdu. 1984–1989'da Todor Jivkov rejiminin zorla asimilasyon kampanyası (*Văzroditelen protses*) Türk isimlerini ve dilini yasakladı; Haziran 1989'da Türkiye sınır kapılarını açınca **360.000'den fazla Bulgaristan Türkü *Büyük Göç* ile Türkiye'ye sığındı** [BULGARIA-EXODUS-1989]. 1989 sonrası demokratikleşme ile azınlık hakları iade edildi; bugün NATO müttefiki iki ülke Avrupa'nın en işlek kara gümrük kapısını (Kapıkule/Kapitan Andreevo) ve BOTAŞ–Bulgargaz LNG bağlantılarını paylaşmaktadır.\n- **Yunanistan (Ege ve Kıbrıs):** 1923 Lozan dengesi çerçevesinde şekillenen ilişkiler; 1955 olayları, 1974 Kıbrıs Harekâtı ve 1996 Kardak krizi gibi gerilimlerin yanı sıra karasuları (6/12 mil), kıta sahanlığı, FIR hattı ve adaların silahsızlandırılması ihtilaflarını barındırmakta, 2023 Atina Bildirgesi gibi yumuşama adımlarıyla yönetilmektedir [LAUSANNE-1923].\n- **Orta Doğu ve Güney Kafkasya:** **İran** ile sınır 1639 Kasr-ı Şirin Antlaşması'ndan bu yana değişmezken, **Suriye ve Irak** ilişkileri Fırat-Dicle sınır aşan suları, terörle mücadele (1998 Adana Mutabakatı) ve 2016 sonrası sınır ötesi güvenlik harekâtları ekseninde şekillenmektedir. Güney Kafkasya'da **2021 Şuşa Beyannamesi** Azerbaycan ile *'Tek millet, iki devlet'* stratejik ittifakını hukukileştirmiştir.\n- **Çok Taraflı Çapalar:** 1952'den beri **NATO**'nun temel direklerinden biri olan (İzmir LANDCOM), 1963 Ankara Antlaşması ve 1995 Gümrük Birliği ile **AB**'ye bağlı bulunan ve **Türk Devletleri Teşkilatı (TDT)**'nın kurucu mimarı olan modern Türkiye, Avrupa ile Avrasya kesişiminde çok eksenli bir orta ölçekli güç konumundadır [FINDLEY-2010, ZURCHER-2017]."
+          "id": "hist-8-dependency-jassy",
+          "title": "8. Dış Bağımlılık, Âyan Ayrılıkçılığı ve Rus Zaferleri (1730'lar–1792)",
+          "content": "1730'lar–1740'lardan itibaren Osmanlı İmparatorluğu ekonomik ve diplomatik olarak Batılı güçlere bağımlı hâle geldi, taşrada *âyan* ve *derebey*ler güçlendi ve Rusya karşısında ağır askerî yenilgiler alındı [NOVICHEV-1963, Bölüm X, s. 209–224; Bölüm XI, s. 226–245].\n\n- **Ekonomik Bağımlılık ve Çiftliklerin Yayılması:** **1740**'ta 'ebedî' kapitülasyonlar (%3 gümrük, iç gümrük muafiyeti; Osmanlı tüccarları %10 ödüyordu) alan Fransa Levant ticaretine hâkim oldu ve imparatorluk hammadde ihracatçısına dönüştü [NOVICHEV-1963, Bölüm X, s. 211–214]. *Mukataa* iltizamı ve şehir sermayesi özel *çiftlik*lere akarken Selim III dönemine gelindiğinde yalnızca 8.356 *tımar* kalmıştı [NOVICHEV-1963, Bölüm X, s. 218–220].\n- **Taşra Âyanları ve Askerî Çöküş:** Anadolu *derebey*leri (Çapanoğulları, Karaosmanoğulları) ve Balkan *âyan*ları (Yanyalı Ali Paşa, Tirsenikli) merkeze meydan okudu; 1768 savaşında maaşlı 75 bin yeniçerinin yalnızca ~%25'i ve kapıkulu süvarisinin <%10'u cepheye geldi; **Bonneval** (1730'lar–1740'lar), **Baron de Tott** (1768–1774) ve **Halil Hamid Paşa**'nın (1785'te idam edildi) reform girişimleri muhafazakâr direnişle engellendi [NOVICHEV-1963, Bölüm X, s. 220–224; Bölüm XI, s. 238–240].\n- **Osmanlı-Rus Savaşları, Küçük Kaynarca (1774) ve Yaş (1792):** Larga, Kartal ve **Çeşme** (7 Temmuz 1770) zaferleri ile Suvorov'un Kozluca zaferinin (1774) ardından **Küçük Kaynarca Antlaşması** (21 Temmuz 1774) Kırım'a bağımsızlık verdi, Kerç, Yenikale, Azak ve Kılburun'u Rusya'ya bıraktı, Rus ticaret gemilerine Karadeniz ve Boğazlar'ı açtı, 7,5 milyon kuruş tazminat yükledi ve Rusya'ya Osmanlı Ortodoksları üzerinde koruyuculuk iddiası tanıdı [NOVICHEV-1963, Bölüm XI, s. 228–235]. Kırım'ın Rusya'ya ilhakı (1783) ve 1787–1791 savaşının (Rymnik ve İsmail yenilgileri) ardından **Yaş Antlaşması** (9 Ocak 1792) sınırı Dinyester olarak belirledi [NOVICHEV-1963, Bölüm XI, s. 241–245].\n- **Geç Dönem Kültür ve İlk Türk Matbaası (1729):** Lâle Devri ve Fransız barok etkilerine karşın edebiyat **Nabî**, **Sabit**, **Nedim** ve **Sürurî** ile didaktizm ve hicve yöneldi; **İbrahim Müteferrika** ve **Said Mehmed Efendi** 1729'da İstanbul'da ilk Türk matbaasını kurarak 1744'e dek 17 eser (23 cilt) bastı [NOVICHEV-1963, Bölüm XII, s. 247–253]."
         }
       ],
       "infographics": [
         {
           "type": "stat-grid",
-          "id": "hist-macro-benchmarks",
-          "title": "Tarihsel Makro Göstergeler: Osmanlı İmparatorluğu'ndan Modern Cumhuriyete (1566–2026)",
+          "id": "novichev-feudal-benchmarks",
+          "title": "Selçuklu ve Osmanlı Feodalizmi: Temel Sayısal Göstergeler (1071–1792)",
           "data": [
             {
-              "value": "~5,2 Milyon km²",
-              "label": "Osmanlı Toprak Zirvesi",
-              "sub": "16.–17. yüzyıllarda 3 kıtaya yayılan azami imparatorluk alanı [INALCIK-1973]"
+              "value": "6M km²",
+              "label": "16. Yüzyıl İmparatorluk Toprağı",
+              "sub": "Üç kıtada zirve genişlik; 16. yy sonunda ~25M nüfus [Bölüm IV, s. 98]"
             },
             {
-              "value": "783.562 km²",
-              "label": "Lozan Egemenlik Alanı",
-              "sub": "1923 Lozan sınırları (+ 1939 Hatay katılımı) [LAUSANNE-1923]"
+              "value": "10.000 → 41.171",
+              "label": "Tımar ve Zeamet Bölünmesi",
+              "sub": "Bayezid II dönemi dirlikleri vs. Aynî Ali'nin 1607 sayımı [Bölüm III, s. 56; V, s. 115]"
             },
             {
-              "value": "13,6M → 85,4M",
-              "label": "Cumhuriyet Nüfus Artışı",
-              "sub": "1927 ilk nüfus sayımı ile 2024 ADNKS verisi [TUIK-2024-POP]"
+              "value": "98B → 700B",
+              "label": "İstanbul Nüfus Artışı",
+              "sub": "1478 sayımı vs. 1571–1580 (köylü göçüyle +75% artış) [Bölüm IV, s. 104; VI, s. 142]"
             },
             {
-              "value": "%10,6 → %97,6",
-              "label": "Okuryazarlık Dönüşümü",
-              "sub": "1927 Harf Devrimi öncesi oran vs. 2024 yetişkin okuryazarlığı [TUIK-2024-POP]"
+              "value": "35 → 220 Akçe",
+              "label": "Akçe Tağşişi (1548–1605)",
+              "sub": "Altın sikke karşılığı; gümüş oranı 16. yy'da 3–4 kat düştü [Bölüm V, s. 119, 122]"
             },
             {
-              "value": "10M+ Altın Ruble",
-              "label": "1921 Sovyet Mali ve Silah Desteği",
-              "sub": "Moskova Antlaşması kapsamında Millî Mücadele yardımı [MOSCOW-TREATY-1921]"
+              "value": "48.316 → 91.202",
+              "label": "Kapıkulu Ordusu Genişlemesi",
+              "sub": "1566'dan 1609'a (maaş yükü 126,4M'den 310,8M akçeye çıktı) [Bölüm VI, s. 155]"
             },
             {
-              "value": "360.000+",
-              "label": "1989 Büyük Göç Sığınmacısı",
-              "sub": "90 gün içinde Türkiye'ye kabul edilen Bulgaristan Türkleri [BULGARIA-EXODUS-1989]"
+              "value": "200.000+",
+              "label": "Celâlî İsyancıları (1603–1609)",
+              "sub": "Anadolu genelinde köylü-göçebe savaşçılar; bastırmada 65B–100B+ ölü [Bölüm V, s. 131, 134]"
             },
             {
-              "value": "1952",
-              "label": "NATO Üyelik Yılı",
-              "sub": "1947 Truman Doktrini sonrası güneydoğu kanat üyeliği [ZURCHER-2017]"
+              "value": "%3 vs. %10",
+              "label": "1740 Kapitülasyon Gümrük Farkı",
+              "sub": "Fransız tüccarlar %3 (iç gümrüksüz), Osmanlılar %10 ödedi [Bölüm X, s. 212]"
             },
             {
-              "value": ">%80",
-              "label": "Yerli Savunma Sanayii Oranı (2024)",
-              "sub": "2016 sonrası savunma teknolojileri özerklik düzeyi [SIPRI-2024-MLX]"
+              "value": "7,5M Kuruş",
+              "label": "1774 Küçük Kaynarca Tazminatı",
+              "sub": "Rusya'ya 3 yılda ödenen 4,5M rubleye eşdeğer savaş tazminatı [Bölüm XI, s. 233]"
             }
           ]
         },
         {
           "type": "timeline",
-          "id": "hist-ottoman-timeline",
-          "title": "Osmanlı İmparatorluk, Yapısal Dönüşüm ve Meşrutiyet Kronolojisi (1071–1922)",
+          "id": "novichev-feudal-timeline",
+          "title": "Selçuklu Anadolu'sundan Yaş Antlaşması'na Dönüm Noktaları (1071–1792)",
           "items": [
             {
               "year": "1071",
-              "event": "Malazgirt Zaferi: Büyük Selçuklu Sultanı Alp Arslan Bizans'ı yenerek Anadolu'yu Türk yerleşimine açtı."
+              "event": "Malazgirt Savaşı: Büyük Selçuklu Sultanı Alp Arslan Bizans'ı yenerek Anadolu'yu Oğuz yerleşimine açtı [Bölüm I, s. 7]."
+            },
+            {
+              "year": "1239",
+              "event": "Baba İshak ayaklanması: Selçuklu Anadolu'sundaki ilk büyük antifeodal köylü-göçebe isyanı [Bölüm I, s. 17–18]."
             },
             {
               "year": "1243",
-              "event": "Kösedağ Savaşı: Moğol yenilgisi sonrası Anadolu Selçuklu otoritesi çözülerek Anadolu Beylikleri kuruldu."
+              "event": "Kösedağ Savaşı (1 Temmuz): Moğollar Selçukluları bozguna uğrattı; vergiler üç katına çıktı [Bölüm I, s. 19–21]."
             },
             {
               "year": "1299",
-              "event": "Osman Gazi önderliğinde Söğüt'te (Bitinya) Osmanlı Beyliği'nin geleneksel kuruluşu."
+              "event": "Selçuklu Devleti'nin 12 beyliğe bölünmesi ortamında Osman I'in bağımsız Osmanlı Devleti'ni kurması [Bölüm I, s. 24; II, s. 28]."
+            },
+            {
+              "year": "1402",
+              "event": "Ankara Savaşı (28 Temmuz): Timur Bayezid I'i yenip esir aldı; 11 yıllık Fetret Devri başladı [Bölüm II, s. 36–37]."
+            },
+            {
+              "year": "1416",
+              "event": "Şeyh Bedreddin, Börklüce Mustafa ve Torlak Kemal Batı Anadolu ve Rumeli'de eşitlikçi köylü isyanına önderlik etti [Bölüm II, s. 38–40]."
             },
             {
               "year": "1453",
-              "event": "Fatih Sultan Mehmed 29 Mayıs'ta İstanbul'u fethederek devleti Avrasya imparatorluğuna dönüştürdü."
+              "event": "İstanbul'un Fethi (29 Mayıs): Mehmed II Bizans'a son verdi, imparatorluk başkentini kurdu ve kanunnameleri çıkardı [Bölüm III, s. 46–47, 57]."
             },
             {
-              "year": "1517",
-              "event": "Yavuz Sultan Selim Memlûk Devleti'ni yıkarak Mısır, Suriye, Hicaz ve Hilafeti Osmanlı'ya kattı."
+              "year": "1514–1517",
+              "event": "Selim I Safevileri Çaldıran'da (1514), Memlûkleri Mercidabık (1516) ve Kahire'de (1517) yenerek toprakları ikiye katladı [Bölüm IV, s. 82–83]."
             },
             {
-              "year": "1526–1566",
-              "event": "Kanûnî Sultan Süleyman dönemi: Mohaç Zaferi, Kanunnâme tedvini, Tımar ve Millet düzeninin zirvesi."
+              "year": "1526–1529",
+              "event": "Süleyman I Mohaç'ta (1526) Macaristan'ı vasallaştırdı ancak Birinci Viyana Kuşatması'nda (1529) başarısız oldu [Bölüm IV, s. 87–88]."
             },
             {
-              "year": "1699",
-              "event": "Karlofça Antlaşması: 1683 Viyana bozgunu sonrası Avrupa'daki ilk büyük toprak kaybı."
+              "year": "1535",
+              "event": "Osmanlı-Fransız 'Barış, Dostluk ve Ticaret Antlaşması' Fransa'ya temel kapitülasyon ayrıcalıklarını verdi [Bölüm IV, s. 95–96]."
+            },
+            {
+              "year": "1595–1609",
+              "event": "'Celâlî Fetreti' Anadolu'yu sardı; Kuyucu Murad Paşa tarafından bastırılmasının ardından 1609 Adaletname'si ilan edildi [Bölüm V, s. 127–134]."
+            },
+            {
+              "year": "1683–1699",
+              "event": "Viyana bozgunu (1683) ve Kutsal İttifak savaşı, Macaristan ve Podolya'nın bırakıldığı Karlofça Antlaşması (26 Ocak 1699) ile sonuçlandı [Bölüm VIII, s. 186–190]."
+            },
+            {
+              "year": "1729–1730",
+              "event": "İbrahim Müteferrika ilk Türk matbaasını açtı (1729); Patrona Halil ayaklanması Ahmed III'ü tahttan indirdi (1730) [Bölüm IX, s. 201–204; XII, s. 253]."
             },
             {
               "year": "1774",
-              "event": "Küçük Kaynarca Antlaşması ile Kırım koptu, Karadeniz Rus gemilerine açıldı ve Şark Meselesi başladı."
+              "event": "Küçük Kaynarca Antlaşması (21 Temmuz): Rusya Karadeniz/Boğazlar seyrüsefer hakkı, Kırım bağımsızlığı ve Ortodoks himayesi iddiası kazandı [Bölüm XI, s. 233]."
             },
             {
-              "year": "1808",
-              "event": "Sultan II. Mahmud ile taşra Âyanları arasında Sened-i İttifak imzalandı."
-            },
-            {
-              "year": "1826",
-              "event": "Vak'a-i Hayriye: II. Mahmud Yeniçeri Ocağı'nı kaldırarak merkezî bakanlıkları kurdu."
-            },
-            {
-              "year": "1839 & 1856",
-              "event": "Tanzimat (Gülhane) ve Islahat Fermanları tüm tebaaya hukuki eşitlik ve Nizâmiye mahkemeleri getirdi."
-            },
-            {
-              "year": "1876",
-              "event": "Midhat Paşa ve II. Abdülhamid döneminde ilk Osmanlı anayasası Kanûn-ı Esâsî ilan edildi."
-            },
-            {
-              "year": "1908",
-              "event": "Jön Türk Devrimi (İTC) II. Meşrutiyet'i ilan etti; 1909 değişiklikleri Meclis üstünlüğünü kurdu."
-            },
-            {
-              "year": "1912–1913",
-              "event": "Balkan Savaşları ile Avrupa toprakları kaybedildi; Anadolu'ya büyük muhacir akını yaşandı."
-            },
-            {
-              "year": "1915",
-              "event": "Çanakkale Zaferi İtilaf geçişini durdurdu; savaş koşullarında Ermeni Tehcir Kanunu uygulandı."
-            },
-            {
-              "year": "1920–1922",
-              "event": "Sevr Antlaşması (1920) Ankara'ca reddedildi; TBMM 1 Kasım 1922'de 623 yıllık Saltanatı kaldırdı."
-            }
-          ]
-        },
-        {
-          "type": "timeline",
-          "id": "hist-republican-timeline",
-          "title": "Modern Cumhuriyet, Diplomasi ve Anayasal Dönüm Noktaları (1919–2026)",
-          "items": [
-            {
-              "year": "1919",
-              "event": "Mustafa Kemal 19 Mayıs'ta Samsun'a çıktı; Erzurum ve Sivas Kongreleri millî direnişi birleştirdi."
-            },
-            {
-              "year": "1920",
-              "event": "Misak-ı Millî kabul edildi; Türkiye Büyük Millet Meclisi (TBMM) 23 Nisan'da Ankara'da açıldı."
-            },
-            {
-              "year": "1921",
-              "event": "Sovyet Rusya ile Moskova ve Kars Antlaşmaları imzalandı; Sakarya Zaferi kazanıldı."
-            },
-            {
-              "year": "1923",
-              "event": "Lozan Barış Antlaşması imzalandı (24 Temmuz); 29 Ekim'de Cumhuriyet ilan edildi."
-            },
-            {
-              "year": "1924–1934",
-              "event": "Hilafet kaldırıldı (1924), Medeni Kanun (1926), Harf Devrimi (1928) ve Kadınlara Seçme Hakkı (1934)."
-            },
-            {
-              "year": "1936",
-              "event": "Montrö Boğazlar Sözleşmesi ile İstanbul ve Çanakkale Boğazlarında tam Türk egemenliği sağlandı."
-            },
-            {
-              "year": "1945–1952",
-              "event": "Stalin'in 1945 talepleri; 1950 DP ile çok partili iktidar değişimi; 1952'de NATO üyeliği."
-            },
-            {
-              "year": "1960–1962",
-              "event": "1960 Darbesi ve özgürlükçü 1961 Anayasası; 1962 Küba Krizi'nde İzmir'den Jüpiter füzeleri söküldü."
-            },
-            {
-              "year": "1974",
-              "event": "Ecevit hükümeti 1960 Garanti Antlaşması uyarınca Kıbrıs Barış Harekâtı'nı gerçekleştirdi."
-            },
-            {
-              "year": "1980–1982",
-              "event": "12 Eylül Darbesi, 1982 Anayasası ve Özal'ın 24 Ocak serbest piyasa dönüşümü."
-            },
-            {
-              "year": "1989",
-              "event": "Büyük Göç: 360.000'den fazla Bulgaristan Türkü Jivkov'un asimilasyonundan kaçarak Türkiye'ye sığındı."
-            },
-            {
-              "year": "1995–1999",
-              "event": "AB Gümrük Birliği (1995), 28 Şubat süreci (1997) ve AB Helsinki adaylık tescili (1999)."
-            },
-            {
-              "year": "2002–2005",
-              "event": "AKP tek başına iktidar oldu (2002); resmî AB katılım müzakereleri açıldı (2005)."
-            },
-            {
-              "year": "2016–2017",
-              "event": "15 Temmuz darbe girişimi bastırıldı (2016); 2017 referandumuyla Cumhurbaşkanlığı Hükümet Sistemine geçildi."
-            },
-            {
-              "year": "2020–2021",
-              "event": "TürkAkım açıldı (2020); Azerbaycan ile Şuşa Beyannamesi imzalandı (2021)."
-            },
-            {
-              "year": "2022–2026",
-              "event": "Ukrayna Savaşı'nda Montrö 19. Madde uygulaması; 2023 Cumhuriyet Yüzyılı ve savunma/enerji atılımları."
+              "year": "1792",
+              "event": "Yaş Antlaşması (9 Ocak) 1787–1791 savaşını bitirerek Osmanlı-Rus sınırını Dinyester Nehri olarak belirledi [Bölüm XI, s. 245]."
             }
           ]
         },
         {
           "type": "comparison-table",
-          "id": "hist-charters-matrix",
-          "title": "Osmanlı ve Türkiye Anayasal Belgeleri ve Reform Fermanları (1808–2017)",
+          "id": "novichev-land-tenure-matrix",
+          "title": "Osmanlı Toprak Rejimi ve Toplumsal Yükümlülükler (15.–18. Yüzyıllar)",
           "headers": [
-            "Belge / Reform",
-            "Yıl",
-            "Tarihsel Bağlam",
-            "Temel Kurumsal ve Hukuki Değişim",
-            "Kaynak"
+            "Kategori",
+            "Hukuki Statü ve Sahibi",
+            "Gelir / Büyüklük Ölçütü",
+            "Askerî ve Mali Yükümlülükler"
           ],
           "rows": [
             [
-              "Sened-i İttifak",
-              "1808",
-              "Alemdar Mustafa Paşa ve taşra Âyanları",
-              "Mutlak padişah yetkisini sınırlayan ilk karşılıklı ittifak belgesi",
-              "ORTAYLI-1983"
+              "Hass",
+              "Sultan, hanedan, vezirler ve beylerbeylere tahsisli devlet toprağı (arz-ı mirî)",
+              "≥100.000 akçe (Sadrazam: 1477'de 1,2M akçe)",
+              "Her 5.000 akçe için 1 cebeli; tam vergi ve idari muafiyet [Bölüm III, s. 54–55]"
             ],
             [
-              "Gülhane Hatt-ı Hümâyunu",
-              "1839",
-              "Abdülmecid döneminde Tanzimat'ın ilanı",
-              "Din farkı olmaksızın can, mal, namus güvenliği; düzenli vergi ve askerlik",
-              "FINDLEY-2010"
+              "Zeamet",
+              "Üst düzey askerî-idari görevlilere (zaim) verilen orta dirlik",
+              "20.000–99.999 akçe (genellikle kasaba + köyler)",
+              "Her 5.000 akçe için 1 cebeli; 'serbest tımar' muafiyeti [Bölüm III, s. 54–55]"
             ],
             [
-              "Kanûn-ı Esâsî",
-              "1876 / 1909",
-              "I. ve II. Meşrutiyet dönemleri",
-              "İlk yazılı Osmanlı anayasası; çift meclis; 1909'da yasama üstünlüğü",
-              "HANIOGLU-2008"
+              "Tımar",
+              "Eyalet süvarilerine (sipahi) verilen küçük koşullu dirlik",
+              "Genelde 3.000–10.000 akçe (20 bine dek); 1–3 köy",
+              "Şahsen sefer + her 3.000 akçe için 1 cebeli; tam muafiyeti yok [Bölüm III, s. 54–55]"
             ],
             [
-              "Teşkilât-ı Esâsîye",
-              "1921",
-              "Kurtuluş Savaşı (Ankara TBMM)",
-              "'Egemenlik kayıtsız şartsız milletindir' ilkesi; Meclis Hükümeti sistemi",
-              "TBMM-CONST-1982"
+              "Vakıf",
+              "Mütevellilerce yönetilen devredilemez dinî/hayrî mülk",
+              "Değişken (Süleymaniye: 44 köy, 440.138 akçe)",
+              "Devlet müdahalesinden muaf; köylü yükü çoğu kez mirî topraktan ağır [Bölüm III, s. 55, 59; IV, s. 102]"
             ],
             [
-              "1924 Anayasası",
-              "1924",
-              "Lozan sonrası erken Cumhuriyet",
-              "Devlet dini ibaresinin kaldırılması (1928) ve Altı Ok'un anayasaya girişi (1937)",
-              "LEWIS-2002"
-            ],
-            [
-              "1961 Anayasası",
-              "1961",
-              "1960 Darbesi sonrası demokratik-vesayetçi düzen",
-              "AYM'nin kuruluşu, çift meclis, geniş haklar ve MGK'nın anayasallaşması",
-              "AHMAD-1993"
-            ],
-            [
-              "1982 Anayasası",
-              "1982",
-              "1980 Darbesi sonrası güvenlik odaklı anayasa",
-              "Güçlü cumhurbaşkanlığı, %10 barajı, değiştirilemez ilk 3 madde",
-              "TBMM-CONST-1982"
-            ],
-            [
-              "2017 Anayasa Değişikliği",
-              "2017",
-              "15 Temmuz sonrası yürütme reformu",
-              "Başbakanlığın ilgası, Cumhurbaşkanlığı Kararnameleri, 600 üyeli TBMM",
-              "TBMM-CONST-1982"
+              "Mülk / Çiftlik",
+              "Koşulsuz özel mülkiyet (17.–18. yy'da tefecilik/satışla ticarî çiftlik)",
+              "Onlarca köye dek; 18. yy sonunda ücretli işçi (ırgat)",
+              "Mülklerde ürünün 1/5'ine varan rant; geç dönem çiftliklerde pazar üretimi [Bölüm III, s. 56, 59; V, s. 125; X, s. 220]"
             ]
           ]
         },
         {
           "type": "comparison-table",
-          "id": "hist-treaties-matrix",
-          "title": "Egemenlik Antlaşmaları, Sınır Düzenlemeleri ve Stratejik Mutabakatlar (1639–2021)",
+          "id": "novichev-treaties-matrix",
+          "title": "Üstünlükten Geri Çekilmeye: Başlıca Antlaşmalar (1479–1792)",
           "headers": [
-            "Antlaşma / Belge",
-            "Tarih",
+            "Antlaşma ve Tarih",
             "Taraflar",
-            "Toprak ve Egemenlik Hükümleri",
-            "Arşiv / Kaynak"
+            "Toprak ve Diplomasi Hükümleri",
+            "Tarihsel Önemi"
           ],
           "rows": [
             [
-              "Kasr-ı Şirin Antlaşması",
-              "17 May 1639",
-              "Osmanlı Devleti ve Safevî İran",
-              "Bugünkü Türkiye-İran sınırının temelini atan tarihsel sınır antlaşması",
-              "INALCIK-1973"
+              "İstanbul (26 Ocak 1479)",
+              "Osmanlı vs. Venedik",
+              "Venedik Ege adalarını bırakır, 100B + yıllık 10B duka öder; balyos yargısı ve gümrüksüz ticaret alır",
+              "Yabancı kapitülasyonların erken şablonu [Bölüm III, s. 50]"
             ],
             [
-              "Karlofça Antlaşması",
-              "26 Oca 1699",
-              "Osmanlı Devleti ve Kutsal İttifak",
-              "Avrupa'da ilk büyük toprak kaybı (Macaristan, Erdel, Podolya)",
-              "FAROQHI-1994"
+              "Amasya (29 Mayıs 1555)",
+              "Osmanlı vs. Safevi İran",
+              "Irak (Bağdat) Osmanlı'ya; Azerbaycan İran'a; Gürcistan ve Ermenistan paylaşılır",
+              "Güney Kafkasya'nın ilk resmî paylaşımı [Bölüm IV, s. 91]"
             ],
             [
-              "Küçük Kaynarca Antlaşması",
-              "21 Tem 1774",
-              "Osmanlı Devleti ve Rus İmparatorluğu",
-              "Kırım'ın kopuşu, Karadeniz'de Rus ticareti ve Ortodoks himaye iddiası",
-              "MEYER-1991"
+              "Zitvatorok (11 Kasım 1606)",
+              "Osmanlı vs. Avusturya",
+              "Mevcut sınırlar; 200B duka peşinle yıllık 30B haraç kalkar; Habsburg 'İmparator' sayılır",
+              "Osmanlı denkliğinin/gerilemesinin ilk diplomatik kabulü [Bölüm V, s. 140]"
             ],
             [
-              "İstanbul Antlaşması",
-              "29 Eyl 1913",
-              "Osmanlı Devleti ve Bulgaristan Krallığı",
-              "Doğu Trakya sınırının çizilmesi ve Bulgaristan Türklerinin hakları",
-              "BULGARIA-EXODUS-1989"
+              "Karlofça (26 Ocak 1699)",
+              "Osmanlı vs. Kutsal İttifak",
+              "Macaristan ve Erdel Avusturya'ya; Podolya Polonya'ya; Mora Venedik'e",
+              "Osmanlı Avrupa topraklarının ilk büyük paylaşımı [Bölüm VIII, s. 190]"
             ],
             [
-              "Sevr Antlaşması (Onaysız)",
-              "10 Ağu 1920",
-              "İtilaf Devletleri ve İstanbul Hükümeti",
-              "Anadolu'yu parçalayan antlaşma; Millî Mücadele ile geçersiz kılındı",
-              "LAUSANNE-1923"
+              "Küçük Kaynarca (21 Temmuz 1774)",
+              "Osmanlı vs. Rusya",
+              "Kırım bağımsız; Azak/Kerç/Kılburun Rusya'ya; Boğazlarda ticaret; 7,5M kuruş tazminat",
+              "Dönüm noktası: Rusya Karadeniz gücü ve Ortodoks hamisi [Bölüm XI, s. 233–235]"
             ],
             [
-              "Moskova Antlaşması",
-              "16 Mar 1921",
-              "TBMM Hükümeti ve Sovyet Rusyası (RSFSC)",
-              "Sevr'in reddi; TBMM'nin tanınması; altın ve silah yardımı",
-              "MOSCOW-TREATY-1921"
-            ],
-            [
-              "Kars Antlaşması",
-              "13 Eki 1921",
-              "TBMM ve Kafkasya Sovyet Cumhuriyetleri",
-              "Kuzeydoğu sınırının (Kars, Ardahan, Artvin) kesinleştirilmesi",
-              "KARS-TREATY-1921"
-            ],
-            [
-              "Lozan Barış Antlaşması",
-              "24 Tem 1923",
-              "TBMM Hükümeti ve İtilaf Devletleri",
-              "Türkiye Cumhuriyeti'nin tam egemenliği ve kapitülasyonların ilgası",
-              "LAUSANNE-1923"
-            ],
-            [
-              "Montrö Boğazlar Sözleşmesi",
-              "20 Tem 1936",
-              "Türkiye ve 9 İmzacı Devlet",
-              "Boğazlarda Türk askerî egemenliğinin iadesi ve savaş gemisi geçiş rejimi",
-              "UN-TREATY-MONTREUX"
-            ],
-            [
-              "Şuşa Beyannamesi",
-              "15 Haz 2021",
-              "Türkiye Cumhuriyeti ve Azerbaycan",
-              "İkili askerî-stratejik ittifakın ve bölgesel koridor işbirliğinin tescili",
-              "SIPRI-2024-MLX"
+              "Yaş (9 Ocak 1792)",
+              "Osmanlı vs. Rusya",
+              "Dinyester sınırı; Özi Rusya'ya; Gürcistan üzerindeki Osmanlı iddialarının terki",
+              "Rusya karşısında askerî yetersizliğin teyidi [Bölüm XI, s. 245]"
             ]
           ]
         },
         {
           "type": "organogram",
-          "id": "hist-ottoman-governance-organo",
-          "title": "Klasik Osmanlı İmparatorluk Yönetimi ve İdari Sütunları (16. Yüzyıl)",
+          "id": "novichev-ottoman-state-organogram",
+          "title": "Klasik Osmanlı Merkez ve Taşra Teşkilatı (15.–16. Yüzyıllar)",
           "nodes": [
             {
-              "title": "Padişah ve Halife",
-              "sub": "Mutlak Egemen, Başkomutan ve Hâdimü'l-Haremeyn",
+              "title": "Sultan (Padişah / Emirü'l-Müminin)",
+              "sub": "Mutlak hükümdar, başkomutan ve Sünni halife [Bölüm III, s. 64]",
               "type": "primary"
             },
             {
-              "title": "Divan-ı Hümâyun",
-              "sub": "Sadrazam başkanlığında en yüksek yürütme, yasama ve temyiz organı",
+              "title": "Merkez Divanı ('Erkân-ı Devlet')",
+              "sub": "Sadrazam, Rumeli ve Anadolu Kazaskerleri, Başdefterdar (Maliye) ve Nişancı (Kanun ve Tuğra) [Bölüm III, s. 65–66]",
               "type": "executive"
             },
             {
-              "title": "Seyfiye (Askerî-Yürütme)",
-              "sub": "Kapıkulu Yeniçerileri, Tımarlı Sipahiler, Beylerbeyi ve Sancakbeyleri",
+              "title": "Taşra Yönetimi (Eyaletler ve Sancaklar)",
+              "sub": "16. yy ortasında 21 eyalet ve 250 sancağı yöneten Beylerbeyler ve Sancakbeyler [Bölüm III, s. 65; IV, s. 99]",
               "type": "branch"
             },
             {
-              "title": "İlmiye (Yargı-Din-Eğitim)",
-              "sub": "Şeyhülislâm, Kazaskerler, Kadılar (Şer'î/Örfî yargı) ve Müderrisler",
+              "title": "Kapıkulu (Maaşlı Merkez Ordusu)",
+              "sub": "Yeniçeriler (devşirme), cebeciler, topçular ve 6 bölük kapıkulu süvarisi [Bölüm III, s. 74–75]",
               "type": "branch"
             },
             {
-              "title": "Kalemiye (Bürokrasi-Maliye)",
-              "sub": "Nişancı (tuğra/kanun), Defterdar (hazine) ve Reisülküttab (hariciye)",
+              "title": "Eyalet Askeri ve Donanma",
+              "sub": "Cebelileriyle sipahi tımarlılar/zaimler, akıncılar, azaplar ve Kapudan Paşa donanması [Bölüm III, s. 75–77]",
               "type": "branch"
             },
             {
               "title": "Reaya ve Özerk Milletler",
-              "sub": "Vergi yükümlüsü Müslüman halk + Rum Ortodoks, Ermeni ve Yahudi Milletleri",
-              "type": "local"
-            }
-          ]
-        },
-        {
-          "type": "organogram",
-          "id": "hist-republican-evolution-organo",
-          "title": "Modern Cumhuriyetin Kurumsal ve Jeopolitik Evrimi (1923–2026)",
-          "nodes": [
-            {
-              "title": "Türkiye Büyük Millet Meclisi (TBMM, 1920)",
-              "sub": "Kayıtsız şartsız millî egemenliğin kurucu kaynağı",
-              "type": "primary"
-            },
-            {
-              "title": "Kemalist Devrim ve Altı Ok (1923–1946)",
-              "sub": "Medeni Kanun, Harf Devrimi, Diyanet, Devletçilik ve Lozan/Montrö egemenliği",
-              "type": "executive"
-            },
-            {
-              "title": "Çok Partili Hayat ve Soğuk Savaş (1946–1991)",
-              "sub": "1950 DP iktidarı, 1952 NATO üyeliği, 1961/1982 Anayasaları, Özal serbest piyasası",
-              "type": "branch"
-            },
-            {
-              "title": "21. Yüzyıl Cumhurbaşkanlığı Sistemi (2017–2026)",
-              "sub": "Cumhurbaşkanlığı Hükümet Sistemi, >%80 yerli savunma ve çok yönlü diplomasi",
+              "sub": "Vergi ödeyen Müslüman köylü/esnaf ile Rum, Ermeni ve Yahudi milletleri [Bölüm III, s. 58, 72–73]",
               "type": "local"
             }
           ]

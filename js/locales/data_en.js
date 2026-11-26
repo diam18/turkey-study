@@ -308,487 +308,293 @@ const ACADEMIC_DATA_EN = {
     {
       "id": "history",
       "number": "01",
-      "title": "History of Turkey: Ottoman Empire & Modern Republic",
-      "tagline": "From Seljuk Anatolia and classical Ottoman imperial statecraft to the Kemalist Revolution, Cold War geopolitics, and twenty-first-century Turkey.",
+      "title": "History of Turkey: The Epoch of Feudalism (1070s–1792)",
+      "tagline": "From the Seljuk Sultanate of Rum and classical Ottoman feudalism to the Celali revolts, Patrona Halil uprising, and late-18th-century diplomatic retreat.",
       "icon": "landmark",
-      "readingTime": "65 min read",
-      "summary": "A comprehensive, twenty-five-page academic treatise tracing nearly a millennium of Anatolian and Turkish statehood—from the Battle of Manzikert (1071) and the classical Ottoman institutional order (Timar, Devşirme, Millet, Divan-ı Hümayun) through structural crisis, Tanzimat modernization, World War I, the Turkish War of Independence, Kemalist secularization, multi-party oscillations, and Turkey's twenty-first-century executive presidency and multi-vector diplomacy. Grounded in leading English, Turkish, and Russian historiography.",
+      "readingTime": "45 min read",
+      "summary": "A socio-economic and institutional history of Turkey during the epoch of feudalism (1070s–1792), grounded in A. D. Novichev's monograph. Traces the transition of Oghuz nomads to sedentary feudal agriculture, the rise and decay of the timar military-fief system, urban esnaf guilds, anti-feudal peasant and urban uprisings (Baba Ishak, Sheikh Bedreddin, Celali, Patrona Halil), Western capitulatory penetration, and Russo-Ottoman relations through the 1792 Treaty of Jassy [NOVICHEV-1963].",
       "sections": [
         {
-          "id": "hist-1-seljuk-beyliks",
-          "title": "1. Pre-Ottoman Anatolia, Seljuk Statehood & the Beyliks Epoch (1071–1299)",
-          "content": "The historical trajectory of modern Turkey is rooted in successive layers of civilizational synthesis across the Anatolian plateau, where Turkic nomadic traditions encountered Byzantine administrative structures, Persianate court culture, and Islamic jurisprudence [INALCIK-1973, EREMEEV-1992]. Following the westward migration of Oghuz Turkic confederations into Western Asia, the decisive victory of Great Seljuk Sultan Alp Arslan over the Byzantine Emperor Romanos IV Diogenes at the **Battle of Manzikert (Malazgirt)** on August 26, 1071 shattered the Byzantine eastern frontier and opened Anatolia to permanent Turkic settlement and Islamization [EREMEEV-1992, TDV-IA-OSMANLI].\n\n- **The Seljuk Sultanate of Rum (1077–1308):** Established by Süleyman ibn Qutulmish with its initial capital at Nicaea (İznik) and subsequently at Iconium (Konya), the Sultanate of Rum forged a sophisticated Perso-Turkic high culture [TDV-IA-OSMANLI]. Under sultans such as Kılıç Arslan II and Alaeddin Keykubad I (r. 1220–1237), the state secured Mediterranean and Black Sea outlets (Antalya, Alanya, Sinop) and constructed an extensive network of fortified *caravanserais* (*han*), madrasas, and hospitals along trans-Anatolian Silk Road corridors [EREMEEV-1992].\n- **Intellectual & Mystical Synthesis:** Konya became a premier refuge for Islamic scholarship fleeing the Mongol advance in Central Asia and Khorasan. Luminaries such as **Mevlana Jalaluddin Rumi**, Yunus Emre, and Hacı Bektaş Veli articulated vernacular Turkish and Persian mystical traditions (*Sufism*) that facilitated cultural integration across diverse Christian and Muslim Anatolian populations [KAFADAR-1995].\n- **Mongol Vassalage & the Anatolian Beyliks:** Following the catastrophic defeat of the Seljuks by the Ilkhanid Mongols at the **Battle of Köse Dağ (1243)**, central authority in Konya fragmented into autonomous Turkoman frontier principalities (*Anadolu Beylikleri*), including the Karamanoğulları, Germiyanoğulları, Menteşeoğulları, Aydınoğulları, and the small northwestern marcher principality (*uc beyliği*) of **Osman I** (*Osmanoğulları*) centered at Söğüt in Bithynia [INALCIK-1973, NOVICHEV-1963].\n- **The Frontier Ghazi Ethos:** As Cemal Kafadar and Halil İnalcık demonstrate, the Ottoman beylik's strategic location directly bordering the weakened Byzantine Empire attracted displaced nomadic warriors, *Akhi* urban craft brotherhoods, and heterodox dervishes (*Abdalân-ı Rum*), enabling Osman I (r. c. 1299–1326) and Orhan Gazi (r. 1326–1362) to capture Bursa (1326), Nicaea (1331), and Nicomedia (1337) and cross the Dardanelles into Rumelia (1354) [INALCIK-1973, KAFADAR-1995]."
+          "id": "hist-1-seljuk-rum",
+          "title": "1. The Seljuk Sultanate of Rum & the Anatolian Beyliks (1070s–1307)",
+          "content": "The first Turkish state in Asia Minor emerged in the 1070s as nomadic Oghuz (*Kınık*) tribes defeated Byzantium and transitioned from pastoralism to sedentary feudal agriculture by adopting local Greek and Armenian agrarian practices [NOVICHEV-1963, Ch. I, pp. 5, 7, 13].\n\n- **Conquest & State Formation (1071–1116):** Following raids into Armenia (1015–1021) and Anatolia (from 1047), Great Seljuk Sultan Alp Arslan shattered the Byzantine army at **Manzikert** (1071), enabling Suleiman ibn Qutulmish to establish the **Sultanate of Rum** with Nicaea (1080) and later **Konya** (1116) as capital after First Crusade defeats at Nicaea and Dorylaeum (1097) [NOVICHEV-1963, Ch. I, pp. 7–10].\n- **Agrarian & Feudal Foundations:** Arable land was state property vested in the sultan, who granted conditional military fiefs (*ikta*, unofficially *timar*) alongside clerical *vakf* and private *mülk* holdings; peasants (*mezari* sharecroppers and *dehkan* freeholders) paid a tenth-of-harvest *uşr* tax-rent [NOVICHEV-1963, Ch. I, pp. 14–15].\n- **Urban Craft Guilds & Popular Revolts:** Cities such as Konya, Kayseri, and Sivas (100,000–120,000 inhabitants) hosted craft guilds linked to the *Ahi* brotherhoods, while deepening feudal exploitation sparked the massive 1239 peasant-nomad uprising under the Baba'i dervish **Baba Ishak** [NOVICHEV-1963, Ch. I, pp. 15–18].\n- **Mongol Vassalage, Cimri & Fragmentation (1243–1307):** Defeat by the Mongols at **Köse Dağ** (July 1, 1243) tripled tax burdens (from 200,000 to 600,000 dinars by 1295), provoked the 1277–1278 **Cimri** uprising (which briefly held Konya and mandated Turkish in the Divan), and fractured the sultanate into 12 independent *beyliks* by 1299 before the last sultan was killed in 1307 [NOVICHEV-1963, Ch. I, pp. 19–24]."
         },
         {
           "id": "hist-2-ottoman-rise",
-          "title": "2. Rise of the Ottoman Principality & the Conquest of Constantinople (1299–1453)",
-          "content": "Within a century and a half, the Bithynian marcher principality transformed into a centralized Eurasian empire straddling the Balkans and Anatolia [INALCIK-1973, NOVICHEV-1963]. Under **Murad I** (r. 1362–1389), the Ottomans captured Adrianople (Edirne, c. 1361–1369), establishing a European imperial capital, and defeated Serbian and Balkan coalitions at the Maritsa River (1371) and Kosovo Polje (1389). Murad I institutionalized the *Janissary* (*Yeniçeri*) standing infantry corps and the *Kazasker* (chief military judge) office, laying the foundations of a patrimonial bureaucratic state [INALCIK-1973].\n\n- **Bayezid I & the Timurid Interregnum (1389–1413):** Sultan Bayezid I (*Yıldırım*, 'The Thunderbolt') crushed a European crusader army at Nicopolis (1396) and annexed most Anatolian beyliks, attempting to forge a unified imperial state. However, his defeat by Central Asian conqueror **Timur (Tamerlane)** at the **Battle of Ankara (1402)** triggered an eleven-year civil war (*Fetret Devri*, 1402–1413) among Bayezid's sons, while briefly restoring the Anatolian beyliks [INALCIK-1973, EREMEEV-1992].\n- **Imperial Restoration & Mehmed II (Fatih):** Mehmed I (r. 1413–1421) and Murad II (r. 1421–1451) reunited the core Rumelian and Anatolian provinces, repelling the Crusade of Varna (1444). On **May 29, 1453**, twenty-one-year-old Sultan **Mehmed II** breached the Theodosian Walls using heavy siege artillery and naval portage across the Golden Horn, conquering **Constantinople** and ending the millennium-old Byzantine Empire [INALCIK-1973, TDV-IA-OSMANLI].\n- **Imperial Reconfiguration (*Kayser-i Rûm*):** Mehmed II transformed Constantinople (*Kostantiniyye*) into an imperial cosmopolis, repopulating it through forced and voluntary resettlements (*sürgün*), converting Hagia Sophia into the imperial mosque, and patronizing the Greek Orthodox Patriarchate under Gennadios Scholarios to secure the loyalty of Orthodox subjects [INALCIK-1973]. Simultaneously, he promulgated the first systematic dynastic law codes (*Kanunname-i Âl-i Osman*), curbed the power of old Turkish aristocratic families (such as the Çandarlı), and elevated *kul* (slave-recruit) grand viziers loyal exclusively to the throne [INALCIK-1973, EREMEEV-1992]."
+          "title": "2. Rise of the Ottoman State & Balkan Expansion (1281–1451)",
+          "content": "Originating as a small *uc* (frontier march) granted to Ertuğrul of the *Kayı* tribe around Söğüt, the Ottoman *beylik* capitalized on Balkan feudal fragmentation to unite Anatolia and conquer Southeastern Europe [NOVICHEV-1963, Ch. II, pp. 27–29].\n\n- **Consolidation in Northwestern Anatolia (1299–1356):** Acting independently from 1299, **Osman I** and **Orhan** captured Bursa (1326, first capital), Iznik (1331), Izmit (1337), and Ankara (1356), minted the first Ottoman silver coins (1327), and organized early *divans*, *sancaks*, and standing infantry (*yaya* and *müsellem*) [NOVICHEV-1963, Ch. II, pp. 28, 35–36].\n- **Balkan Conquests & Early Yeniçeri Corps (1352–1396):** Crossing the Dardanelles at Tzympe (1352) and Gallipoli (1354), **Murad I** took Edirne (1362), defeated Serbian coalitions at the Maritsa (1371) and **Kosovo Polje** (June 15, 1389, using artillery), and created the *acemi ocağı* (later Janissaries); **Bayezid I** annexed Anatolian *beyliks* and crushed European crusaders at **Nicopolis** (September 25, 1396) [NOVICHEV-1963, Ch. II, pp. 31–36].\n- **Timurid Catastrophe & Interregnum (1402–1413):** **Timur** routed Bayezid I at **Ankara** (July 28, 1402), restored the Anatolian *beyliks*, and triggered a decade-long civil war among Bayezid's sons until **Mehmed I** reunited the core state by 1413 [NOVICHEV-1963, Ch. II, pp. 36–37].\n- **Sheikh Bedreddin's Uprising & Devşirme (1416–1448):** Post-Timurid devastation fueled the 1416 peasant revolt led by **Sheikh Bedreddin Simavi**, **Börklüce Mustafa**, and **Torlak Kemal** (preaching equality of faiths and communal property) [NOVICHEV-1963, Ch. II, pp. 38–40]. **Murad II** subsequently institutionalized the *devşirme* levy of Christian youths to replenish Janissary ranks and defeated John Hunyadi's crusades at **Varna** (November 10, 1444) and Second Kosovo (1448) [NOVICHEV-1963, Ch. II, pp. 40–42]."
         },
         {
-          "id": "hist-3-classical-age",
-          "title": "3. The Classical Ottoman Age: Statecraft, Timar, Devşirme & Millet System (1453–1600)",
-          "content": "Between 1453 and the late sixteenth century, the Ottoman Empire reached its institutional and geopolitical zenith, governing over 25–30 million subjects across Southeastern Europe, Anatolia, the Levant, Egypt, the Hejaz, and North Africa [INALCIK-1973, FAROQHI-1994]. Under **Selim I** (r. 1512–1520), victories over Safavid Iran at Chaldiran (1514) and the Mamluk Sultanate at Marj Dabiq and Ridaniya (1516–1517) doubled imperial territory, placed Mecca and Medina under Ottoman protection (*Hâdimü'l-Haremeyn*), and established the Ottomans as the preeminent Sunni Caliphate [TDV-IA-OSMANLI]. Under **Suleiman I** (*Kanunî*, 'The Lawgiver' / 'The Magnificent', r. 1520–1566), Ottoman armies conquered Belgrade (1521), Rhodes (1522), Hungary at Mohács (1526), and Baghdad (1534), besieged Vienna (1529), and dominated the Mediterranean under Admiral Hayreddin Barbarossa [INALCIK-1973, NOVICHEV-1963].\n\n- **The Divan-ı Hümayun & Three Pillars of State:** Imperial administration operated through the Imperial Council (*Divan-ı Hümayun*) chaired by the Grand Vizier (*Sadrazam*). Elite governance was divided into three functional branches: the **Seyfiye** (military-executive, including provincial *Beylerbeyi* governors and Janissary commanders), the **İlmiye** (judicial-religious hierarchy headed by the *Şeyhülislâm* and *Kazaskers*, administering *Şeriat* courts and *madrasas*), and the **Kalemiye** (scribal bureaucracy led by the *Nişancı* and *Defterdar*, managing cadastral surveys and imperial finance) [INALCIK-1973, TDV-IA-OSMANLI].\n- **The Timar Land-Tenure System:** Rooted in state ownership of arable land (*Mîrî*), the *Timar* system granted non-hereditary revenue assignments to provincial cavalrymen (*Sipahis*) in exchange for military service and local tax collection. By preventing the emergence of a hereditary European-style feudal nobility, the *Timar* sustained a formidable army of 70,000–100,000 cavalry without straining central cash reserves [INALCIK-1973, FAROQHI-1994].\n- **The Devşirme & Kul Elite:** Through the periodic levy (*Devşirme*) of Christian youths from Balkan and Anatolian villages, the state recruited boys into the Palace School (*Enderun*) for top administrative posts or into the elite **Janissary** infantry corps—creating a meritocratic, fiercely loyal *Askeri* ruling class legally distinct from the tax-paying *Reaya* [INALCIK-1973, EREMEEV-1992].\n- **The Classical Millet System:** Non-Muslim monotheistic communities (*Ehl-i Kitab*)—primarily the Greek Orthodox (*Rûm*), Armenian Apostolic, and Jewish communities—were organized into autonomous confessional *millets* [KARPAT-2001, TDV-IA-OSMANLI]. Subject to the *cizye* poll tax and sumptuary distinctions, *millets* enjoyed internal judicial, educational, and religious autonomy under their respective Patriarchs and Chief Rabbis, fostering centuries of pragmatic multi-confessional coexistence."
+          "id": "hist-3-constantinople-classical",
+          "title": "3. Imperial Consolidation, Constantinople & Classical Institutions (1451–1512)",
+          "content": "Under **Mehmed II Fatih** (1451–1481), the Ottoman state captured Constantinople, eliminated remaining Anatolian rivals, seized Crimea, and codified its classical feudal-bureaucratic order [NOVICHEV-1963, Ch. III, pp. 43, 51–53, 64].\n\n- **Conquest of Constantinople (May 29, 1453):** Building Rumelihisarı (1452) and hauling ~70 ships overland into the Golden Horn (April 22, 1453), Mehmed II's ~150,000-strong force breached the walls after a 53-day siege, enslaving ~60,000 inhabitants before repopulating the new imperial capital with Greeks, Armenians, and Turks [NOVICHEV-1963, Ch. III, pp. 44–47].\n- **Balkan, Anatolian & Crimean Hegemony (1459–1479):** Mehmed II annexed Serbia (1459), Morea (1460), Trebizond (1461), Bosnia (1463), Karaman (1471), and Albania (1479, after Skanderbeg's 24-year resistance), routed Ak Koyunlu ruler **Uzun Hasan** at **Otlukbeli** (August 11, 1473), seized Genoese **Kaffa** and southern Crimea (1475), and granted Venice early capitulatory privileges (1451, 1479) [NOVICHEV-1963, Ch. III, pp. 48–53].\n- **Codified Land Tenure & Kanunnames:** Mehmed II's law codes (1453–1456; 1477) standardized *hass*, *zeamet* (20,000–100,000 *akçe*), and *timar* (up to 20,000 *akçe*) fiefs—totaling 10,000 fiefs under Bayezid II—while binding *reaya* peasants to 6–16 hectare *çift* plots via *tapu* fees, *uşr*, *cizye*, *ispence*, and emerging *avârız* war levies [NOVICHEV-1963, Ch. III, pp. 54–60].\n- **Central Bureaucracy, Millets & Early Muscovy Ties:** Governance centered on the *Divan*'s 'Four Pillars' (Grand Vizier, *Kazasker*, *Defterdar*, *Nişancı*), while non-Muslims were organized into Greek Orthodox (*Rum*), Armenian (*Ermeni*), and Jewish (*Yahudi*) *millets* [NOVICHEV-1963, Ch. III, pp. 65–73]. Following the 1492 diplomatic letter via Crimean Khan Mengli-Giray, Muscovy sent embassies under **Mikhail Pleshcheyev** (1497) and **Aleksey Golokhvastov** (1499) to protect Russian merchants in Azov and Kaffa [NOVICHEV-1963, Ch. III, pp. 78–79]."
         },
         {
-          "id": "hist-4-transformation-ayan",
-          "title": "4. Imperial Transformation, Structural Crisis & the Ayan Century (1600–1808)",
-          "content": "Classical nineteenth- and twentieth-century historiography once characterized the post-1566 Ottoman Empire simply as a linear 'decline'; modern scholarship (İnalcık, Faroqhi, Meyer, Quataert) instead interprets the seventeenth and eighteenth centuries as a profound **structural transformation** driven by global price inflation, military revolution, and fiscal decentralization [FAROQHI-1994, MEYER-1991, QUATAERT-2005].\n\n- **Monetary Crisis & the Celali Rebellions:** The influx of New World silver, demographic growth, and prolonged two-front wars against Habsburg Austria (1593–1606) and Safavid Iran eroded the fixed-cash value of *Timar* revenues. As infantry firearms (*tüfek*) rendered *Sipahi* cavalry obsolete, the state expanded the salaried Janissary corps from ~13,000 to over 50,000 and recruited seasonal peasant musketeers (*Sekban*/*Sarıca*). Unpaid demobilized mercenaries and overburdened peasants erupted in the devastating **Celali Rebellions** (1596–1610) across Anatolia [FAROQHI-1994, MEYER-1991].\n- **From Timar to İltizam & Malikâne:** To secure immediate cash for salaried armies, the treasury replaced *Timar* assignments with short-term tax farming (*İltizam*) and, in 1695, lifetime tax farms (*Malikâne*). While stabilizing short-term cash flows, *Malikâne* auctions enriched powerful provincial notables (**Ayan**), such as the Karaosmanoğulları in Western Anatolia and Tepedelenli Ali Pasha in Janina, decentralizing imperial authority [MEYER-1991, QUATAERT-2005].\n- **Diplomatic Retreat & the Eastern Question:** Following the failed Second Siege of Vienna (1683), the **Treaty of Karlowitz (1699)** marked the empire's first major territorial cession in Europe (Hungary and Transylvania to the Habsburgs). In the eighteenth century, Catherine the Great's Russian Empire emerged as the primary existential threat: the disastrous **Treaty of Küçük Kaynarca (1774)** ceded Crimea's Ottoman vassalage, granted Russia Black Sea navigation rights, and gave St. Petersburg an ambiguous pretext to act as protector of Ottoman Orthodox Christians—inaugurating the European diplomatic crisis known as the **'Eastern Question'** [MEYER-1991, NOVICHEV-1963].\n- **Early Reform & Nizam-ı Cedid:** After brief cultural openness during the *Tulip Era* (*Lâle Devri*, 1718–1730) and the Köprülü vizierate revival, Sultan **Selim III** (r. 1789–1807) launched the **Nizam-ı Cedid** ('New Order'), establishing European-drilled infantry regiments, permanent embassies in London, Paris, and Vienna, and a dedicated reform treasury (*İrad-ı Cedid*) before being overthrown by a conservative Janissary-ulema coalition in 1807 [HANIOGLU-2008, LEWIS-2002]."
+          "id": "hist-4-zenith-early-celali",
+          "title": "4. Imperial Zenith, Arab Conquests & Early Celali Revolts (1512–1566)",
+          "content": "Under **Selim I** (1512–1520) and **Suleiman I Kanuni** (1520–1566), Ottoman territory nearly doubled to 6 million sq. km across three continents, yet internal agrarian tensions erupted into major Anatolian rebellions [NOVICHEV-1963, Ch. IV, pp. 83, 98, 105].\n\n- **Eastern & Arab Conquests (1513–1555):** After massacring 40,000–45,000 Anatolian Shi'ites (1513), Selim I defeated Safavid Shah Ismail at **Chaldiran** (August 23, 1514), annexed Kurdistan, and crushed Mamluk armies at **Marj Dabiq** (1516) and **Cairo** (January 31, 1517), absorbing Syria, Egypt, and the Hejaz [NOVICHEV-1963, Ch. IV, pp. 82–83]. Suleiman I later conquered Baghdad (1534) and secured Iraq and western Georgia/Armenia via the **Peace of Amasya** (May 29, 1555), while Barbarossa and Turgut expanded North African rule (Algiers 1518, Tripoli 1556) [NOVICHEV-1963, Ch. IV, pp. 83–84, 91–92].\n- **Central European Campaigns & French Capitulations (1521–1553):** Suleiman captured Belgrade (1521) and Rhodes (1522), destroyed the Hungarian army at **Mohács** (August 29, 1526), besieged **Vienna** unsuccessfully (1529), and turned central Hungary into the Budin *paşalık* (1541) [NOVICHEV-1963, Ch. IV, pp. 85–89]. Against the Habsburgs, he signed the landmark **1535 Franco-Ottoman Capitulations** granting French merchants 3% customs and consular jurisdiction, while maintaining cautious peace with Muscovy [NOVICHEV-1963, Ch. IV, pp. 95–98].\n- **Suleiman's Kanunname & Peasant Enserfment:** With 21 *eyalets*, 250 *sancaks*, 10–11 million ducats in treasury revenue, and ~48,326 *kapıkulu* regulars, Suleiman's code legally empowered *sipahis* to forcibly return runaway peasants (within 15–20 years, except those fleeing to Istanbul, whose population surged from 98,000 in 1478 to 400,000 in 1520–1535) and saw the spread of landless *ortakçı* sharecroppers [NOVICHEV-1963, Ch. IV, pp. 99–105].\n- **Anatolian Shi'ite & Peasant Uprisings (1508–1529):** Dispossessed *timariots*, nomads, and overburdened peasants rallied behind heterodox dervishes—**Nur Ali Halife** (1508), **Şahkulu Baba Tekeli** (1511, 20,000 rebels), **Şeyh Celâl** (1519, giving his name to *celâli* rebels), **Baba Zünnun** (1526), and **Kalenderoğlu** (1527, 20,000–30,000 rebels defeated only after Grand Vizier İbrahim Pasha bribed defecting *timariots*) [NOVICHEV-1963, Ch. IV, pp. 106–112]."
         },
         {
-          "id": "hist-5-tanzimat-mahmud",
-          "title": "5. Reform & Survival: Mahmud II, Sened-i İttifak & the Tanzimat Era (1808–1876)",
-          "content": "The nineteenth century—termed by İlber Ortaylı 'the Longest Century of the Empire' (*İmparatorluğun En Uzun Yüzyılı*)—witnessed an unprecedented state-led centralization and legal-administrative overhaul designed to preserve imperial sovereignty against separatist nationalisms and European Great Power intervention [ORTAYLI-1983, FINDLEY-2010].\n\n- **Sened-i İttifak & Mahmud II's Centralization:** In 1808, reformist Grand Vizier Alemdar Mustafa Pasha brokered the **Sened-i İttifak** ('Charter of Alliance') between Sultan Mahmud II and provincial *Ayan* notables—often cited by Turkish constitutionalists as a proto-constitutional limitation on absolute monarchy [ORTAYLI-1983]. Once consolidated, **Mahmud II** (r. 1808–1839) systematically eliminated autonomous *Ayans*, weathered the Greek War of Independence (1821–1829), and in June 1826 destroyed the rebellious Janissary corps in the **Auspicious Incident** (*Vak'a-i Hayriye*). He replaced the classical *Divan* with European-style ministries, launched the first Ottoman census and official gazette (*Takvim-i Vekayi*, 1831), and abolished the *Timar* system [HANIOGLU-2008, LEWIS-2002].\n- **The Tanzimat Edicts (1839 & 1856):** Facing military defeat by Egyptian governor Mehmed Ali Pasha, Foreign Minister Mustafa Reşid Pasha proclaimed the **Imperial Edict of Gülhane** (*Gülhane Hatt-ı Hümâyunu*, November 3, 1839), guaranteeing the security of life, honor, and property for all Ottoman subjects regardless of religion, regularizing taxation, and reforming conscription [ORTAYLI-1983, FINDLEY-2010]. Following the Crimean War (1853–1856), the **Imperial Reform Edict** (*Islahat Fermanı*, 1856) abolished the *cizye* tax, opened civil and military academies to non-Muslims, and fostered a secular civic identity known as **Ottomanism** (*Osmanlıcılık*) [HANIOGLU-2008].\n- **Legal Codification & Secular Institutions:** The *Tanzimat* statesmen (Âli Pasha and Fuad Pasha) established secular *Nizamiye* courts alongside *Şeriat* courts, promulgated Western-inspired commercial and penal codes, and commissioned Ahmed Cevdet Pasha to compile the **Mecelle** (1869–1876)—the first systematic codification of Hanafi Islamic civil law in modern statutory form [ORTAYLI-1983, TDV-IA-OSMANLI].\n- **Fiscal Dependency & the 1875 Default:** Modernization came at steep fiscal cost. Wartime borrowing from European bondholders beginning in 1854, compounded by the unequal 1838 Anglo-Ottoman Commercial Convention (*Balta Limanı*), culminated in sovereign debt default in 1875 and the creation of the foreign-controlled **Ottoman Public Debt Administration** (*Düyûn-ı Umûmiye*, 1881), which sequestered key state revenues [QUATAERT-2005, FAROQHI-1994]."
+          "id": "hist-5-timar-decay-celali",
+          "title": "5. Decay of the Timar System, the 'Celali Troubles' & Stagnation (1566–1618)",
+          "content": "From the late 16th century, halting territorial expansion, silver debasement, and *timar* fragmentation plunged the empire into prolonged socio-economic crisis and peasant-led civil war [NOVICHEV-1963, Ch. V, pp. 115–118, 127].\n\n- **Geopolitical Limits: Astrakhan (1569) & Lepanto (1571):** An Ottoman attempt to dig a Volga–Don canal and seize Astrakhan was routed by a 15,000-man Russian force under Prince Serebryany [NOVICHEV-1963, Ch. V, pp. 113–114]. Although the Ottoman fleet was shattered at **Lepanto** (October 8, 1571, losing 225 ships), Grand Vizier Sokollu Mehmed Pasha rebuilt it in two months, forcing Venice to cede Cyprus (1573) and enabling the annexation of Tunis (1574) [NOVICHEV-1963, Ch. V, pp. 114–115].\n- **Disintegration of the Timar System & Fiscal Squeeze:** Fief counts ballooned from ~10,000 to **41,171** (*Ayni Ali*, 1607) through arbitrary subdivision and bribery, while silver content in the *akçe* fell 3–4 fold (gold coins jumped from 35 *akçe* in 1548 to 220 by c. 1605) [NOVICHEV-1963, Ch. V, pp. 115–116, 119, 122]. To compensate, the state expanded *kapıkulu* troops (48,316 in 1566 → 91,202 in 1609), converted *avârız* war taxes into permanent cash levies, enforced below-market grain requisitions (*iştira*), and saw usurers seize peasant lands into private *çiftliks* [NOVICHEV-1963, Ch. V, pp. 120–125; Ch. VI, p. 155].\n- **The 'Celali Troubles' (Celâli Fitreti, 1595–1609):** Mass peasant flight (*büyük kaçgunluk*, 1603) and disaffected *timariots* fueled a 15-year Anatolian insurgency numbering ~200,000+ fighters under **Kara Yazıcı** (1598–1601), **Deli Hasan** (bought off with the Bosnian *beylerbeylik* in 1603), and **Kalenderoğlu** (20,000–50,000 rebels crushed by 90-year-old Serdar Kuyucu Murad Pasha at Alaca Çayır on August 5, 1608) [NOVICHEV-1963, Ch. V, pp. 127–134]. Suppressing the revolt cost 65,000–100,000+ lives and forced the October 1609 *Adaletname* ('Edict of Justice') curbing *çiftlik* abuses [NOVICHEV-1963, Ch. V, p. 134].\n- **Balkan Resistance & Treaty of Zsitvatorok (1606):** Moldavian prince **Ion the Terrible** (1572–1574), Wallachian prince **Michael the Brave** (1594–1601), Bulgarian *hayduks* (Tarnovo uprising, 1598), and the long Habsburg war forced the **Peace of Zsitvatorok** (November 11, 1606), ending Austria's annual 30,000-ducat tribute and recognizing the Habsburg ruler as an equal Emperor [NOVICHEV-1963, Ch. V, pp. 135–140]."
         },
         {
-          "id": "hist-6-constitutional-young-turks",
-          "title": "6. Constitutionalism, Hamidian Autocracy & the Young Turk Revolution (1876–1914)",
-          "content": "The tension between bureaucratic modernization, popular representation, and imperial survival defined the final four decades of Ottoman rule [HANIOGLU-2008, ZURCHER-2017].\n\n- **First Constitutional Era (1876–1878):** Intellectuals of the **Young Ottomans** (*Yeni Osmanlılar*, notably Namık Kemal and Ziya Pasha) advocated reconciling Islamic political ethics with parliamentary constitutionalism. Amid the 1875–1876 Balkan uprisings, reformist Grand Vizier **Midhat Pasha** orchestrated the accession of **Sultan Abdulhamid II**, who promulgated the first Ottoman constitution—the **Kanûn-ı Esâsî**—on December 23, 1876, convening an elected Chamber of Deputies (*Meclis-i Mebusan*) [ORTAYLI-1983, HANIOGLU-2008].\n- **The Russo-Turkish War (1877–1878) & Hamidian Autocracy:** Following the catastrophic defeat by Russia in the 1877–1878 war (*93 Harbi*) and the **Treaty of Berlin (1878)**—which granted independence to Romania, Serbia, and Montenegro, autonomy to Bulgaria, and ceded Kars, Ardahan, and Batumi to Russia—Abdulhamid II prorogued Parliament indefinitely in February 1878 [NOVICHEV-1963, HANIOGLU-2008]. Ruling autocratically from Yıldız Palace for thirty years, he pivoted state ideology toward **Pan-Islamism** (*İttihad-ı İslâm*) to bind remaining Arab and Kurdish populations, while expanding telegraphs, railways (the **Hejaz Railway**, 1900–1908), and secular professional schools [KARPAT-2001, ZURCHER-2017].\n- **The Young Turk Revolution (1908) & Second Constitutional Era:** Secret opposition cells among Western-educated military officers and physicians coalesced into the **Committee of Union and Progress (CUP / *İttihat ve Terakki Cemiyeti*)**. In July 1908, mutinies led by Enver Bey and Niyazi Bey in Macedonia forced Abdulhamid II to restore the 1876 Constitution [HANIOGLU-2008, AKSIN-2007]. After suppressing a conservative counter-rebellion (the *31 March Incident*, April 1909), Parliament deposed Abdulhamid II and enacted major 1909 constitutional amendments curtailing royal prerogatives in favor of legislative supremacy [TUNAYA-1988].\n- **Balkan Wars & Turkism (1912–1913):** Hopes for multi-ethnic Ottomanism collapsed during the Italo-Turkish War (1911) and the **Balkan Wars (1912–1913)**, in which the Empire lost nearly all remaining European territories—including Salonika, Macedonia, and Albania—and absorbed hundreds of thousands of Muslim refugees (*muhacir*) into Anatolia [ZURCHER-2017]. Following the January 1913 *Bab-ı Âli* raid, the CUP triumvirate (**Enver, Talat, and Cemal Pashas**) consolidated single-party dominance, pivoting toward **Turkish nationalism** (*Türkçülük*, articulated by Ziya Gökalp) and a wartime economic policy (*Millî İktisat*) aimed at creating a Muslim-Turkish bourgeoisie [TOPRAK-1995, AKSIN-2007]."
+          "id": "hist-6-urban-culture-17c",
+          "title": "6. Urban Economy, Court Factions & Cultural Achievements (14th–Mid-17th c.)",
+          "content": "Despite rapid urban growth and vibrant architecture and literature, Ottoman cities failed to generate capitalist manufacturing, leaving political power contested by corrupt palace factions and mutinous Janissaries [NOVICHEV-1963, Ch. VI, pp. 141–142, 151–153; Ch. VII, pp. 160–176].\n\n- **Urban Growth & Guild (Esnaf) Rigidity:** Between 1520–1530 and 1571–1580, Istanbul grew by 75% (400,000 → 700,000) and major Anatolian/Balkan cities by 90%, while Damascus and Aleppo declined due to the Atlantic trade shift [NOVICHEV-1963, Ch. VI, p. 142]. Although craft specialization deepened, closed *esnaf* guilds, *kadı* price controls, heavy *mukataa* tax-farming, and ethno-religious divisions between Turkish artisans and non-Muslim (Greek, Armenian, Jewish) merchants blocked industrial capitalism [NOVICHEV-1963, Ch. VI, pp. 144–153].\n- **Palace Coups, Murad IV & the 1639 Treaty of Zuhab:** Between 1617 and 1623, Janissary mutinies deposed Mustafa I twice and murdered **Osman II** (1622) [NOVICHEV-1963, Ch. VI, p. 153]. **Murad IV** (1623–1640) temporarily cut *kapıkulu* ranks to 59,257, executed tens of thousands of rebels, and recaptured Baghdad from Safavid Iran, fixing the enduring Ottoman–Iranian border by the **Treaty of Zuhab (Qasr-e Shirin)** on September 14, 1639 [NOVICHEV-1963, Ch. VI, pp. 154–158].\n- **Literature, Architecture & Science (14th–17th c.):** Classical poetry evolved from **Aşık Pasha** (*Garibname*) and **Mihri Hatun** to **Baki**, **Veysi**, and satirist **Nef'i** (strangled in 1635), alongside folk epics (*Battalname*, *Nasreddin Hoca*) [NOVICHEV-1963, Ch. VII, pp. 160–165]. Imperial architecture peaked under **Koca Sinan** (1490–1588; *Süleymaniye*, 81 mosques), while cartographer **Piri Reis** (*Kitab-ı Bahriye*, 1523; 1513 world map) and encyclopedist **Katib Çelebi / Hacı Halife** (1609–1657) advanced geography and historiography—even as religious orthodoxy executed freethinkers like **Lütfi Tokadi** (1494) and **Sarı Abdurrahman** (1600) [NOVICHEV-1963, Ch. VII, pp. 166–173]."
         },
         {
-          "id": "hist-7-wwi-sevres",
-          "title": "7. World War I, Imperial Collapse & the Treaty of Sèvres (1914–1920)",
-          "content": "Seeking to break diplomatic isolation and recover lost territories, the CUP leadership signed a secret alliance with Imperial Germany on August 2, 1914, entering **World War I** in late October after Ottoman-flagged German warships (*Goeben* and *Breslau*) bombarded Russian Black Sea ports [ZURCHER-2017, NOVICHEV-1963].\n\n- **Multi-Front Attrition & Gallipoli (1915):** The Ottoman Empire mobilized nearly 2.8 million troops across four grueling theaters: the Caucasus front against Russia (marked by the disastrous winter offensive at Sarıkamış in December 1914–January 1915), the Sinai-Palestine and Mesopotamian fronts against Britain (where Ottoman forces captured Kut al-Amara in 1916 before retreating), and the Dardanelles. At the **Gallipoli Campaign (*Çanakkale Savaşı*, 1915–1916)**, Ottoman forces—with Colonel **Mustafa Kemal Bey** distinguishing himself at Arıburnu, Conkbayırı, and Anafartalar—inflicted a historic defeat on Allied amphibious forces, preventing the capture of Istanbul [AKSIN-2007, ZURCHER-2017].\n- **Wartime Displacement & Mass Mortality:** In 1915, citing wartime security and insurgency behind the Caucasus front, the CUP government enacted the *Tehcir* (Deportation) Law, forcibly relocating the Anatolian Armenian population toward the Syrian desert; hundreds of thousands perished from massacres, starvation, and disease—an event recognized internationally by most scholars as the Armenian Genocide, while Turkish official historiography characterizes it as tragic wartime relocation and intercommunal strife [ZURCHER-2017, FINDLEY-2010]. Across the empire, over 2.5 million Ottoman Muslims also perished from combat, typhus, and famine.\n- **Secret Partition & the Armistice of Mudros (1918):** During the war, Britain, France, Russia, and Italy negotiated secret partition accords—most notably the **Sykes-Picot Agreement (1916)** and the Balfour Declaration (1917). Exhausted after the collapse of the Syrian front and Bulgaria's capitulation, the Ottoman government signed the **Armistice of Mudros** on October 30, 1918, allowing Allied warships into Istanbul and empowering the Allies to occupy strategic points [ZURCHER-2017, MILLER-1948].\n- **The Treaty of Sèvres (August 10, 1920):** Signed by the powerless Istanbul Sultanate government under Allied pressure, Sèvres dismembered the Ottoman state: Eastern Thrace and the Izmir (Smyrna) region were assigned to Greece; southeastern Anatolia to a French zone; southwestern Anatolia to an Italian sphere; the Straits were internationalized; and an independent Armenia and autonomous Kurdistan were mandated in the east, leaving only a landlocked rump state in northern Anatolia [LAUSANNE-1923, ZURCHER-2017]."
+          "id": "hist-7-koprulu-karlowitz",
+          "title": "7. Deepening Crisis, Köprülü Interlude & the First Partition (1640s–1730)",
+          "content": "While Western Europe entered the capitalist and industrial era after 1640, Ottoman fiscal collapse, naval defeats, and the disastrous 1683–1699 war forced the empire's first major European territorial cessions [NOVICHEV-1963, Ch. VIII, pp. 177–192].\n\n- **Fiscal Collapse & the 1651 Istanbul Uprising:** Treasury revenues fell from 550 million *akçe* (1643) to 361.8 million against 550 million in expenses (1648), while forced distribution of debased coin provoked >50,000 Istanbul artisans and merchants to march on the palace in 1651 and topple the Grand Vizier [NOVICHEV-1963, Ch. VIII, pp. 178–180].\n- **The Köprülü Era & the 1683 Siege of Vienna:** After Venetian naval blockades of the Dardanelles (1651, 1656), Grand Vizier **Köprülü Mehmed Pasha** (1656–1661) restored central authority via ~30,000 executions, enabling Crete's capture (1669) and temporary Ukrainian gains (1672–1676) [NOVICHEV-1963, Ch. VIII, pp. 181–185]. However, **Kara Mustafa Pasha**'s 175,000-man siege of **Vienna** (July–September 1683) was routed by Polish King **Jan Sobieski** on September 12, 1683 (48,500 Ottoman casualties) [NOVICHEV-1963, Ch. VIII, p. 186].\n- **The Holy League & Treaties of Karlowitz (1699) and Constantinople (1700):** Fighting Austria, Poland, Venice, Malta, and Russia (from 1686), Ottoman forces lost Buda (1686), Belgrade (1688), Zenta (1697, 30,000 killed), and Azov (1696, to Peter I) [NOVICHEV-1963, Ch. VIII, pp. 187–189]. By **Karlowitz** (January 26, 1699), Turkey ceded Hungary, Transylvania, and Slavonia to Austria, Podolia to Poland, and Morea to Venice; by **Constantinople** (July 1700), Russia gained Azov, ended Crimean tribute, and stationed its first permanent ambassador (**P. A. Tolstoy**, 1702) [NOVICHEV-1963, Ch. VIII, pp. 190–192].\n- **Pruth (1711), Passarowitz (1718) & Patrona Halil (1730):** Victory over Peter I at the **Pruth** (July 23, 1711) recovered Azov, and **Passarowitz** (July 1718) regained Morea from Venice while ceding Belgrade and Banat to Austria [NOVICHEV-1963, Ch. IX, pp. 195–197]. Yet war taxes (*imdad-ı seferiye*, *ordu akçesi*) and defeats by Nadir Shah triggered the **Patrona Halil** uprising in Istanbul (September 28, 1730; 80,000 rebels), which deposed **Ahmed III**, enthroned **Mahmud I**, and ended only after the leaders were ambushed on November 26 and >7,000 supporters were executed [NOVICHEV-1963, Ch. IX, pp. 200–205]."
         },
         {
-          "id": "hist-8-war-of-independence",
-          "title": "8. The Turkish War of Independence & the Treaty of Lausanne (1919–1923)",
-          "content": "The **Turkish War of Independence (*Millî Mücadele* / *Kurtuluş Savaşı*)** rejected the partition of Anatolia and established the sovereign nation-state through coordinated political mobilization and multi-front military campaigns [AKSIN-2007, MILLER-1948].\n\n- **Mobilization & Misak-ı Millî (1919–1920):** Following the Greek landing at Izmir on May 15, 1919, Brigadier General **Mustafa Kemal Pasha** disembarked at Samsun on **May 19, 1919** as Inspector-General of the Ninth Army. Through the **Amasya Circular** (June 22, 1919)—declaring that 'the independence of the nation will be saved by the nation's own determination and resolve'—and the **Congresses of Erzurum and Sivas** (July–September 1919), nationalist delegates unified regional *Defense of Rights* (*Müdafaa-i Hukuk*) societies [AKSIN-2007, LEWIS-2002]. The final Ottoman Chamber of Deputies adopted the **National Pact (*Misak-ı Millî*)** on January 28, 1920, affirming the indivisible sovereignty of all Ottoman-Muslim-majority territories within the 1918 armistice lines.\n- **Inauguration of the TBMM (April 23, 1920):** After British forces formally occupied Istanbul and dissolved parliament in March 1920, Mustafa Kemal convened the **Grand National Assembly of Turkey (TBMM)** in Ankara on **April 23, 1920**, establishing an assembly-government (*Meclis Hükümeti*) based on unconditional popular sovereignty [TBMM-CONST-1982, ZURCHER-2017].\n- **Three Military Fronts (1920–1922):** The Ankara government defeated the Democratic Republic of Armenia in the east under **Kâzım Karabekir** (Treaty of Alexandropol/Gümrü, December 1920), secured French evacuation from Cilicia via the **Treaty of Ankara** (October 1921), and reorganized irregular *Kuva-yı Milliye* militias into a disciplined regular army under **İsmet Pasha (İnönü)** and Fevzi Pasha (Çakmak). After halting the Greek offensive at the First and Second Battles of İnönü and winning the decisive 22-day **Battle of Sakarya** (August–September 1921), Turkish forces launched the **Great Offensive (*Büyük Taarruz*)** on August 26, 1922, routing the Greek army at Dumlupınar and entering Izmir on September 9, 1922 [AKSIN-2007, KIREEV-2007].\n- **Mudanya, Abolition of the Sultanate & Lausanne (1922–1923):** The Armistice of Mudanya (October 11, 1922) restored Eastern Thrace to Ankara. On November 1, 1922, the TBMM abolished the 623-year-old Ottoman Sultanate. Negotiated over eight arduous months by İsmet Pasha, the **Treaty of Lausanne (July 24, 1923)** nullified Sèvres, abolished foreign *capitulations*, established Turkey's modern international borders (except Mosul and Hatay), and mandated the Greco-Turkish population exchange [LAUSANNE-1923, ZURCHER-2017]. On **October 29, 1923**, the TBMM proclaimed the **Republic of Turkey**, electing Mustafa Kemal Atatürk as its first President."
-        },
-        {
-          "id": "hist-9-kemalist-republic",
-          "title": "9. The Kemalist Revolution, Six Arrows & Single-Party Etatism (1923–1946)",
-          "content": "Between 1923 and 1938, Mustafa Kemal Atatürk and the **Republican People's Party (CHP)** executed one of the twentieth century's most sweeping programs of top-down secular modernization, seeking to elevate Turkey to the level of 'contemporary civilization' (*muasır medeniyetler seviyesi*) [LEWIS-2002, AHMAD-1993].\n\n- **Secularization & Legal-Cultural Revolution:** On **March 3, 1924**, the TBMM abolished the Ottoman Caliphate, the Ministry of *Şeriat* and *Evkaf*, and unified all education under the Ministry of National Education (*Tevhid-i Tedrisat*), closing religious madrasas. Subsequent reforms abolished *Dervish* lodges (1925), replaced *Şeriat* and the *Mecelle* with the **Swiss Civil Code** and Italian Penal Code (1926)—granting women equal rights in marriage, divorce, and inheritance—adopted the **Latin alphabet** (1928) in place of Arabic script, introduced the metric system and Gregorian calendar, enacted the Surname Law (1934, granting Mustafa Kemal the surname *Atatürk*), and conferred full **women's parliamentary suffrage in 1934**, ahead of many European democracies [LEWIS-2002, ZURCHER-2017].\n- **The Six Arrows (*Altı Ok*) Ideology:** Codified into the 1924 Constitution in 1937, Kemalism rested on six principles: **Republicanism** (*Cumhuriyetçilik*), **Nationalism** (*Milliyetçilik*—defined civically rather than racially), **Populism** (*Halkçılık*), **Statism/Etatism** (*Devletçilik*), **Secularism/Laicism** (*Laiklik*—state regulation and separation of religion via the 1924 **Diyanet**), and **Revolutionism/Reformism** (*İnkılapçılık*) [AHMAD-1993, FINDLEY-2010].\n- **Single-Party Rule & Etatism (1930s):** Early multi-party experiments—the Progressive Republican Party (1924) and Free Republican Party (1930)—were closed amid Kurdish-religious rebellions (Sheikh Said, 1925) and conservative backlash. Following the 1929 Great Depression, Ankara adopted **Etatism** (*Devletçilik*), launching the **First Five-Year Industrial Plan (1934)** with Soviet technical loans to build state-owned textile, sugar, glass, and iron-steel complexes (*Sümerbank*, *Etibank*, Karabük) [TOPRAK-1995, KIREEV-2007].\n- **Inönü's Presidency & WWII Armed Neutrality (1938–1946):** Upon Atatürk's death on November 10, 1938, **İsmet İnönü** (*Millî Şef*) assumed the presidency. Building on the **1936 Montreux Convention** (restoring full Turkish sovereignty over the Straits) and the peaceful annexation of **Hatay (1939)**, İnönü navigated World War II through skillful armed neutrality, signing mutual pacts with Britain/France (1939) and a non-aggression treaty with Germany (1941) before declaring war on the Axis in February 1945 to join the founding United Nations [UN-TREATY-MONTREUX, ZURCHER-2017]."
-        },
-        {
-          "id": "hist-10-multiparty-coldwar",
-          "title": "10. Multi-Party Democracy, Cold War Security & Military Interventions (1946–1980)",
-          "content": "Post-WWII geopolitical pressures and domestic socioeconomic discontent compelled İnönü to open the political system to competitive multi-party elections in 1946, inaugurating a turbulent era of democratic expansion punctuated by military tutelage [AHMAD-1993, TUNAYA-1988].\n\n- **The Democrat Party Era (1950–1960):** On May 14, 1950, the **Democrat Party (DP)** led by **Adnan Menderes** and Celâl Bayar won a landslide victory ('White Revolution'), ending 27 years of CHP rule. Championing rural agricultural mechanization, private enterprise, and relaxation of strict Kemalist cultural restrictions (restoring the Arabic *Ezan*), the DP presided over rapid growth in the early 1950s before inflation, foreign-exchange shortages, and authoritarian crackdowns on the press and CHP opposition polarized society [AHMAD-1993, ZURCHER-2017].\n- **Cold War Anchor & NATO Accession (1947–1962):** Confronted by Soviet territorial demands in 1945, Turkey embraced the **Truman Doctrine (1947)** and Marshall Plan, dispatched a combat brigade to the **Korean War (1950)**, and formally entered **NATO in February 1952**. Hosting US airbases (Incirlik) and nuclear-tipped Jupiter missiles (secretly withdrawn in 1962 to resolve the Cuban Missile Crisis), Turkey served as NATO's vital southeastern bulwark [KIREEV-2007, ZURCHER-2017].\n- **The 1960 Coup & 1961 Constitution:** On **May 27, 1960**, mid-ranking officers (*National Unity Committee*) overthrew the DP; Menderes and two ministers were executed after the Yassıada trials. Paradoxically, the military-sponsored **1961 Constitution** was Turkey's most liberal charter—creating the **Constitutional Court (AYM)**, bicameral parliament, autonomous universities, and broad labor-union rights, while institutionalizing the **National Security Council (MGK)** as the military's constitutional channel [AHMAD-1993, TBMM-CONST-1982].\n- **1970s Polarization, Cyprus & Political Violence:** Under **Süleyman Demirel**'s center-right Justice Party (AP) and **Bülent Ecevit**'s social-democratic CHP, Turkey pursued Import-Substituting Industrialization (ISI) amid rapid urbanization. Following the March 12, 1971 military memorandum ('coup by memo'), Ecevit's coalition launched the **1974 Cyprus Peace Operation** under the 1960 Treaty of Guarantee after an Athens-backed coup in Nicosia, triggering a US arms embargo (1975–1978) [ZURCHER-2017, KIREEV-2007]. By 1978–1980, oil-shock hyperinflation, fragile coalitions, and armed street clashes between ultra-leftist and ultra-nationalist factions claimed over 5,000 lives, paralyzing state governance."
-        },
-        {
-          "id": "hist-11-neoliberal-postcoldwar",
-          "title": "11. Neoliberal Restructuring, the 1982 Constitution & Post-Cold War Shift (1980–2002)",
-          "content": "On **September 12, 1980**, Chief of General Staff General **Kenan Evren** led a sweeping military coup that dissolved parliament, suspended political parties, arrested hundreds of thousands, and reshaped Turkey's legal and economic trajectory for decades [ZURCHER-2017, AHMAD-1993].\n\n- **The 1982 Constitution & Özal's Economic Revolution:** Approved by referendum in November 1982, the **1982 Constitution** curtailed civil liberties, strengthened executive and MGK tutelage, and introduced a **10% national electoral threshold** to prevent fragmented coalitions [TBMM-CONST-1982]. Following the 1983 return to civilian rule, Prime Minister **Turgut Özal** (Motherland Party, ANAP) implemented the **January 24, 1980** structural adjustment program—dismantling protectionist ISI, floating the lira, liberalizing trade, and transforming Turkey into an export-oriented manufacturing economy fueled by Anatolian SMEs ('Anatolian Tigers') [AHMAD-1993, FINDLEY-2010].\n- **Kurdish Insurgency & Geopolitical Realignment:** Beginning in August 1984, the **PKK** launched an armed insurgency in southeastern Anatolia, resulting in over 40,000 deaths over four decades and massive internal displacement [TUIK-2024-POP]. Simultaneously, the collapse of the USSR (1991) transformed Turkey from a Cold War frontier state into a pivotal regional hub bridging Europe, the Black Sea, newly independent Turkic republics in Central Asia/Caucasus, and the Middle East [KIREEV-2007].\n- **1997 Post-Modern Coup & 2001 Financial Crisis:** The rise of Necmettin Erbakan's Islamist Welfare Party (*Refah Partisi*) to a coalition premiership in 1996 prompted the MGK's **February 28, 1997** ('post-modern coup') ultimatum, forcing Erbakan's resignation and party closure [KARPAT-2001, ZURCHER-2017]. Meanwhile, Turkey entered the **EU Customs Union (1995)** and gained official **EU candidate status at Helsinki (1999)**, yet chronic fiscal deficits and banking fragility culminated in the severe **February 2001 financial crisis**—prompting IMF-backed structural banking reforms under Kemal Derviş that laid the foundation for 2000s growth [WB-TUR-2024]."
-        },
-        {
-          "id": "hist-12-twentyfirst-century",
-          "title": "12. The 21st-Century Republic: Institutional Transformation & Executive Presidency (2002–2026)",
-          "content": "The November 2002 parliamentary victory of the **Justice and Development Party (AKP)** under **Recep Tayyip Erdoğan** inaugurated a transformative era that reshaped Turkey's economy, civil-military balance, and constitutional architecture [FINDLEY-2010, ZURCHER-2017].\n\n- **Early Reform Wave & Economic Expansion (2002–2012):** Combining conservative-democratic social appeal with orthodox fiscal discipline, the AKP government passed sweeping EU harmonization packages—abolishing the death penalty, curbing MGK powers, and opening formal **EU accession negotiations in October 2005**. Buoyed by global liquidity and privatization, per-capita GDP tripled between 2002 and 2013, accompanied by massive healthcare, transport, and housing expansion [WB-TUR-2024, ZURCHER-2017].\n- **Civil-Military Shift & the July 15, 2016 Coup Attempt:** Through the controversial *Ergenekon* and *Balyoz* trials (2007–2013) and the 2010 constitutional referendum, traditional Kemalist military tutelage was dismantled. However, an acute power struggle erupted between the AKP and its erstwhile ally, the **Gülen movement (FETÖ)**. On **July 15, 2016**, a rogue military faction linked to FETÖ launched a bloody coup attempt—bombing the TBMM and killing over 250 citizens—before being defeated by loyalist security forces and mass popular mobilization [ZURCHER-2017, TBMM-CONST-1982]. Post-2016 reforms subordinated the General Staff to the Ministry of National Defense and accelerated indigenous defense industrialization (reaching >80% domestic production in UAVs, naval vessels, and missiles) [SIPRI-2024-MLX].\n- **The 2017 Executive Presidency & Contemporary Challenges (2017–2026):** Narrowly approved in the **April 2017 constitutional referendum** and enacted in July 2018, the **Presidential System of Government (*Cumhurbaşkanlığı Hükümet Sistemi*)** abolished the Prime Ministry, concentrated executive authority and decree powers (*Cumhurbaşkanlığı Kararnamesi*) in a directly elected partisan President, and expanded the TBMM to 600 seats [TBMM-CONST-1982]. Entering its second century after the **2023 Centennial** and catastrophic Kahramanmaraş earthquakes (February 2023), Turkey balances high-tech industrial/defense ambitions and $1.1T+ GDP scale against persistent inflation stabilization challenges, regional conflicts, and polarized electoral competition [WB-TUR-2024]."
-        },
-        {
-          "id": "hist-13-russia-soviet-arc",
-          "title": "13. The Soviet–Russian Strategic Arc: From Revolutionary Solidarity to Compartmentalized Partnership (1920–2026)",
-          "content": "Relations between Turkey and Russia span over five centuries, evolving from twelve major Ottoman-Russian imperial wars (1568–1918) into revolutionary anti-imperialist cooperation, Cold War confrontation, and modern compartmentalized strategic interdependence [MEYER-1991, KIREEV-2007].\n\n- **Revolutionary Solidarity & 1921 Treaties:** In 1920, Vladimir Lenin's Bolshevik government and Mustafa Kemal's Ankara TBMM forged a pragmatic anti-Entente alignment. On **March 16, 1921**, they signed the **Treaty of Moscow** (*Moskova Antlaşması*), making Soviet Russia the first major power to nullify Sèvres and recognize Ankara's sovereignty [MOSCOW-TREATY-1921, MILLER-1948]. Moscow supplied over 10 million gold rubles, 39,000 rifles, 327 machine guns, and artillery via Black Sea shipments to Trabzon, followed by the **Treaty of Kars (October 13, 1921)** fixing Turkey's northeastern border with the Transcaucasian Soviet republics [KARS-TREATY-1921].\n- **Interwar Industrial Aid & 1945 Cold War Rupture:** In the 1930s, the USSR provided $8 million in interest-free gold credits and Gosplan engineers to build Turkey's Sümerbank textile mills in Kayseri and Nazilli [KIREEV-2007]. However, in March 1945 Joseph Stalin denounced the 1925 Non-Aggression Pact, demanding the cession of Kars and Ardahan and joint Soviet military bases on the Turkish Straits—pushing Ankara permanently into the Western security orbit (Truman Doctrine 1947, NATO 1952) [ZURCHER-2017, KIREEV-2007].\n- **Détente, Energy Interdependence & S-400 Friction:** Despite Cold War alignment (including the 1962 Cuban Missile Crisis Jupiter trade-off), Soviet industrial credits returned in the late 1960s (Seydişehir aluminum, İSDEMİR steel, Aliağa refinery). Post-1991 ties deepened into massive construction, tourism, and subsea hydrocarbon corridors: **Blue Stream (2003)**, **TurkStream (2020)**, and Rosatom's $20 billion **Akkuyu Nuclear Power Plant** (4,800 MW BOO). Even after the 2015 Su-24 shootdown crisis, Ankara purchased Russian **S-400** air-defense systems (2017), triggering US CAATSA sanctions and expulsion from the F-35 program [SIPRI-2024-MLX].\n- **The Russia–Ukraine War & Montreux Article 19 (2022–2026):** Following Russia's February 2022 invasion of Ukraine, Turkey practiced signature 'compartmentalized diplomacy': condemning the invasion, supplying Bayraktar TB2 drones to Kyiv, and invoking **Article 19 of the 1936 Montreux Convention** to close the Straits to all belligerent warships, while maintaining trade, energy ties, and mediating the 2022 UN Black Sea Grain Initiative [UN-TREATY-MONTREUX]."
-        },
-        {
-          "id": "hist-14-bulgaria-regional-multilateral",
-          "title": "14. The Bulgarian–Balkan Axis, Regional Bilateralism & Multilateral Alignments (1913–2026)",
-          "content": "Turkey's historical diplomacy across the Balkans, Eastern Mediterranean, Middle East, and Eurasia reflects a continuous balancing act between treaty-anchored sovereignty and regional connectivity [ZURCHER-2017, FINDLEY-2010].\n\n- **The Bulgarian & Balkan Axis (1913–2026):** The 1913 **Treaty of Constantinople** and the **1925 Ankara Treaty of Friendship** regulated borders and minority protections for Bulgaria's large ethnic Turkish population after five centuries of Ottoman Rumelia. During the Cold War, the 269-km Thracian border stood as NATO's southernmost frontier against the Warsaw Pact. In 1984–1989, Todor Zhivkov's communist regime launched the forced assimilation 'Revival Process' (*Văzroditelen protses*), banning Turkish names, language, and Islamic rites; when Turkey opened its border in June 1989, **over 360,000 Bulgarian Turks fled in the *Büyük Göç***—Europe's largest post-WWII refugee wave until the Yugoslav wars [BULGARIA-EXODUS-1989]. Post-1989 democratization restored minority rights, and today NATO allies Turkey and Bulgaria share Europe's busiest land customs gate (Kapıkule/Kapitan Andreevo) and BOTAŞ–Bulgargaz LNG interconnectors.\n- **Greece (Aegean & Cyprus):** Framed by the 1923 Lausanne equilibrium, bilateral ties weathered the 1955 Istanbul riots, the 1974 Cyprus intervention, and the 1996 Kardak/Imia crisis, with enduring disputes over Aegean territorial waters (6 vs. 12 nm), continental shelf, airspace, and island demilitarization, periodically tempered by détente such as the 2023 Athens Declaration [LAUSANNE-1923].\n- **Middle East & South Caucasus:** Relations with **Iran** rest on the remarkably stable 1639 Treaty of Zuhab (*Kasr-ı Şirin*) border; ties with **Syria and Iraq** center on Euphrates–Tigris transboundary water management, counter-PKK security (1998 Adana Accord), and post-2016 northern Syrian buffer zones. In the South Caucasus, the **2021 Shusha Declaration** codified Turkey's strategic alliance with Azerbaijan (*'One nation, two states'*) alongside cautious normalization talks with Armenia.\n- **Multilateral Anchors:** Anchored in **NATO (since 1952)**—hosting Allied Land Command (LANDCOM) in Izmir—bound to the **EU** via the 1963 Ankara Agreement and 1995 Customs Union, and founding architect of the **Organization of Turkic States (OTS)**, modern Turkey operates as a middle-power swing state at the crossroads of Europe, Eurasia, and the Middle East [FINDLEY-2010, ZURCHER-2017]."
+          "id": "hist-8-dependency-jassy",
+          "title": "8. Foreign Dependency, Provincial Separatism & Russian Victories (1730s–1792)",
+          "content": "From the 1730s–1740s, the Ottoman Empire became economically and diplomatically subordinate to Western European powers, fractured internally under provincial *ayan* and *derebey* warlords, and suffered decisive military defeats by Russia [NOVICHEV-1963, Ch. X, pp. 209–224; Ch. XI, pp. 226–245].\n\n- **Economic Subordination & Çiftlik Spread:** Granted 'eternal' capitulations in **1740** (3% customs, immunity from internal duties vs. 10% for Ottoman merchants), France dominated Levant trade, turning the empire into a raw-material exporter and European manufactured-goods importer [NOVICHEV-1963, Ch. X, pp. 211–214]. Rural *mukataa* tax-farming and urban capital flowed into private *çiftlik* estates, while only 8,356 *timars* remained by Selim III's reign [NOVICHEV-1963, Ch. X, pp. 218–220].\n- **Provincial Warlords & Military Decay:** Regional *derebeys* (Çapanoğulları, Karaosmanoğulları) and Balkan *ayans* (Ali Pasha of Yanina, Tirsenikli) defied Istanbul, while only ~25% of the 75,000 salaried Janissaries and <10% of *kapıkulu* cavalry reported for the 1768 war; early European-style reforms by **Bonneval** (1730s–1740s), **Baron de Tott** (1768–1774), and **Halil Hamid Pasha** (executed 1785) were blocked by conservatives [NOVICHEV-1963, Ch. X, pp. 220–224; Ch. XI, pp. 238–240].\n- **Russo-Turkish Wars & Treaties of Küçük Kaynarca (1774) and Jassy (1792):** After Russian victories at Larga, Kagul, and **Çeşme** (July 7, 1770) and Suvorov's rout at Kozludzha (1774), the **Treaty of Küçük Kaynarca** (July 21, 1774) recognized Crimean independence, ceded Kerch, Yenikale, Azov, and Kinburn to Russia, opened the Black Sea and Straits to Russian merchant ships, imposed a 7.5-million-*kuruş* indemnity, and granted Russia protective claims over Ottoman Orthodox Christians [NOVICHEV-1963, Ch. XI, pp. 228–235]. Following Russia's annexation of Crimea (1783) and renewed war (1787–1791; victories at Rymnik and Izmail), the **Treaty of Jassy** (January 9, 1792) fixed the Russian-Ottoman border at the Dniester [NOVICHEV-1963, Ch. XI, pp. 241–245].\n- **Late-Feudal Culture & First Turkish Press (1729):** Despite French-influenced 'Tulip Era' architecture and baroque hybrids, literature shifted toward didacticism and satire (**Nabi**, **Sabit**, **Nedim**, **Süruri**), while **İbrahim Müteferrika** and **Said Mehmed Efendi** established the first Ottoman Turkish printing press in Istanbul in **1729** (printing 17 titles in 23 volumes before 1744) [NOVICHEV-1963, Ch. XII, pp. 247–253]."
         }
       ],
       "infographics": [
         {
           "type": "stat-grid",
-          "id": "hist-macro-benchmarks",
-          "title": "Historical Macro-Benchmarks: Ottoman Empire to Modern Republic (1566–2026)",
+          "id": "novichev-feudal-benchmarks",
+          "title": "Seljuk & Ottoman Feudal Statehood: Key Quantitative Benchmarks (1071–1792)",
           "data": [
             {
-              "value": "~5.2M km²",
-              "label": "Ottoman Territorial Zenith",
-              "sub": "Peak imperial expanse (16th–17th c.) across 3 continents [INALCIK-1973]"
+              "value": "6M km²",
+              "label": "16th-Century Imperial Territory",
+              "sub": "Peak expanse across 3 continents; ~25M population by late 16th c. [Ch. IV, p. 98]"
             },
             {
-              "value": "783,562 km²",
-              "label": "Lausanne Sovereign Territory",
-              "sub": "Modern borders codified 1923 (+ Hatay 1939) [LAUSANNE-1923]"
+              "value": "10,000 → 41,171",
+              "label": "Timar & Zeamet Fragmentation",
+              "sub": "Fiefs under Bayezid II (late 15th c.) vs. Ayni Ali's 1607 survey [Ch. III, p. 56; Ch. V, p. 115]"
             },
             {
-              "value": "13.6M → 85.4M",
-              "label": "Republican Population Growth",
-              "sub": "1927 first census vs. 2024 ABPRS total [TUIK-2024-POP]"
+              "value": "98K → 700K",
+              "label": "Istanbul Population Surge",
+              "sub": "1478 census vs. 1571–1580 (+75% over 1520s), driven by peasant flight [Ch. IV, p. 104; Ch. VI, p. 142]"
             },
             {
-              "value": "10.6% → 97.6%",
-              "label": "National Literacy Transformation",
-              "sub": "1927 pre-Latin-script baseline vs. 2024 adult literacy [TUIK-2024-POP]"
+              "value": "35 → 220 Akçe",
+              "label": "Silver Akçe Debasement (1548–1605)",
+              "sub": "Official rate per gold coin; silver content fell 3–4x in 16th c. [Ch. V, pp. 119, 122]"
             },
             {
-              "value": "10M+ Gold Rubles",
-              "label": "1921 Soviet Financial & Arms Aid",
-              "sub": "Treaty of Moscow support for War of Independence [MOSCOW-TREATY-1921]"
+              "value": "48,316 → 91,202",
+              "label": "Kapıkulu Regulars Expansion",
+              "sub": "1566 to 1609 (payrolls rose 126.4M to 310.8M akçe) as timars decayed [Ch. VI, p. 155]"
             },
             {
-              "value": "360,000+",
-              "label": "1989 Büyük Göç Refugees",
-              "sub": "Bulgarian Turks absorbed within 90 days [BULGARIA-EXODUS-1989]"
+              "value": "200,000+",
+              "label": "Celali Insurgents (1603–1609)",
+              "sub": "Peasant & nomad fighters across Anatolia; 65K–100K+ killed in suppression [Ch. V, pp. 131, 134]"
             },
             {
-              "value": "1952",
-              "label": "NATO Accession Year",
-              "sub": "Southeastern flank anchor following 1947 Truman Doctrine [ZURCHER-2017]"
+              "value": "3% vs. 10%",
+              "label": "1740 Capitulatory Tariff Gap",
+              "sub": "French merchants paid 3% duty (no internal tolls) vs. 10% for Ottomans [Ch. X, p. 212]"
             },
             {
-              "value": ">80%",
-              "label": "Indigenous Defense Ratio (2024)",
-              "sub": "Post-2016 defense industrial autonomy milestone [SIPRI-2024-MLX]"
+              "value": "7.5M Kuruş",
+              "label": "1774 Küçük Kaynarca Indemnity",
+              "sub": "Equivalent to 4.5M rubles paid to Russia over 3 years [Ch. XI, p. 233]"
             }
           ]
         },
         {
           "type": "timeline",
-          "id": "hist-ottoman-timeline",
-          "title": "Ottoman Imperial, Structural & Constitutional Chronology (1071–1922)",
+          "id": "novichev-feudal-timeline",
+          "title": "From Seljuk Anatolia to the Treaty of Jassy (1071–1792)",
           "items": [
             {
               "year": "1071",
-              "event": "Battle of Manzikert (Malazgirt): Seljuk Sultan Alp Arslan defeats Byzantium, opening Anatolia to Turkic settlement."
+              "event": "Battle of Manzikert: Seljuk Sultan Alp Arslan defeats Byzantium, opening Anatolia to Oghuz settlement [Ch. I, p. 7]."
+            },
+            {
+              "year": "1239",
+              "event": "Baba Ishak uprising: First major anti-feudal peasant-nomad revolt in Seljuk Anatolia [Ch. I, pp. 17–18]."
             },
             {
               "year": "1243",
-              "event": "Battle of Köse Dağ: Mongol victory fragments Seljuk Anatolia into autonomous Ghazi Beyliks."
+              "event": "Battle of Köse Dağ (July 1): Mongols rout Seljuk forces, imposing vassalage and tripling taxes [Ch. I, pp. 19–21]."
             },
             {
               "year": "1299",
-              "event": "Traditional foundation of the Ottoman Beylik under Osman I in Söğüt (Bithynia)."
+              "event": "Conventional founding of the independent Ottoman state by Osman I amid Seljuk collapse into 12 beyliks [Ch. I, p. 24; Ch. II, p. 28]."
+            },
+            {
+              "year": "1402",
+              "event": "Battle of Ankara (July 28): Timur defeats and captures Bayezid I, sparking an 11-year civil war [Ch. II, pp. 36–37]."
+            },
+            {
+              "year": "1416",
+              "event": "Sheikh Bedreddin, Börklüce Mustafa, and Torlak Kemal lead a major egalitarian peasant revolt in western Anatolia and Rumelia [Ch. II, pp. 38–40]."
             },
             {
               "year": "1453",
-              "event": "Mehmed II (Fatih) conquers Constantinople (May 29), transforming the realm into a Eurasian empire."
+              "event": "Conquest of Constantinople (May 29): Mehmed II ends Byzantium, establishes the imperial capital, and codifies land/tax law [Ch. III, pp. 46–47, 57]."
             },
             {
-              "year": "1517",
-              "event": "Selim I defeats the Mamluks, integrating Syria, Egypt, and the Hejaz and assuming the Caliphate."
+              "year": "1514–1517",
+              "event": "Selim I defeats Safavids at Chaldiran (1514) and Mamluks at Marj Dabiq (1516) and Cairo (1517), doubling imperial territory [Ch. IV, pp. 82–83]."
             },
             {
-              "year": "1526–1566",
-              "event": "Reign of Suleiman the Magnificent: Mohács victory, codification of Kanunname, classical Timar & Millet zenith."
+              "year": "1526–1529",
+              "event": "Suleiman I wins at Mohács (1526) and vassalizes Hungary, but fails at the First Siege of Vienna (1529) [Ch. IV, pp. 87–88]."
             },
             {
-              "year": "1699",
-              "event": "Treaty of Karlowitz: First major Ottoman territorial cession in Europe after the 1683 Siege of Vienna."
+              "year": "1535",
+              "event": "Franco-Ottoman 'Treaty of Peace, Friendship, and Trade' grants France foundational capitulatory privileges [Ch. IV, pp. 95–96]."
+            },
+            {
+              "year": "1595–1609",
+              "event": "The 'Celali Troubles' engulf Anatolia; suppressed by Kuyucu Murad Pasha, followed by the 1609 Adaletname [Ch. V, pp. 127–134]."
+            },
+            {
+              "year": "1683–1699",
+              "event": "Defeat at Vienna (1683) and Holy League war end in the Treaty of Karlowitz (Jan 26, 1699), ceding Hungary and Podolia [Ch. VIII, pp. 186–190]."
+            },
+            {
+              "year": "1729–1730",
+              "event": "İbrahim Müteferrika opens the first Turkish printing press (1729); Patrona Halil's urban-Janissary revolt deposes Ahmed III (1730) [Ch. IX, pp. 201–204; Ch. XII, p. 253]."
             },
             {
               "year": "1774",
-              "event": "Treaty of Küçük Kaynarca with Russia inaugurates the 'Eastern Question' and Black Sea loss."
+              "event": "Treaty of Küçük Kaynarca (July 21): Russia secures Black Sea/Straits navigation, Crimean independence, and Orthodox protective claims [Ch. XI, p. 233]."
             },
             {
-              "year": "1808",
-              "event": "Sened-i İttifak (Charter of Alliance) signed between Sultan Mahmud II and provincial Ayan notables."
-            },
-            {
-              "year": "1826",
-              "event": "Auspicious Incident (Vak'a-i Hayriye): Mahmud II abolishes the Janissary corps and centralizes ministries."
-            },
-            {
-              "year": "1839 & 1856",
-              "event": "Tanzimat Edicts of Gülhane and Islahat proclaim legal equality of all subjects and secular Nizamiye courts."
-            },
-            {
-              "year": "1876",
-              "event": "Promulgation of Kanûn-ı Esâsî (First Ottoman Constitution) by Midhat Pasha under Abdulhamid II."
-            },
-            {
-              "year": "1908",
-              "event": "Young Turk Revolution (CUP) restores constitutionalism; 1909 amendments establish parliamentary supremacy."
-            },
-            {
-              "year": "1912–1913",
-              "event": "Balkan Wars strip nearly all European provinces, triggering mass Muslim refugee flows into Anatolia."
-            },
-            {
-              "year": "1915",
-              "event": "Gallipoli Victory (Çanakkale) halts Allied naval breakthrough; wartime Armenian deportations enacted."
-            },
-            {
-              "year": "1920–1922",
-              "event": "Treaty of Sèvres (1920) rejected by Ankara; TBMM abolishes the 623-year Ottoman Sultanate (Nov 1, 1922)."
-            }
-          ]
-        },
-        {
-          "type": "timeline",
-          "id": "hist-republican-timeline",
-          "title": "Modern Republic, Diplomatic & Constitutional Milestones (1919–2026)",
-          "items": [
-            {
-              "year": "1919",
-              "event": "Mustafa Kemal lands in Samsun (May 19); Erzurum and Sivas Congresses unify national resistance."
-            },
-            {
-              "year": "1920",
-              "event": "Misak-ı Millî adopted; Grand National Assembly (TBMM) inaugurated in Ankara (April 23)."
-            },
-            {
-              "year": "1921",
-              "event": "Treaties of Moscow and Kars signed with Soviet Russia; Battle of Sakarya halts Greek advance."
-            },
-            {
-              "year": "1923",
-              "event": "Treaty of Lausanne signed (July 24); Republic of Turkey proclaimed (Oct 29) with Atatürk as President."
-            },
-            {
-              "year": "1924–1934",
-              "event": "Caliphate abolished (1924); Swiss Civil Code (1926); Latin alphabet (1928); Women's suffrage (1934)."
-            },
-            {
-              "year": "1936",
-              "event": "Montreux Convention restores full Turkish sovereignty and militarization over the Bosphorus and Dardanelles."
-            },
-            {
-              "year": "1945–1952",
-              "event": "Stalin demands Straits bases & Kars/Ardahan (1945); Multi-party DP victory (1950); NATO accession (1952)."
-            },
-            {
-              "year": "1960–1962",
-              "event": "1960 Military Coup & liberal 1961 Constitution; Cuban Missile Crisis withdraws US Jupiter missiles from Izmir."
-            },
-            {
-              "year": "1974",
-              "event": "Cyprus Peace Operation executed by Ecevit government under the 1960 Treaty of Guarantee."
-            },
-            {
-              "year": "1980–1982",
-              "event": "September 12 Military Coup; 1982 Constitution enacted; Özal's Jan 24 market reforms open export era."
-            },
-            {
-              "year": "1989",
-              "event": "Büyük Göç: Over 360,000 Bulgarian Turks flee Zhivkov's forced assimilation into Turkey."
-            },
-            {
-              "year": "1995–1999",
-              "event": "EU–Turkey Customs Union enters force (1995); 1997 post-modern coup; EU Helsinki candidacy (1999)."
-            },
-            {
-              "year": "2002–2005",
-              "event": "AKP wins parliamentary majority (2002); formal EU accession negotiations open (2005)."
-            },
-            {
-              "year": "2016–2017",
-              "event": "July 15 coup attempt defeated (2016); 2017 referendum transitions Turkey to Executive Presidency."
-            },
-            {
-              "year": "2020–2021",
-              "event": "TurkStream inaugurated (2020); Shusha Declaration with Azerbaijan (2021)."
-            },
-            {
-              "year": "2022–2026",
-              "event": "Montreux Article 19 Straits closure in Russia-Ukraine War; 2023 Centennial & regional defense/energy pivot."
+              "year": "1792",
+              "event": "Treaty of Jassy (Jan 9) ends the 1787–1791 war, fixing the Russian-Ottoman border at the Dniester River [Ch. XI, p. 245]."
             }
           ]
         },
         {
           "type": "comparison-table",
-          "id": "hist-charters-matrix",
-          "title": "Evolution of Ottoman & Turkish Constitutional and Reform Charters (1808–2017)",
+          "id": "novichev-land-tenure-matrix",
+          "title": "Ottoman Land-Tenure Categories & Social Obligations (15th–18th Centuries)",
           "headers": [
-            "Charter / Reform",
-            "Year",
-            "Historical Context",
-            "Core Institutional & Legal Shift",
-            "Primary Source"
+            "Category",
+            "Legal Status & Holder",
+            "Income / Size Benchmark",
+            "Military & Fiscal Obligations"
           ],
           "rows": [
             [
-              "Sened-i İttifak",
-              "1808",
-              "Alemdar Mustafa Pasha & provincial Ayans",
-              "Mutual pledge limiting absolute sultanic arbitrariness; proto-constitutional pact",
-              "ORTAYLI-1983"
+              "Hass",
+              "State land (arz-i miri) for Sultan, dynasty, viziers, and beylerbeys",
+              "≥100,000 akçe (Grand Vizier: 1.2M akçe in 1477)",
+              "1 armed retainer (cebeli) per 5,000 akçe; full tax & administrative immunity [Ch. III, pp. 54–55]"
             ],
             [
-              "Gülhane Hatt-ı Hümâyunu",
-              "1839",
-              "Beginning of Tanzimat under Abdülmecid I",
-              "Guaranteed life, honor, property; regular tax/conscription regardless of faith",
-              "FINDLEY-2010"
+              "Zeamet",
+              "Medium conditional fief held by higher military-administrative officers (zaims)",
+              "20,000–99,999 akçe (often a town + villages)",
+              "1 cebeli per 5,000 akçe; enjoyed tax/admin immunity ('free timar') [Ch. III, pp. 54–55]"
             ],
             [
-              "Kanûn-ı Esâsî",
-              "1876 / 1909",
-              "First Constitutional Era / Young Turk restoration",
-              "First written Ottoman constitution; bicameral parliament; 1909 legislative supremacy",
-              "HANIOGLU-2008"
+              "Timar",
+              "Small conditional fief held by provincial cavalry (sipahis)",
+              "Typically 3,000–10,000 akçe (up to 20,000); 1–3 villages",
+              "Personal service + 1 cebeli per 3,000 akçe; lacked full immunity [Ch. III, pp. 54–55]"
             ],
             [
-              "Teşkilât-ı Esâsîye",
-              "1921",
-              "Turkish War of Independence (Ankara TBMM)",
-              "Proclaimed 'Sovereignty unconditionally belongs to the Nation'; assembly government",
-              "TBMM-CONST-1982"
+              "Vakf",
+              "Inalienable religious/charitable endowment managed by mütevellis",
+              "Varied (Süleymaniye mosque: 44 villages, 440,138 akçe)",
+              "Exempt from state interference; peasants often faced heavier dues than on miri land [Ch. III, pp. 55, 59; Ch. IV, p. 102]"
             ],
             [
-              "Republican Constitution",
-              "1924",
-              "Post-Lausanne Republic under Atatürk",
-              "Abolished Islam as state religion (1928); added Six Arrows (1937)",
-              "LEWIS-2002"
-            ],
-            [
-              "1961 Constitution",
-              "1961",
-              "Post-1960 Coup democratic-tutelary settlement",
-              "Created Constitutional Court (AYM), bicameralism, civil liberties & MGK",
-              "AHMAD-1993"
-            ],
-            [
-              "1982 Constitution",
-              "1982",
-              "Post-1980 Coup security-oriented charter",
-              "Strong presidency, 10% threshold, entrenched unamendable Articles 1–3",
-              "TBMM-CONST-1982"
-            ],
-            [
-              "2017 Constitutional Overhaul",
-              "2017",
-              "Post-2016 Executive Presidency referendum",
-              "Abolished Prime Ministry; presidential decree power; 600-seat TBMM",
-              "TBMM-CONST-1982"
+              "Mülk / Çiftlik",
+              "Unconditional private property (later commercial estates via usury/purchase)",
+              "Up to dozens of villages; commercialized in 17th–18th c.",
+              "Up to 1/5 harvest rent in mülks; late-18th c. çiftliks used wage labor (ırgat) [Ch. III, pp. 56, 59; Ch. V, p. 125; Ch. X, p. 220]"
             ]
           ]
         },
         {
           "type": "comparison-table",
-          "id": "hist-treaties-matrix",
-          "title": "Comprehensive Matrix of Sovereign Treaties, Boundaries & Strategic Accords (1639–2021)",
+          "id": "novichev-treaties-matrix",
+          "title": "From Imperial Supremacy to Retreat: Key Treaties (1479–1792)",
           "headers": [
-            "Instrument",
-            "Date Signed",
-            "Counterparties",
-            "Territorial & Sovereign Terms",
-            "Archival Reference"
+            "Treaty & Date",
+            "Belligerents",
+            "Territorial & Diplomatic Terms",
+            "Historical Significance"
           ],
           "rows": [
             [
-              "Treaty of Zuhab (Kasr-ı Şirin)",
-              "17 May 1639",
-              "Ottoman Empire & Safavid Iran",
-              "Fixed Anatolian-Iranian frontier; Iraq to Ottomans, Yerevan to Safavids",
-              "INALCIK-1973"
+              "Constantinople (Jan 26, 1479)",
+              "Ottoman Empire vs. Venice",
+              "Venice cedes Aegean islands, pays 100K ducats + 10K/yr; gains bailo court & duty-free trade",
+              "Early template for foreign capitulations [Ch. III, p. 50]"
             ],
             [
-              "Treaty of Karlowitz",
-              "26 Jan 1699",
-              "Ottoman Empire & Holy League",
-              "First major European territorial loss (Hungary, Transylvania, Podolia)",
-              "FAROQHI-1994"
+              "Amasya (May 29, 1555)",
+              "Ottoman Empire vs. Safavid Iran",
+              "Iraq (Baghdad) to Ottomans; Azerbaijan to Iran; Georgia & Armenia partitioned",
+              "First formal partition of South Caucasus [Ch. IV, p. 91]"
             ],
             [
-              "Treaty of Küçük Kaynarca",
-              "21 Jul 1774",
-              "Ottoman Empire & Russian Empire",
-              "Crimean vassalage ended; Russian Black Sea access & Orthodox protectorate claim",
-              "MEYER-1991"
+              "Zsitvatorok (Nov 11, 1606)",
+              "Ottoman Empire vs. Habsburg Austria",
+              "Status quo borders; 200K ducat lump sum ends 30K/yr Austrian tribute; Habsburg called 'Emperor'",
+              "First diplomatic acknowledgment of Ottoman parity/decline [Ch. V, p. 140]"
             ],
             [
-              "Treaty of Constantinople",
-              "29 Sep 1913",
-              "Ottoman Empire & Kingdom of Bulgaria",
-              "Delimited Eastern Thrace border; guaranteed Bulgarian Turkish minority rights",
-              "BULGARIA-EXODUS-1989"
+              "Karlowitz (Jan 26, 1699)",
+              "Ottoman Empire vs. Holy League",
+              "Hungary & Transylvania to Austria; Podolia to Poland; Morea to Venice",
+              "First major territorial partition of Ottoman Europe [Ch. VIII, p. 190]"
             ],
             [
-              "Treaty of Sèvres (Unratified)",
-              "10 Aug 1920",
-              "Allied Powers & Istanbul Govt",
-              "Partitioned Anatolia into Allied zones; nullified by War of Independence",
-              "LAUSANNE-1923"
+              "Küçük Kaynarca (July 21, 1774)",
+              "Ottoman Empire vs. Russian Empire",
+              "Crimea independent; Azov/Kerch/Kinburn to Russia; Black Sea/Straits trade; 7.5M kuruş indemnity",
+              "Turning point: Russia becomes Black Sea power & Orthodox protector [Ch. XI, pp. 233–235]"
             ],
             [
-              "Treaty of Moscow",
-              "16 Mar 1921",
-              "TBMM Govt & RSFSR (Bolshevik Russia)",
-              "Annulled Sèvres; Soviet gold/arms aid; recognized Ankara TBMM",
-              "MOSCOW-TREATY-1921"
-            ],
-            [
-              "Treaty of Kars",
-              "13 Oct 1921",
-              "TBMM & Transcaucasian SSRs",
-              "Fixed northeastern boundary (Kars, Ardahan, Artvin to Turkey; Batumi to Georgia)",
-              "KARS-TREATY-1921"
-            ],
-            [
-              "Treaty of Lausanne",
-              "24 Jul 1923",
-              "TBMM Govt & Allied Powers",
-              "Sovereign international recognition of Republic of Turkey; ended capitulations",
-              "LAUSANNE-1923"
-            ],
-            [
-              "Montreux Convention",
-              "20 Jul 1936",
-              "Turkey & 9 Signatory Powers",
-              "Restored Turkish military control over Straits; regulates warship transit",
-              "UN-TREATY-MONTREUX"
-            ],
-            [
-              "Shusha Declaration",
-              "15 Jun 2021",
-              "Republic of Turkey & Azerbaijan",
-              "Codified bilateral military-strategic alliance and regional corridor cooperation",
-              "SIPRI-2024-MLX"
+              "Jassy (Jan 9, 1792)",
+              "Ottoman Empire vs. Russian Empire",
+              "Dniester border; Ochakov to Russia; Ottoman renunciation of claims in Georgia",
+              "Confirms Ottoman military inferiority vs. Russia [Ch. XI, p. 245]"
             ]
           ]
         },
         {
           "type": "organogram",
-          "id": "hist-ottoman-governance-organo",
-          "title": "Classical Ottoman Imperial Governance & Administrative Pillars (16th Century)",
+          "id": "novichev-ottoman-state-organogram",
+          "title": "Classical Ottoman Central & Provincial Apparatus (15th–16th Centuries)",
           "nodes": [
             {
-              "title": "Sultan & Caliph (Padişah)",
-              "sub": "Supreme Sovereign, Commander-in-Chief & Custodian of Two Holy Mosques",
+              "title": "Sultan (Padishah / Emir ül-Müminin)",
+              "sub": "Absolute monarch, supreme military commander, and Sunni caliph [Ch. III, p. 64]",
               "type": "primary"
             },
             {
-              "title": "Divan-ı Hümayun (Imperial Council)",
-              "sub": "Chaired by Grand Vizier (Sadrazam); supreme executive, legislative & appellate body",
+              "title": "Central Divan ('Four Pillars' / Erkân-ı Devlet)",
+              "sub": "Grand Vizier (Vezir-i Azam), Kazaskers (Rumelia & Anatolia), Başdefterdar (Treasury), and Nişancı (Kanun & Tuğra) [Ch. III, pp. 65–66]",
               "type": "executive"
             },
             {
-              "title": "Seyfiye (Military-Executive)",
-              "sub": "Kapıkulu Janissaries, Sipahi Cavalry, Beylerbeyi & Sancakbeyi governors",
+              "title": "Provincial Administration (Eyalets & Sancaks)",
+              "sub": "Beylerbeys & Sancakbeys governing 21 eyalets and 250 sancaks (mid-16th c.) [Ch. III, p. 65; Ch. IV, p. 99]",
               "type": "branch"
             },
             {
-              "title": "İlmiye (Judicial-Religious)",
-              "sub": "Şeyhülislâm, Kazaskers, Kadıs (Şeriat & Kanun courts), Madrasa scholars",
+              "title": "Kapıkulu (Salaried Standing Forces)",
+              "sub": "Janissaries (yeniçeri via devşirme), cebeci armorers, topçu artillery, and 6 bölük palace cavalry [Ch. III, pp. 74–75]",
               "type": "branch"
             },
             {
-              "title": "Kalemiye (Scribal Bureaucracy)",
-              "sub": "Nişancı (imperial seal/kanun), Defterdar (treasury), Reisülküttab (foreign affairs)",
+              "title": "Eyalet Askeri & Naval Forces",
+              "sub": "Sipahi timariots/zaims with cebeli retainers, akıncı raiders, azabs, and Kapudan Pasha's Gallipoli fleet [Ch. III, pp. 75–77]",
               "type": "branch"
             },
             {
               "title": "Reaya & Autonomous Millets",
-              "sub": "Tax-paying Muslim peasantry/artisans + Orthodox (Rûm), Armenian & Jewish Millets",
-              "type": "local"
-            }
-          ]
-        },
-        {
-          "type": "organogram",
-          "id": "hist-republican-evolution-organo",
-          "title": "Modern Republican Institutional & Geopolitical Evolution (1923–2026)",
-          "nodes": [
-            {
-              "title": "Grand National Assembly (TBMM, 1920)",
-              "sub": "Constituent source of unconditional national sovereignty & republican legitimacy",
-              "type": "primary"
-            },
-            {
-              "title": "Kemalist Revolution & Six Arrows (1923–1946)",
-              "sub": "Secular Civil Code, Latin Alphabet, Diyanet, Etatism & Lausanne/Montreux sovereignty",
-              "type": "executive"
-            },
-            {
-              "title": "Multi-Party & Cold War Anchor (1946–1991)",
-              "sub": "1950 DP transition, 1952 NATO accession, 1961/1982 Constitutions, Özal market liberalization",
-              "type": "branch"
-            },
-            {
-              "title": "21st-Century Executive Presidency (2017–2026)",
-              "sub": "Cumhurbaşkanlığı Hükümet Sistemi, >80% indigenous defense & multi-vector diplomacy",
+              "sub": "Tax-paying Muslim peasantry/artisans plus Rum (Orthodox), Ermeni (Armenian), and Yahudi (Jewish) millets [Ch. III, pp. 58, 72–73]",
               "type": "local"
             }
           ]
